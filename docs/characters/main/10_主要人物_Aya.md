@@ -365,6 +365,8 @@ Aya的默认状态应当年轻、热情、坦率、具有专业知识，但不�
 **台词：**
 
 > “Scipio？嘿，别听那个。你很快就会得到答案和帮助！但现在，你只需要醒来——这是一场梦……”
+>
+> "Scipio? Hey, don't listen to that. You'll get answers and help very soon! But right now you just need to wake up, this is a dream..."
 
 ### 2. 借Scipio给Neferu传话
 
@@ -374,9 +376,13 @@ Aya的默认状态应当年轻、热情、坦率、具有专业知识，但不�
 
 **台词：**
 
-> “好了！Scipio，对Neferu说：`nettek aum hotep akh`。”
+> “好了！Scipio，对Neferu说：‘nettek aum hotep akh。’”
+>
+> "There we go! Scipio, say this to Neferu; 'nettek aum hotep akh.'"
 >
 > “告诉他，别再像一个被宠坏的王子那样闹别扭，好好和你沟通。这很重要。他会明白的。”
+>
+> "Tell him to stop sulking like a spoiled prince and to communicate with you. This is important. He'll understand."
 
 ### 3. 重逢Neferu
 
@@ -388,9 +394,19 @@ Aya的默认状态应当年轻、热情、坦率、具有专业知识，但不�
 
 > “Neferu！你终于回来了，真好！”
 >
-> “你告诉父亲，说那座皇宫发生了那些事以后仍想留下，我当时真的很难过。”
+> "Neferu! It's so good to have you back!"
 >
-> “我明白。现在，快把你的朋友介绍给我！”
+> “是啊，你告诉父亲说，那座皇宫发生了那些事之后你仍想留下，我当时真的很难过。”
+>
+> "Yeah, I was so upset when you told Father you wanted to stay after what happened at that palace."
+>
+> “我明白。”
+>
+> "I understand."
+>
+> “现在，请把你的朋友介绍给我！”
+>
+> "Now please introduce me to your friend!"
 
 ### 4. 第一次实体接触Scipio
 
@@ -402,9 +418,15 @@ Aya的默认状态应当年轻、热情、坦率、具有专业知识，但不�
 
 > “很高兴见到你，Scipio。不过，我想我们其实已经见过，只是没有这么正式。”
 >
-> “不用道歉。这不是Khemia常见的问候。”
+> "It's a pleasure meeting you Scipio. I think we've already met, though not as formally."
 >
-> “当然可以问，但要等到我们拥有更多隐私的时候。”
+> “不用道歉。这不是常规问候。”
+>
+> "Don't be sorry. This isn't a typical greeting."
+>
+> “当然可以，不过要等到更私密的时候。”
+>
+> "Of course, but it will have to wait until we have more privacy."
 
 ### 5. 反击“疯癫”暗示
 
@@ -416,7 +438,11 @@ Aya的默认状态应当年轻、热情、坦率、具有专业知识，但不�
 
 > “我的什么，Neferu？我的巫术？我的想象？还是你也觉得我是个精神分裂症患者，家庭只是在努力把真相藏起来？”
 >
+> "My what, Neferu? My witchcraft? My imagination? Do you also think I'm a schizophrenic our family is just trying to disguise?"
+>
 > “最近最流行的是最后一种。不过，当我的职位必须如此保密，这种结果也很自然。”
+>
+> "It's the latest one, but it's a natural consequence to the secrecy of my role."
 
 Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
@@ -428,11 +454,17 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 **台词：**
 
-> “这太令人兴奋了！抱歉，如果我听起来像疯了一样。可我一直被留在皇宫里，只有Ramoses在旁边，还试图和我随便聊天……”
+> “这太令人兴奋了！抱歉，我听起来可能像疯了。不过，待在皇宫里，身边只有Ramoses，还得听他试着跟我闲聊……”
+>
+> "This is so exciting! Sorry if I'm sounding insane, but being in the palace with only Ramoses around, trying to make casual conversation with me..."
 >
 > “那多少算是一场噩梦。”
 >
+> "It's a bit of a nightmare."
+>
 > “也许是因为他也没人说话。父亲不在星球上，Henut又在Amadun训练。Ramoses以前总有人引导他，但那个人绝对不会是我。”
+>
+> "It's probably because he has no one to talk to either, with father off-planet and Henut training in Amadun. Ramoses has always had someone to guide him, but that's definitely not going to be me."
 
 ### 7. 家庭秘密被Neferu随口泄露
 
@@ -442,9 +474,21 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 **台词：**
 
-> “Neferu！你不能把我告诉你的敏感家庭秘密随便说出去。你会让我惹上麻烦的！”
+> “Neferu！”
 >
-> “幸好这次对象可以信任。”
+> "Neferu!"
+>
+> “你不能把我告诉你的敏感家庭秘密随便说出去。你会让我惹上麻烦的！”
+>
+> "You can't just share sensitive family secrets that I tell you. You're going to get me in trouble!"
+>
+> Neferu：“放松，Aya。我们可以信任Skip。”
+>
+> *"Relax, Aya. We can trust Skip."*
+>
+> “幸好。”
+>
+> "Luckily."
 
 ### 8. 一眼把两人的关系说破
 
@@ -456,7 +500,11 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 > “我就知道。Neferu，你为什么不直接告诉我他是你的男朋友？我一下就看出来了。”
 >
+> "I knew it. Neferu, why didn't you just tell me he's your boyfriend? I could tell right away."
+>
 > “哦，对不起。我真是太Khemian了。不论你们究竟是什么关系，这对你很好，Neferu。”
+>
+> "Oh, sorry. I'm such a Khemian. Whatever you guys are, it's good for you, Neferu."
 
 ### 9. 给Scipio真正的退出权
 
@@ -466,13 +514,29 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 **台词：**
 
-> “你对这件事可能是什么，有任何想法吗，Scipio？”
+> “好吧，Scipio，你知道这件事可能是关于什么的吗？”
 >
-> “你拥有某种一直未被发现的特殊能力。大多数时候都会如此，只是Khemia最近才有能力测量、识别它。”
+> "Okay, do you have any idea what this might be about, Scipio?"
 >
-> “最重要的问题是：你想知道更多，还是希望到此为止？”
+> “确实和那有关，但远不止如此。Scipio，你拥有某些一直未被发现的特殊能力。”
 >
-> “它并不危险，可你似乎正在经历与这种能力有关的负面事件。我想先给你退出的机会。”
+> "It does, yes, but much, much more than that. Scipio, you have specific abilities that have gone undetected until now."
+>
+> “通常就是这样，不过Khemia最近已经具备了测量和识别这种能力的手段。”
+>
+> "This is usually the case, but Khemia has recently achieved the ability to measure and detect it."
+>
+> “非常重要。但我最想问的是：你想进一步了解，还是希望到此为止？虽然它并不危险，可你似乎正在经历与这种能力有关的负面体验。”
+>
+> "Very. But the most important question I have is if you want to learn more, or leave it at that. While it's not dangerous, it seems you're having negative experiences related to this ability."
+>
+> “我只想提醒你：有时这种体验会非常强烈，外部力量也可能趁机利用它。”
+>
+> "I just want to warn that sometimes the experience can be intense and outside forces may take advantage of this."
+>
+> “我知道这一切听起来很混乱，但有几条规则必须遵守：这扇门后发生的事，除我之外不能告诉任何人。我只是想提前警告你，也给你一次退出的机会。”
+>
+> "I know this all sounds very confusing, but there are a few rules that must be followed so what happens beyond this door cannot be discussed with anyone except me. I just want to forewarn you and give you a chance to back out."
 
 ### 10. 为接触室立誓
 
@@ -484,7 +548,11 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 > “以我家系中的王室血脉与Amalgamation的海洋为誓，这个房间中说出的一切都将被封存。”
 >
+> "By the royal blood of my family line, and the ocean of the Amalgamation, the words spoken in this room are sealed."
+>
 > “现在，你也重复一段意思相近的话就好。”
+>
+> "Now go ahead and repeat something along those lines."
 
 ### 11. 正式说明第83任sakhaet的身份
 
@@ -494,11 +562,17 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 **台词：**
 
-> “好，那么开始吧。我是Khemia现任`sakhaet`，也是Ahhotep完成统一之后这条漫长传承中的第83任。”
+> “好，那么开始吧。我是Khemia现任sakhaet，也是Ahhotep完成统一之后这条漫长传承中的第83任。”
+>
+> "Alright, so here we go. I am the current sakhaet of Khemia, the 83rd in a long line post-Ahhotep's Unification."
 >
 > “我的主要职责从十五岁那年开始：与Parents沟通。”
 >
+> "My main purpose, which began in my fifteenth year, is to communicate with the Parents."
+>
 > “没错。不过，我并不通过语言与祂们交流，而是通过感受和指引。”
+>
+> "That's true, however, I don't communicate with them through words, but rather through feelings and guidance."
 
 ### 12. 解释自身方法与Monitors的差别
 
@@ -510,11 +584,19 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 > “Monitors当然可以，而且祂们做得远比我好；但祂们的方法完全受Parents控制，也必须得到Parents授权。我的方法则允许更直接、更迅速的沟通。”
 >
+> "They can, and they're far better at it, but their methods are fully controlled and authorized by the Parents. This method allows for more direct and quick communication."
+>
 > “有趣之处就在这里。祂们不会同我说话，甚至不会承认我的存在；可在一定程度上，我能感觉到祂们的动机或情绪。那仍算某种沟通，只是很难描述。”
+>
+> "So that's where it gets really interesting. While they don't talk to me, or even acknowledge me, I can feel their motives or emotions to an extent. There is still communication to some extent, but it's hard to describe."
 >
 > “把那些东西拼合成完整含义会很困难，但它一直是整个Khemian文明的重要助力。”
 >
+> "It can be difficult to piece together, but it has been a great asset to Khemian civilization as a whole."
+>
 > “我个人从没能从中提取出技术见解。不过，过去若有本身精通技术的sakhaet，也许有人做到过。”
+>
+> "Hm, I've never personally been able to glean insights into technology, though it's possible past sakhaets have been able to, especially if they were tech-savvy."
 
 ### 13. 面对漫长任期与其他文明传统
 
@@ -526,17 +608,29 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 > “通常是终身职位。不过，历史上也出现过空缺；有人会在找到下一任之后选择离开。”
 >
+> "Generally, though there have been gaps, and some choose to leave once another is found."
+>
 > “我现在还不想离开。毕竟我只做了五年，也许再过一百年，我的想法会改变。”
+>
+> "Not yet, though I've only been doing this for five years, so I suppose my mind might change in a hundred."
 >
 > “Hindo围绕这种能力保留着古老传统；Omorfa人至今仍会借助植物中的致幻物质进入相近状态。”
 >
-> “Taharka人把他们的沟通者称作`dakhur`，理解方式与Khemia人很接近。事实上，我有时会同现任dakhur交谈。”
+> "Yes, the Hindo have an ancient tradition surrounding it, while the Omorfans still use hallucinogens from plant life to reach a similar state."
+>
+> “Taharka人把他们的沟通者称作dakhur，理解方式与Khemia人很接近。事实上，我有时会同现任dakhur交谈。”
+>
+> "The Taharkans call theirs the dakhur, and they understand it in a very similar way to Khemians. I sometimes talk to the current dakhur, in fact."
 >
 > “只有拥有相同天赋、并且已经与我形成纽带的人才可以。他是我的朋友，也有兴趣找机会见你。”
+>
+> "Only ones with the same gift and after I've formed a bond with them. He's a friend of mine. He's interested in meeting you at some point."
 
 在Scipio第一次探索时，Zanmek试图加入，Aya只回了一句：
 
 > “下次吧，Zan。他现在正在探索……”
+>
+> "Next time, Zan. He's exploring..."
 
 这句拒绝很短，却完整体现了她的训练优先级：友人的好奇不能凌驾于新手的承受能力和既定节奏。
 
@@ -550,13 +644,23 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 > “记住，我只能读取那些拥有相近天赋、又是我亲自认识的人；你是那个例外。”
 >
+> "Remember, I can only read people with similar gifts who I know personally, you being the exception."
+>
 > “Neferu只知道我与Parents沟通，仅此而已。至于哪些可以分享、哪些不可以，你会逐渐自己判断出来。”
+>
+> "Neferu knows I communicate with the Parents, but that is all. You'll sort of be able to tell what you can and can't share."
 >
 > “对于你的皇帝和整个Adastra也一样。我只要求你先参加三次训练——这就是第一次——再考虑是否告诉他们。这样，你至少能对它的意义与影响形成更完整的理解。”
 >
-> “虽然我们马上就要宣誓，但只要你觉得自身安全或健康受到威胁，就不要犹豫；你可以求助，也可以披露那些对别人提供帮助至关重要的信息。”
+> "As for your emperor and Adastra as a whole, the same applies. I only ask you to participate in three sessions, this being one of them, before you consider telling them. This is only so you have a broader understanding of its significance and impact."
+>
+> “虽然我们马上就要宣誓，但只要你觉得自身安全或健康受到威胁，就不要犹豫；你可以求助，也可以披露你认为对帮助他人至关重要的信息。”
+>
+> "Though we are about to take an oath, if you ever feel your safety or health are at risk, do not hesitate to ask for help or reveal information you feel might be crucial to help others."
 >
 > “不过我也必须提醒你：如果你选择向使团完全公开，Khemia会终止你的训练。”
+>
+> "Be warned though, that if you choose to be fully open to your envoy, you will be dropped from training."
 
 ### 15. 承认Scipio的连接具有例外性，也承认自己的需要
 
@@ -568,15 +672,27 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 > “不能。我认为，是你与我兄长的亲近，以及你同我自身命运之间的某种联系，把我和你系在了一起。”
 >
-> “狼族并不是唯一一个不理解这些——更有弹性的心智——价值的Sibling。”
+> "No, but I believe that your closeness to my brother, and my fate in general, are what tied me to you, in a way."
+>
+> “狼族并非唯一一个看不出那些心智更……灵活的智慧生命之价值的Sibling。”
+>
+> "Wolves aren't the only Siblings who don't recognize the value of sapients with more... flexible minds."
 >
 > “我必须承认，如果除了dakhur之外还能有一个人同我交谈、讨论这些事情，生活会好受得多。”
 >
+> "And I must admit, it would be much more tolerable if I had someone to talk to and discuss these topics with other than just the dakhur."
+>
 > “既然联盟正在形成，这会成为我们三个人都值得共享的纽带。”
 >
-> “这也正是你如此特别、我又为什么对你这样感兴趣的原因。我在见到你之前就感知并找到了你；那感觉像是有意发生的。”
+> "With an alliance forming, this would be a good bond to share for all three of us."
+>
+> “这也正是你如此特别、我又为什么对你这样感兴趣的原因。我在见到你以前就感知并找到了你；那感觉像是有某种意图在推动这一切。”
+>
+> "And that's why you're somewhat unique, and why I have so much interest in you. I sensed and found you before I met you. It feels intentional."
 >
 > “我不认为Parents控制了这种联系，但我确实认为它与祂们的存在方式有关。心智似乎能够在不同层面间移动，和Parents所做的事有些相像。”
+>
+> "While I don't believe the Parents control it, I do think it has to do with how they exist. The mind is sort of able to move through different planes, similar to what the Parents do."
 
 ### 16. 说明钥匙、门与掌纹解读的真实边界
 
@@ -586,35 +702,59 @@ Neferu道歉后，她不继续惩罚，而是答应两人之后认真谈谈。
 
 **台词：**
 
-> “这正是人与人差别最大的地方。你必须找到自己的`钥匙`，用它打开、再关上你将要开启的`门`。我想你已经知道自己的钥匙是什么了，Scipio。”
+> “人与人之间差别最大的地方就在这里。你必须找到自己的钥匙；它将打开、也将关闭你所开启的门。我想你已经知道自己的钥匙是什么了，Scipio。”
 >
-> “正是如此！你已经拥有钥匙，也已经开关过门，所以你并非毫无经验。”
+> "Now that's where people differ the most. You have to find your key. This will unlock and lock the gate you will open. I think you already know yours, Scipio."
 >
-> “我的钥匙是掌纹解读。Dakhur Zanmek则会握住某些他能从中感到能量的石块与水晶。”
+> “正是如此！所以你已经拥有钥匙。你曾经打开、也关闭过那扇门，因此已经有了一些经验。”
 >
-> “最终，即使不使用最初的仪式，你也能进入门。不过，Zanmek在沟通时仍会握着水晶，把它们当作锚定手法。”
+> "Precisely! So, you already have your key. You have unlocked and locked the gate before, so you already have some experience."
 >
-> “我们仍会不时练习自己的钥匙，让精神保持清醒，也让技巧不至于生疏。”
+> “我的钥匙是掌纹解读。Dakhur Zanmek则会握住某些他能从中感到能量的石块和水晶。”
+>
+> "Mine is palm-reading. Dakhur Zanmek's is through holding certain stones and crystals that he feels energy from."
+>
+> “最终，即使不再使用最初的仪式，你也能进入那扇门；不过Zanmek在沟通时仍会握着水晶，把它们作为自己的锚定手法。”
+>
+> "You do eventually learn to access the gate without the ritual you once used, though Zanmek still holds crystals during communication for his grounding technique."
+>
+> “即便如此，我们仍会不时练习自己的钥匙，让精神保持清醒，也让技巧不至于生疏。”
+>
+> "Still, we practice our keys from time to time to keep us spiritually awake and practiced."
 
 正式读取之前，她先把“未来”从承诺中剔除：
 
-> “记住，我不是在告诉你未来；我读取的是你当前所走路径带给我的感觉，而人一生中会多次改变路径。真正重要的是作为门钥匙的过程。”
+> “不过要记住：我不是在告诉你未来，而是在描述你当前所走路径带给我的感觉；人一生中会多次改变路径。”
+>
+> "Remember, though; I'm not telling you your future, but rather the feeling I get about the current path you're on, and people change paths multiple times in life."
+>
+> “最重要的是那把通往门的钥匙。”
+>
+> "It's the key to the gate that matters most."
 
 按住拇指垫时：
 
 > “很热，却粗糙而平坦。情感上有所封闭，但爱正在进入。我猜那是Neferu；他也一样。”
+>
+> "Hot, but rough and flat. Emotionally guarded, but love is working its way in. I assume it's Neferu. He's the same."
 
 按住主要掌丘时：
 
-> “冰冷，丰厚，很深。比我以前感觉过的任何压抑都更严重。”
+> “冰冷，肉感十足，内里很深。压抑之深是我从未感受过的。”
+>
+> "Cold, and fleshy, lots of depth. More repression than I've ever felt before."
 
 触到断裂的爪时：
 
-> “`Keru em senet-kha, mesekhet an-ru, sa'ah Ahhotep.`”
+> “Keru em senet-kha, mesekhet an-ru, sa'ah Ahhotep.”
+>
+> "Keru em senet-kha, mesekhet an-ru, sa'ah Ahhotep."
 
 Scipio追问她看见了什么，她思考之后回答：
 
-> “我还不知道。不过，我会在之后的训练里尽量查清。抱歉让你担心；这种情况偶尔会发生。”
+> “我还不知道，不过会在之后的训练里尽量查清。抱歉让你担心；这种情况偶尔会发生。”
+>
+> "I don't know yet, but I'll try to uncover as much as I can in future sessions. Sorry if I worried you. It happens from time to time."
 
 ### 17. 第一次训练中提供锚定，而不是替Scipio操纵意识
 
@@ -626,15 +766,27 @@ Scipio追问她看见了什么，她思考之后回答：
 
 > “放松，我就在这里。我来到这里的全部理由，就是帮助并引导你。”
 >
+> "Relax, I'm here. And that's the whole reason why I'm here. To help guide you."
+>
 > “看见了吗？对于你这样的人，这很简单。”
 >
-> “没事。还记得呼吸吗？”
+> "See? It's simple for someone like you."
 >
-> “更下一层的内容，我们下次再讨论。现在，你可以自由地在宇宙中移动和感受。”
+> “没事。还记得该怎么呼吸吗？”
 >
-> “不要担心走得太远。你的大脑仍与你的身体相连，你随时可以挣脱、回来。只有以后真正进入不同层面，这才会开始构成风险。”
+> "It's okay. Remember breathing?"
+>
+> “那是另一个层面，我们下次再讨论。现在，你可以自由探索并感受宇宙。”
+>
+> "So that's another level that we'll discuss next time. As of now, you're free to move and feel about the universe."
+>
+> “不要担心走得太远。你的大脑仍与你的身体相连，你随时都能清醒过来、回到身体。只有以后真正进入不同层面，这才会开始构成风险。”
+>
+> "Don't worry about going too far. Your brain is still connected to your body, and you can always snap out of it. This won't become a risk until we reach different planes in future sessions."
 >
 > “可以探索。如果需要帮助，只要想到我，再呼唤我。”
+>
+> "Feel free. And if you need help, just think of me and call for it."
 
 ### 18. 事故之后被年龄刺痛，也能立即自我收束
 
@@ -646,19 +798,31 @@ Scipio追问她看见了什么，她思考之后回答：
 
 > “Scipio！”
 >
+> "Scipio!"
+>
 > “Scipio，记得吗？我们只有在信任与诚实之中才能做这件事。我知道，只认识我一天就要求你做到这些，近乎不可能；但我是这方面的专家，我必须知道发生了什么。”
+>
+> "Scipio, remember we can only do this with trust and honesty. I know that's an impossible ask when you've only known me for a day, but I am an expert at this, I need to know."
 
 被“你才十九岁”打断后：
 
 > “我想你说得对。很抱歉让你陷入这种痛——”
+>
+> "I suppose you're right. I apologize for causing you this distr--"
 
 Scipio及时道歉并解释恐惧后，她不把冲突当作对权威的冒犯：
 
 > “至少那种感受，我想自己懂，Scipio：别人把我的心智能力视为缺陷，认为它使我不适合自己生来所属的位置。”
 >
+> "That's at least a feeling I think I know, Scipio; my mental faculties being seen as a detriment and unfit for what I was born into."
+>
 > “情况并不完全相同，但无论脑中有什么，或哪里出了问题，你都可以告诉我，不必害怕被评判。你可以告诉Neferu；如果你愿意，也可以告诉我。”
 >
+> "It's different, but you can always tell me whatever is on your mind, or if something's wrong without fear of judgement, either with Neferu, or if you'd like, me."
+>
 > “也许吧。我还是要道歉。人在这种状态中确实可能遇到令人痛苦的事；我知道你正被不同影响拉扯，但你可以说出来，我也可以帮助你。”
+>
+> "Possibly. Again, I'm sorry. Distressing things can happen in these states, and while I know you're... struggling with different influences, you can tell me, and I can help you."
 
 ### 19. 把“导师需要学生”坦白出来
 
@@ -668,21 +832,41 @@ Scipio及时道歉并解释恐惧后，她不把冲突当作对权威的冒犯�
 
 **台词：**
 
-> “当然可以，Scipio！如果你需要更多时间，也完全没关系。”
+> “当然可以，Scipio！”
 >
-> “只要你确定。到时我会先看看你状态怎么样。”
+> "Of course, Scipio!"
+>
+> “如果你需要更多时间，也完全没关系。”
+>
+> "And if you need more time, that's okay too."
+>
+> “只要你确定，Scipio。到时我会先看看你状态怎么样。”
+>
+> "If you're sure, Scipio. I'll check in to see how you're doing."
 >
 > “不，Scipio，不要为刚才道歉。我……也有很多东西要告诉你，包括我自己的恐惧；那些也许真的能帮到你。”
 >
+> "No, Scipio, don't be. I... I have a lot to tell you as well, about my own fears that you might actually find useful."
+>
 > “或许明天，等你准备好，我们可以谈这些事。”
+>
+> "Maybe tomorrow, if you're ready, we can talk about these things."
 >
 > “我其实不太愿意说出口，但我的确很孤独。我需要和一个同我相似的人谈谈。”
 >
+> "I don't really want to say it, but I am lonely, and I need to talk to someone like me."
+>
 > “Zanmek？他很好。可如果只能在那个空间里互动，那远远谈不上——怎么说——那种亲密。”
 >
-> “最好先别告诉Neferu。他一旦觉得我过得艰难，就会变得……过度保护；而他已经有足够多事情要担心了。”
+> "Zanmek? He's great, but when you can only interact in that space, it's not nearly as, well, intimate."
 >
-> “很好！你其实不需要被‘教’，只需要有人引导，避免今天这种事再次发生。下一次，我会全程陪着你。”
+> “最好先别告诉他。他一旦觉得我过得艰难，就会变得……过度保护；而他已经有足够多事情要担心了。”
+>
+> "Best not to. He can get... overbearing when he thinks I'm having a hard time, and he has enough to worry about."
+>
+> “啊，很好！你其实不需要被‘教’，只需要有人引导，避免今天这种事再次发生。下一次，我会全程陪着你。”
+>
+> "Ah, very good! You really don't need any teaching, just some guidance to avoid what happened. I'll be with you every step of the way next time."
 
 ### 20. 第二次训练前补做心理健康筛查，并解释The Leaves
 
@@ -694,33 +878,61 @@ Scipio及时道歉并解释恐惧后，她不把冲突当作对权威的冒犯�
 
 > “好极了。接下来这件事，我昨天就该问；我必须承认自己还是第一次处理这种情况，也为昨天的判断疏漏道歉。”
 >
+> "Great! Now, this is something I should have asked yesterday, but I must admit that I'm new to this and I'm sorry for my lapse in judgement yesterday."
+>
 > “你过去有任何心理健康方面的困难吗？尤其是精神病性症状或解离？”
 >
-> “我知道你昨天提过`ahewawi`；但只要用适当方式处理，它和大多数心理疾病一样，是可以克服的。”
+> "Do you have a history of any mental health difficulties? Namely psychosis or dissociation?"
 >
-> “我这样问有两个原因。第一，如果你确实受到心理健康问题困扰，我可以帮你连接许多选择与资源。”
+> “我知道你昨天提过ahewawi；但只要用适当方式处理，它和大多数心理疾病一样，是可以克服的。”
+>
+> "I know you mentioned ahewawi yesterday, but if dealt with in the appropriate way, like most other mental illnesses, it can be overcome."
+>
+> “我这样问有两个原因。第一，如果你确实受到心理健康问题困扰，我可以帮你接触到许多治疗选择与支援资源。”
+>
+> "In a way. I ask for two reasons. The first being that if you do suffer from a mental health issue there are many options and resources I can help connect you with."
 >
 > “第二个原因的确与昨天有关。我需要确定，那件事是否来自你自己的心智反过来伤害你——在极少数情况下，那会发生。”
 >
+> "The second reason does have to do with yesterday. I want to make sure what happened to you wasn't caused by your own mind turning on you, which can happen in rare cases."
+>
 > “记住，我不会过度追问。这一切都建立在信任和我们各自的自主性上。”
+>
+> "Remember, I won't prod too much. This is all based on trust and our own agency."
 
 确认Scipio没有既往精神病性症状、且认为遭遇真实后：
 
 > “明白了。我们知道它存在，却无法完全确定它是什么。我只想让你知道：依照你所作的选择，它可以停止。”
 >
+> "Understood. So, while we know of its existence, we're not fully certain on what it is. I just want you to know that it's something that can stop, depending on the choices you make."
+>
 > “这是个很难回答的问题。不过，过去十年里，拥有sakhaet的四个Siblings都经历过这种现象。”
 >
-> “因为缺乏认识，我们只能按它的声音称它为`The Leaves`。”
+> "That's a very hard question to answer, but it's known that amongst the four siblings with a sakhaet, each has experienced the phenomenon in the past decade."
+>
+> “因为我们对它所知甚少，只能按它发出的声音称它为‘The Leaves’。”
+>
+> "Because of the lack of knowledge, we have to use the name 'The Leaves' to refer to it, since that's what it sounds like."
 >
 > “我的前任任职超过一百年。他说，这是自己面对过的异常中最棘手的几种之一，也远比其他异常更令人不安。”
 >
-> “它会为每个人呈现不同形态，但贯穿其中的手法相同：提供我们最想要的东西，欺骗我们向它的意志屈服。”
+> "My predecessor, who served for over one hundred years, said it was one of the more challenging anomalies he's faced, and it is by far the most disturbing."
+>
+> “我们查遍了所知的一切记录与资源，却一无所获。它会为每个人呈现不同形态，但贯穿其中的手法相同：提供我们最想要的东西，欺骗我们向它的意志屈服。”
+>
+> "We've exhausted all records and resources we know of, and nothing comes up. It takes on different forms for each of us, but the throughline is this; it attempts to fool us into submitting to its will by offering what we want most."
 >
 > “这往往太私人，所以我们通常不问、也不说。但如果它发展到令你觉得失去控制，请一定告诉我；我只是不想侵犯你的隐私。”
 >
-> “好消息是，没有sakhaet因此彻底屈服。The Leaves似乎需要sakhaet真正地`想要`，对方才会替它行事。”
+> "It's usually so personal that most do not ask or tell about it. If it reaches a point that feels out of your control, however, please do let me know. I just don't want to invade your privacy."
 >
-> “所以，抵抗它的诱惑的确是关键；可这说起来容易，做起来并不容易，对吧？”
+> “没有，这正是好消息。The Leaves似乎必须让sakhaet发自内心地愿意替它行事，才能得逞。”
+>
+> "No, and that's the good news. It seems to require a true want on the part of the sakhaet to do the bidding of the Leaves."
+>
+> “是的，可这说起来容易，做起来并不容易，对吧？这可能需要一段时间；眼下先专注于别让它潜入我们的训练。”
+>
+> "Yes, but that's easier said than done, isn't it? It can take a while, but for now, let's focus on not letting it creep in on our sessions."
 
 ### 21. 带Scipio接近Parents，却因他过快前进而失去同步
 
@@ -730,21 +942,39 @@ Scipio及时道歉并解释恐惧后，她不把冲突当作对权威的冒犯�
 
 **台词：**
 
-> “我们今天要真正尝试读取Parents。”
+> “我们要真正尝试读取Parents。”
 >
-> “这几乎就像祂们允许你那样做——或者至少不去理会。所以在没有阻力的情况下，你会接到一些动机与感受的提示和波动。真正困难的是事后把它们拼合起来。”
+> "We're going to actually try and read the Parents."
 >
-> “你是否偶尔会感觉，某种力量正把你拉向更`高`的地方？”
+> “是的。这几乎就像祂们允许你那样做——或者至少不去理会——所以在没有阻力的情况下，你会接到一些动机与感受的提示和波动。”
 >
-> “你需要寻找那种感觉。一旦发现开口或牵引，就跟随它，一路向上。那也许会很吓人，但要知道Parents就在那里；你不会走得太远。”
+> "Yes. It's almost as if they allow it, or ignore it at the very least, so without resistance, you get hints and waves of intentions and feelings."
+>
+> “真正困难的是事后把它们拼合起来。”
+>
+> "Really the hard part is trying to piece it together afterwards."
+>
+> “你是否偶尔会感觉，某种力量正把你拉向更高的地方？”
+>
+> "So, you know that feeling you sometimes get where you're being pulled somewhere higher?"
+>
+> “你需要寻找那种感觉；一旦发现开口或牵引，就跟随它，一路向上。那也许会很吓人，但要知道Parents就在那里。你不会走得太远，所以不用担心。”
+>
+> "So, you'll need to search for it, but once you feel an opening or pull, follow it up, all the way up. It might seem scary but know that's where the Parents are. You can't go too far so don't worry about that."
 >
 > “我会始终和你在一起。只是不要走得太快，也不要转向别的方向。”
 >
-> “The Leaves不存在于Parents居住的层面，所以只要我们抵达那里，它就没有力量。”
+> "I'll be right with you the entire time. Just don't go too fast or in another direction."
+>
+> “是的，不过The Leaves不存在于Parents居住的层面；只要我们抵达那里，它就没有力量。”
+>
+> "Yes, but the Leaves doesn't exist on the plane where the Parents reside, so as long as we go there, it has no power."
 
 Scipio刚进入状态，Aya便察觉节奏失控：
 
 > “Scipio？你已经——”
+>
+> "Scipio? Are you already--"
 
 这句没有说完的警示是训练事故的关键：她原定跟随，却没能赶上Scipio异常迅速的上升。
 
@@ -758,35 +988,63 @@ Scipio刚进入状态，Aya便察觉节奏失控：
 
 > “Skip！我把你跟丢了！你还好吗？”
 >
+> "Skip! I lost you! Are you alright?"
+>
 > “没关系，Scipio，只要你没事就好。发生了什么？”
+>
+> "That's fine, Scipio. As long as you're alright. What happened?"
 >
 > “Scipio，你的眼睛怎么了？Lingua还正常吗？”
 >
+> "Scipio, your eye. Is your lingua alright?"
+>
 > “抱歉，Skip。我只是觉得，你刚才也许不只是感知了Parents；你可能透过祂们的眼睛看了出去。”
+>
+> "Sorry, Skip. It's just that I don't think you just sensed the Parents, you might have seen through their eyes."
 >
 > “你还记得那些数字，或祂们说了什么吗？”
 >
-> “我就知道你很特别，Scipio。过去只有屈指可数的sakhaets能像你这样观看。”
+> "Can you remember the numbers, or what was being said?"
 >
-> “那就是Parents，Scipio！至少按照其他sakhaets留下的说法，祂们会同时看见时间的一切。”
+> “我就知道你很特别，Scipio。过去只有屈指可数的sakhaets能以你刚才那种方式看见事物。”
+>
+> "I knew you were special Scipio. There have been a handful of sakhaets that have been able to see the way you do."
+>
+> “那就是Parents，Scipio！至少按照其他sakhaets留下的说法，祂们会把所有时间同时尽收眼底。”
+>
+> "That's the Parents, Scipio! They see time all at once, at least that's what other sakhaets have said."
 >
 > “他们很可能留下过资料；但若真有，那些资料一定封存在某个隐秘密库里。你刚才获得的是进入Parents内部运作方式的极端难得的特权视角。”
 >
-> “不一定每次都会这样。我认为你这次走到了自己所能到达的最深处，几乎与祂们合而为一；如果降低强度，你应当可以只停留在概括性的感受与动机上。”
+> "They likely did, but if so, it's definitely sealed away in some hidden vault. You had an extremely privileged view into the Parents' inner workings."
+>
+> “不一定每次都会这样。我认为你这次走到了自己所能到达的最深处，并与祂们合而为一；如果降低强度，你应当可以只停留在大致的感受与动机上。”
+>
+> "Not necessarily. I think you went as far as you could and became one with them, but I'm sure with less intensity, you can keep it to only general feelings and motives."
 
 被问到她最近能从Parents处感到什么时：
 
 > “嗯……最近越来越困难。这些天，我通常什么都感觉不到；即使有，也相当克制，甚至冷漠。”
+>
+> "Hmm, it's been harder as of late. These days I usually don't sense anything, but when I do, it's fairly restrained, or even apathetic."
 
 随后，她给出公共选择与私人警告：
 
 > “我不会替你做决定，但我强烈建议你告诉自己的皇帝。你会成为Adastra以及以后所有继任者的重要助力。”
 >
+> "While I won't make any decisions for you, I strongly suggest you tell your emperor. You would be a great asset to Adastra, and all of your successors."
+>
 > “不过，Skip，一定不要告诉错误的人。无论如何，都不能让Ramoses知道。”
+>
+> "But Skip, just make sure not to tell the wrong people, and whatever you do, make sure that Ramoses doesn't find out."
 >
 > “过去几天，他的表现很反常——即使以他的标准也是如此。他一直要求我预测未来，还要我监视其他Siblings。”
 >
+> "The way he's been acting the past few days is really unusual, even for someone like him. He's been asking me to predict the future and spy on other Siblings."
+>
 > “我只告诉他足以让他暂时满意的部分；可如果他知道你究竟能看见多少，我很担心他会做什么。”
+>
+> "I tell him enough to keep him happy, but I worry thinking what he might do if he knows how much you can see."
 
 ## 十二、日常对话与碎金短句
 
@@ -794,24 +1052,24 @@ Scipio刚进入状态，Aya便察觉节奏失控：
 
 | 短句 | 适用情境与语气 |
 |---|---|
-| “当然！” | 对可信任对象提出的合理请求快速应允，几乎没有礼仪缓冲。 |
-| “正是如此！” | 学生正确抓住抽象概念时，音调上扬，带明显兴奋。 |
-| “这实在太令人兴奋了！” | 面对天赋的新发现；不能用于他人正承受疼痛的瞬间。 |
-| “别担心，我们把那件事留到下次。” | 主动控制训练节奏，延后额外刺激。 |
-| “他生气了吗？那倒很像他。” | 谈Neferu的保护欲时，亲昵又略带无奈。 |
-| “哈，被你发现了。” | 掌纹解读时被指出握爪过久，先承认尴尬，再解释专业原因。 |
-| “放松，我在这里。” | 最核心的锚定句，短、稳、不得附带威胁。 |
-| “还记得呼吸吗？” | 对方因失去身体感而恐慌时，把注意力拉回生理节奏。 |
-| “下次吧，Zan。他正在探索……” | 对熟悉的同行保持亲近，同时为学员设置边界。 |
-| “当然可以，Scipio！” | 对再次见面或继续谈话的邀请，明快而不故作矜持。 |
-| “如果你确定，我会先看看你状态怎么样。” | 同意继续训练后追加健康检查，不把同意视为永久授权。 |
-| “不，Scipio，不要为这个道歉。” | 对方因情绪失控羞耻时，先解除羞耻，再谈事实。 |
-| “好极了！” | 训练步骤完成、状态适合继续时使用。 |
-| “你现在能让心智的那一部分安静下来吗？” | 不要求对方否认情绪，只询问能否暂时把它放到一边。 |
-| “明天。今天更适合个人体验。” | 拒绝Zanmek加入读取Parents的训练，理由简洁明确。 |
-| “Skip！我把你跟丢了！” | 危机时昵称脱口而出，关切压过正式称呼。 |
-| “只要你没事就好。发生了什么？” | 事故后先确认安全，再索取叙述。 |
-| “这可以理解。” | 面对对方说自己被Parents的数学吓到，不以专家身份嘲笑。 |
+| “当然！”<br>*"Of course!"* | 对可信任对象提出的合理请求快速应允，几乎没有礼仪缓冲。 |
+| “总之，Scipio，你想不想多了解一点眼下发生的事？”<br>*"Anyway, did you want to learn a bit more about what's going on, Scipio?"* | 开始教学前先确认学生是否愿意继续听，而非默认授权。 |
+| “抱歉，我只是太兴奋能见到你了。”<br>*"I'm sorry, I was just really excited to meet you."* | 发现自己的热情越过社交距离时，直接承认兴奋来源。 |
+| “不过别担心。那些事我们下次再做。”<br>*"But don't worry. We'll do all that next time."* | 主动控制训练节奏，延后额外刺激。 |
+| “他不高兴了吗？那确实很像他会有的反应。”<br>*"Was he upset? It would be just like him."* | 谈Neferu的保护欲时，亲昵又略带无奈。 |
+| “呵，是啊，被你发现了。我知道刚才很奇怪，但我没打算握那么久。”<br>*"Heh, yeah, you caught me. I know it was strange, but I didn't plan to hang on that long."* | 掌纹解读时被指出握爪过久，先承认尴尬，再解释专业原因。 |
+| “还有，穿过那扇门时听见声音也别担心。那都是这个过程的一部分。”<br>*"And don't worry about the sound you hear as you pass through the door. It's all part of the process."* | 在进入训练空间前预告陌生感官刺激，减少不必要的惊慌。 |
+| “好，Scipio，你今天感觉怎么样？”<br>*"Alright, how are you feeling today, Scipio?"* | 每次训练前重新获取当日状态，不把昨天的同意沿用到今天。 |
+| “你们两个在聊什么？我听见阅读和审查制度什么的？”<br>*"What are the two of you talking about? I heard something about reading and censorship?"* | 进入熟人谈话时直接说明自己听见了什么，不伪装毫不知情。 |
+| “当然，Neferu。客人们在这里期间，你会住在皇宫里，对吧？”<br>*"Of course, Neferu. You're staying in the palace while our guests are here, right?"* | 答应亲近对象的同时，顺势确认接下来的居住安排。 |
+| “Scipio，你准备好开始今天的训练了吗？”<br>*"Are you ready for our session today, Scipio?"* | 开始技术步骤前索取明确的当次同意。 |
+| “我明白。出于尊重，我没有继续探查你的过去，但我能感觉到一些尚未解决的痛苦。”<br>*"I see. I haven't prodded further into your past out of respect, but I can sense some unresolved pain."* | 明确说明感知到了什么，也说明自己为何没有越界深挖。 |
+| “其实，是的。谢谢你，Scipio。这会让我进入合适的精神状态，然后我们就可以开始处理你的钥匙。”<br>*"Actually, yeah. Thanks Scipio. It will put me in the right head space, and then we can start on your key."* | 接受学生反向提供的帮助，让训练关系保持双向。 |
+| “你现在能先让那部分心思安静下来吗？”<br>*"Can you quiet that part of your mind for now?"* | 不要求对方否认情绪，只询问能否暂时把它放到一边。 |
+| “明天。今天更像是一次个人体验。”<br>*"Tomorrow. This is more of an individual experience."* | 拒绝Zanmek加入读取Parents的训练，理由简洁明确。 |
+| “Ramoses把你逼到角落了吗？”<br>*"Did Ramoses corner you?"* | 察觉权力压迫时直接确认施压者，不先要求受害者解释自己。 |
+| “我也很抱歉，Skip。我们可以之后再谈；我先让你好好休息。”<br>*"I'm sorry too, Skip. We can talk later. I'll let you get some rest."* | 冲突后停止继续索取信息，把恢复空间真正交还给对方。 |
+| “这可以理解。”<br>*"That's understandable."* | 面对对方说自己被Parents的数学吓到，不以专家身份嘲笑。 |
 
 ### 称呼速查
 

@@ -174,123 +174,175 @@ The Leaves 的每次话语都应贴合对象真实裂缝。以下是其对Scipio
 
 Scipio以“空间已经离开过去地点”安抚自己，Antonia雕像却像转头跟随。声纹、复数自称与创伤切口都高度指向The Leaves，但此时尚未获得正式名称；枯叶般声音从空廊某处擦过：
 
-> 它一直跟着他。
+> 它跟着他。
+>
+> "It follows him."
 >
 > 我们见证过这一切……我们看见你因他们而流血……
+>
+> "We witnessed it... We saw you bleed because of them..."
 
 ### 2. 刺杀后的梦｜重新定义死亡
 
 无人机波动在梦中穿过Scipio的肉体，痛苦被拉长。叶声贴近：
 
 > 你当然应该恐惧。死亡是一件非常、非常可怕的事。
+>
+> "As you should be. Death is a terrible, terrible thing."
 
 ### 3. 伪造Amalgamation｜把共同意识变成共同受刑
 
 > Amalgamation不过是一片痛苦的海。就连你也知道，它是不自然的。
 >
+> "The Amalgamation is nothing but an ocean of suffering. Even you know that it's unnatural, Scipio."
+>
 > 不，Scipio。真相比那糟得多得多。
+>
+> "No, Scipio. It's far, far worse than that."
 
 ### 4. 扭曲主观时间｜让数分钟看似永恒
 
 Scipio以为自己已经受刑数小时，意识即将崩溃：
 
-> 可是，Scipio，这只过去了几分钟。看见了吗？它如此轻易就能击垮你。
+> 可是，Scipio，才过了几分钟。看见了吗？它这么快就能击垮你。
+>
+> "But Scipio, it's only been minutes. See how quickly it breaks you?"
 
 ### 5. 利用母亲｜摧毁最安全的依恋
 
-> 她迟早会来与你相会，Scipio。可在数十亿意识之中，你要如何找到她？
+> 她终会与你相会，Scipio，可你要怎样在数十亿意识中找到她？不过至少，她的痛苦会同你的痛苦融为一体。
 >
-> 至少，她的痛苦终会与你的痛苦融为一体。
+> "She will join you in due time, Scipio, but how will you ever find her amongst the billions? But at least your suffering will become one with hers."
 
 ### 6. 等待对象主动求助｜只说一个转折词
 
 Scipio已经请求任何办法、表示自己什么都愿意做。它终于放出钩子：
 
 > 除非……
+>
+> "Unless..."
 
 ### 7. 提供“其他可能”｜把服从包装成逃生
 
 > 还有别的可能，Scipio。
 >
+> "There are other possibilities, Scipio."
+>
 > 我们知道你真正想要什么，也知道你应得什么：变得有用，履行职责，然后自然地死去，让所有痛苦与你一同终结。
+>
+> "We know what you truly want, what you truly deserve: To become useful, to fulfill your duties, and then to die, naturally, with all the pain dying with you."
 
 ### 8. 航程冥想｜把ahewawi宣判为永久身份
 
 刺客血腥气味在记忆里回返，Scipio肌肉锁紧：
 
 > 这份ahewawi会永远留在你身上，不是吗？
+>
+> "The ahewawi is going to stay with you forever, isn't it?"
 
 ### 9. 虚无诱惑｜把不存在称为真正和平
 
 > 这才是真正的和平，Scipio。死亡甚至更好，因为那时你根本不存在。
 >
-> 想象一个没有生命的宇宙。那会多么安静。
+> "This is what true peace is like, Scipio, but death is even better, because you don't exist at all."
+>
+> 想象一个没有生命的宇宙。那该有多么平静。
+>
+> "Imagine a universe without life. How peaceful things would be then."
 >
 > 这是唯一能够实现的完美状态。
+>
+> It's the only perfect state that can be achieved.
 
 ### 10. 全面否定关系｜用历史仇恨证明生命不可信
 
-> 智慧生命——无论是你还是任何别人——都不值得信任。
+> 智慧生命——无论是你还是任何别人——都不值得信任。记得那些愚蠢狼族如何对待你吗？记得Khemia人如何对待狼族吗？记得Neferu如何对待你吗？
 >
-> 记得那些愚蠢狼族如何对待你吗？记得Khemia人如何对待狼族吗？记得Neferu如何对待你吗？
+> "Sapients, you or anyone else, cannot be trusted. Remember how the cretin wolves treated you? Remember how the Khemians treat the wolves? Remember how Neferu treats you?"
 
 ### 11. 揭露秘密任务｜让羞耻成为结盟理由
 
 > 你还记得自己真正来这里做什么吗？记得你正在如何对待Neferu吗？
+>
+> "And do you remember your true purpose here, how you are treating Neferu?"
 
 ### 12. 借Parents的伦理矛盾建立可信度
 
 > 更重要的是，记得Parents如何以“自主性”为名对待智慧生命吗？你们之中有谁真正拥有选择？
+>
+> "More importantly, remember how the Parents treat sapients, in the name of 'agency', and yet what choice do any of you have?"
 
 ### 13. 制造救世感｜把自我毁灭抬高成普遍帮助
 
 > 你能帮助所有与你相似的人；推而广之，你能帮助所有智慧生命。
 >
+> "You can help those like you, and by extension, all other sapients."
+>
 > 你可以。
+>
+> "You can."
 
 ### 14. 天赋训练中接近母亲｜先用温和问题打开裂缝
 
 Scipio看见母亲独自在Lux哭泣，叶声以近似关心的语调插入：
 
-> 这甚至未必与你有关，Scipio。也许她同样背负着ahewawi？
+> “这甚至未必与你有关，Scipio。也许她同样背负着ahewawi？”
+>
+> "It may not even be about you, Scipio. Maybe she carries ahewawi too?"
 
 ### 15. 破坏Aya信任｜用“安全”包装孤立
 
-> 你很安全，Scipio。在作决定前，先听我们说完。
+> “你很安全，Scipio。在作决定前，先听我们说完。你为什么信任她？她为什么要把如此重要、尚未开发的知识交给狼族？”
 >
-> 你为什么信任她？她为什么要把如此重要、尚未开发的知识交给狼族？
+> "You're safe, Scipio. Just hear us out before you make a decision. Why do you trust her? Why would she give such important, untapped knowledge to the wolves?"
 
 ### 16. 把训练描绘成拘禁前奏
 
-> 你真以为她会训练你，然后就让你离开，回到Adastra？
+> “你真以为她会训练你，然后就让你离开，回到Adastra？”
 >
-> Khemia人和银河里的所有人都憎恨Adastra——也就是说，他们憎恨你。睁开眼睛。
+> "You expect she'll train you then just let you leave, back to Adastra?"
+>
+> “Khemia人和银河里的所有人都憎恨Adastra——也就是说，他们憎恨你。睁开眼睛。”
+>
+> "The Khemians along with everyone in the galaxy hates Adastra, which means they hate you. Open your eyes."
 
 ### 17. 用伪Aya挑战现实感
 
 假Aya在精神空间中悬浮，笑容固定，嘴唇不动：
 
-> 我看见你，Scipio。我真正地看见你。
+> “我看见你，Scipio。我真正地看见你。”
 >
-> 我看见你的动机、你的挣扎。我知道你在做什么。
+> "I see you, Scipio. I see you."
+>
+> “我看见你的动机、你的挣扎。我知道你在做什么。”
+>
+> "I see your motives, your struggles. I know what you're doing."
 
 ### 18. 把痛苦说成不可逆判决
 
-> 痛苦不可能被撤销。
+> “痛苦不可能被消除。”
+>
+> "Pain can't be undone."
 
 ### 19. 引导主动自我消解｜把命令伪装成冥想练习
 
 Scipio确认眼前不是Aya，却找不到出口。叶声采用平静指导语：
 
-> 想象释放。想象所有痛苦离开你、溶解、重新排列成中性的东西——万物本该如此。
+> “想象释放。想象所有痛苦离开你、溶解、重新排列成中性的东西——万物本该如此。”
+>
+> Think of release, think of all the pain leaving you, dissolving, reorganizing itself into something neutral, as all things should be.
 >
 > 深入观察，理解其中意义。恐惧与疼痛是死亡的自然部分；可在那之后……
+>
+> "Look deeply, and try to understand the meaning. Fear and pain are a natural part of death, but after..."
 
 ### 20. 剧痛顶点｜催促对象把屈服当作结束
 
 Scipio的心肺在意识中痉挛，他呼喊Aya却只听见叶声：
 
 > 就是这样，Scipio。然后，一切都会结束。
+>
+> "That's it, Scipio, then it's over."
 
 ## 十、沉浸式扮演操作手册
 

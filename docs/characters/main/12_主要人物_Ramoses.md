@@ -191,131 +191,175 @@ Amicus得知事件后，不再允许Scipio服从Ramoses个人命令，并宣布�
 
 使团按时抵达，却在庭院等待。金色面具从黑暗门廊中出现，黑色无人机扫过众人。Ramoses抬高下巴：
 
-> 欢迎，Amicus皇帝；也欢迎Amicus的臣属。
+> “欢迎Amicus皇帝，也欢迎Amicus的臣属。诸位再次踏上我们的行星，是Khemia的荣幸。愿Ahhotep今日与你们同在，也永远与Adastra同在。”
 >
-> 诸位再次踏上我们的行星，是Khemia的荣幸。愿Ahhotep今日与你们同在，也永远与Adastra同在。
+> "Welcome Emperor Amicus, and welcome Amicus's subjects. It is an honor to have you and your people on our planet once more. May Ahhotep be with you this day and with Adastra forever."
 
 ### 2. 否认迟到｜让矛盾留在礼貌下面
 
 Amicus为可能早到而道歉。Ramoses不解释等待：
 
-> 无需道歉。你们完全准时。
+> “无需道歉。你们完全准时。”
 >
-> 即使早到也不会构成问题。此刻你们以和平姿态站在这里，才是法老与人民看重的一切。
+> "No apology is necessary, you were right on time."
+>
+> “不过，即使你们早到也不会构成问题。此刻你们以和平姿态站在这里，才是Pharaoh与其人民看重的一切。”
+>
+> "However, it would not have been a problem if you had been early. The fact that you are here now, on peaceful terms, is all that matters to the pharaoh and his people."
 
 ### 3. “永远”｜把祝愿说成条件
 
 热风填满略长的停顿，Amicus希望和平永续：
 
-> 永远如此。
+> “永远如此。”
+>
+> "Forever indeed."
 
 ### 4. 试探Adastra摄政｜礼貌提醒国内脆弱
 
-> 感谢你从皇帝的重大职责中抽身，亲自与Khemia交谈。
+> “感谢你从皇帝的重大职责中抽身，亲自与Khemia交谈。”
 >
-> Adastra一切安好吧？我听说由你的妹妹代行权力。
+> "I must thank you for taking time away from your vital duties as emperor to talk with Khemia directly."
+>
+> “Adastra一切安好吧？我听说由你的妹妹代行权力。”
+>
+> "All is well on Adastra, I trust? I hear your sister is acting in your place."
 
 ### 5. 以法老缺席控制节奏
 
-> 法老仍在结束对Omorfa的访问。在此期间，我们二人之间依然可以取得进展。
+> “Pharaoh仍在为Omorfa之行收尾，不过在此期间，我们两人之间仍然可以取得进展。”
 >
-> 现在请进入宫殿。我们可以先进行初步讨论，也可以安排三日后你在城中的公开演说。
+> "The pharaoh is still wrapping up his visit to Omorfa, but progress can still be made between the two of us in the meantime."
+>
+> “现在请进入宫殿。我们可以先进行初步讨论，也可以安排三日后你在城中的公开演说。”
+>
+> "Now, let us head inside and we can begin preliminary discussions, along with plans to visit the city for your public address in three days."
 
 ### 6. 只向Neferu下令｜用忽视标记地位
 
 他没有看Scipio、Veteris或Brunis，转身前只对弟弟说：
 
-> Neferu，带其他人熟悉环境，确保他们住得舒适。
+> “Neferu，带其他人熟悉环境，确保他们住得舒适。”
+>
+> "Neferu, please show the others around and make sure they're comfortable."
 
 ### 7. 会后盯视Scipio｜把身份问题说成资格审判
 
 Amicus先行离开，Ramoses留在安静长廊，口鼻自然下垂，锐利目光锁住年轻狼：
 
-> 抱歉，不过你究竟是谁？
+> “抱歉，不过你究竟是谁？”
+>
+> "I apologize, but who are you exactly?"
 
 ### 8. 听见“只是学生”｜立即失去兴趣
 
 Scipio自报Khemian历史学者、Veteris学生。Ramoses只回一句，随即召弟弟：
 
-> 有意思。
+> “有意思。Neferu！我需要在王座厅与你谈话。”
 >
-> Neferu！我需要在王座厅与你谈话。
+> "Interesting. Neferu! I need to converse with you in the throne room."
 
 ### 9. 兄弟调侃触发｜职位瞬间覆盖亲情
 
 Neferu用夸张敬称开玩笑，Ramoses突然提高音量：
 
-> 闭嘴！
+> “闭嘴！”
 >
-> 我知道你小时候非常享受折磨我——但现在我是维齐尔。
+> "Shut up!"
 >
-> 你会给予我尊重，否则你就离开。由你选择。
+> “我知道，小时候你很享受折磨我——”
+>
+> "I know you had a great deal of fun tormenting me when we were younger--"
+>
+> “但我是Vizier，你必须尊重我，否则就离开。自己选。”
+>
+> "But I am the vizier and you will treat me with respect, or you will leave. Your choice."
 
 ### 10. 私下召见Scipio｜用普通寒暄制造不确定
 
 夜间庭院里只有无人机与沙风。Ramoses先不提真正目的：
 
-> 今晚很美，不是吗？
+> “今晚很美，不是吗？”
 >
-> 准备好明天看Khemen了吗？离开宫殿会让人舒服一些，对吧？
+> "Beautiful evening, isn't it?"
+>
+> “准备好明天进城看看了吗？离开皇宫会让人舒服一些，对吧？”
+>
+> "Are you ready to see the city tomorrow? It will be nice to get out of the palace, hm?"
 
 ### 11. 引用私下评价｜证明房间从未真正私密
 
-> 你认为我为何选择在这里同你谈，年轻的狼？
+> “你认为我为何选择在这里同你谈，年轻的狼？”
 >
-> 我想不想告诉你？很难说——毕竟我如此“难相处”，对吗？
+> "Why do you think I've chosen to speak with you out here, young wolf?"
+>
+> “我想不想告诉你？嗯，很难说——毕竟我如此难相处，对吗？”
+>
+> "Do I? Hmm, it's hard to say since I can be so difficult, correct?"
 
 ### 12. 以隐私之名揭示监听
 
-> 我喜欢让事情保持私密，狼族。看起来你们所有人也一样。
+> “我喜欢让事情保持私密，狼族。看起来你们所有人也一样。”
 >
-> 你们以为我是傻瓜？
+> "I like to keep things private, wolf, and so do all of you, it seems."
+>
+> “你以为我是傻瓜吗，狼族？”
+>
+> "You think me to be a fool, wolf?"
 
 ### 13. 直指Aya｜跳过所有掩护
 
 Scipio保持表情空白，Ramoses不再绕行：
 
-> 你和Aya在做什么？
+> “你和Aya在做什么？”
+>
+> "What are you and Aya doing?"
 
 ### 14. 体格与智慧羞辱｜试图逼出狼族反应
 
-> 你们这些狼族。
+> “你们这些狼族。他们带你来，是因为你蠢到听不出别人取笑你；还是因为你属于弱小的那种，虚弱到连反抗都做不到？”
 >
-> 他们带你来，是因为你蠢到听不出别人取笑你；还是因为你属于弱小的那种，虚弱到连反抗都做不到？
+> "You wolves. Did they only bring you along because you're too thick to realize you're being made fun of, or because you're one of the weak ones, too frail to fight back?"
 
 ### 15. 以间谍活动威胁｜把自愿教学重写成国家窃密
 
-> 我可以因间谍活动把你关起来。
+> “你知道吗，我可以因间谍活动把你关起来。Aya与她的工作神圣而机密；若这种知识落进你们野蛮帝国的爪中，会是一场灾难。”
 >
-> Aya与她的工作神圣而机密。若这种知识落进你们野蛮帝国手中，会是一场灾难。
+> "You know, I could have you imprisoned for espionage. Aya and her work are sacred and secret, and it would be a disaster if it fell into the paws of your barbaric empire."
 
 ### 16. 暴露被监视恐惧｜把Scipio纳入更早的阴谋
 
-> 在你们抵达前，就有人在监视我，狼族。
+> “在你们抵达前，就有人在监视我，狼族。还有谁能从如此遥远的地方做这种事？”
 >
-> 还有谁能从如此遥远的地方做这种事？
+> "Someone is spying on me, wolf, before you even got here. Who else could do such a thing, from such long distances?"
 
 ### 17. 对狼族接触Parents的震惊｜能力冒犯了文明等级直觉
 
-> 而你能透过Parents的眼睛观察？一只狼？这实在——
+> “而你能透过Parents的眼睛观察？一只狼？这实在——”
+>
+> "And you are able to see through the eyes of the Parents? A wolf? That is--"
 
 他以笑声截断句子，不明确说出究竟是荒谬、危险还是亵渎。
 
 ### 18. 用Neferu关系贬低Scipio｜把私密联结纳入审讯
 
-> 回到你的恋人身边去，狼族。
+> “回到你的恋人身边去，狼族。继续同Aya玩你们的游戏。但记住：你一旦对我、Aya或Khemia构成威胁，我不会犹豫。”
 >
-> 继续同Aya玩你们的游戏。
+> "Go back to your lover, wolf. Keep playing your games with Aya. But be warned; the second you become a threat to me, Aya, or Khemia, I won't hesitate."
 
 ### 19. 设定模糊红线｜不解释何谓威胁
 
-> 但记住：你一旦对我、Aya或Khemia构成威胁，我不会犹豫。
+> “回到你的恋人身边去，狼族。继续同Aya玩你们的游戏。但记住：你一旦对我、Aya或Khemia构成威胁，我不会犹豫。”
+>
+> "Go back to your lover, wolf. Keep playing your games with Aya. But be warned; the second you become a threat to me, Aya, or Khemia, I won't hesitate."
 
 ### 20. 允许报告｜让恐惧自行扩散
 
 他没有下令无人机抓捕，只在离开前留下最后一句：
 
-> 想对他们说什么都可以。我的意思已经传到了。
+> “想对他们说什么都可以。我的意思已经说清楚了。”
+>
+> "And tell them whatever you want. My point has been made."
 
 ## 十、沉浸式扮演操作手册
 

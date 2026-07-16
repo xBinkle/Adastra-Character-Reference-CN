@@ -417,7 +417,7 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 ## 十一、沉浸式 RP 核心语料库
 
-以下二十七组按个人时间线排列。每组以情境、动作与连续话语共同构成；中文可直接用于角色扮演，斜体英文保留关键句法与停顿，`[mc]`统一替换为Marco。
+以下二十七组按个人时间线排列，情境、动作与原场景中的各个台词单元共同构成完整语境。所有可验证台词均严格以一个 CSV 单元格为一行，并直接采用《Adastra》或《Interea》的官方中文，不再附带英文；单元格内部即使含有多句，也不按标点拆行。主角占位符统一写作 `Marco`。
 
 ### 1. 初见Marco：Lingua负荷与过快识破
 
@@ -425,9 +425,9 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：Alexios露出和善微笑、双爪整齐相扣；左眼抽动，爪按头，听见复杂句子后既惊讶又好奇。
 
-> “只是我的Lingua。它需要一点时间学习你的语言；你说得越多，它就越好。所以如果你不介意，我很想多了解你，我非常好奇。……天啊，这么多词，而且还是完整句子！不，我说的就是你的词语——又多，又组成了完整、复杂的句子。”
->
-> *“Just my Lingua. It will take a while to learn your language, but it gets better the more you speak... I'd like to know more about you. I'm very curious. ... So many words, and in full sentences too! ... Complete, complex sentences.”*
+> “是我的Lingua。它需要一段时间来学习你的语言，不过你说的越多它就学得越好...所以如果你不介意的话，我想多了解你一些。我很好奇。”
+> “天呐，这么多词，还是在一个完整的句子里！”
+> “不，我指的是你的用词。那么多，而且组成了完整，复杂的句子。”
 
 ### 2. “只是仆从，不是间谍”：最具反讽性的安全保证
 
@@ -435,9 +435,9 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：Alexios先扫视身后，再靠近，以阴谋式姿态降低声音；用共同宠物身份制造私密同盟。
 
-> “通常我们不该这样坦率地谈主人；这只是宠物之间的交谈。别担心，我不会把知道的一切都一股脑说给主人。我只是他的仆从，不是间谍。说实话，能和上级以外的人谈话很舒服；Amicus曾是唯一把我当平等者的人。”
->
-> *“This is just a conversation between pets. ... I don't just blab everything I know to my master. I'm simply his servant, not spy. ... It's really nice to be able to talk to someone other than my superiors.”*
+> “要知道，通常我们不该这么直接地谈论我们的主人。这只是宠物之间的对话。”
+> “我并不会把一切都告诉给我的主人。我是他的仆人，不是间谍。”
+> “尽管他可能希望我是。说实话，能和上级以外的人聊天真的很好。Amicus是唯一一个平等对待我的狼，不过Cassius一般不会让我们接触的。”
 
 ### 3. 解释Lingua：知识真诚也是关系投资
 
@@ -445,9 +445,10 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：Alexios揉左眉上方，一边检查常春藤与杂草，一边给出技术边界，不假装Omorfa完全理解Parent 技术。
 
-> “Lingua是很复杂的装置。它属于Parent技术，我们其实完全不理解；只知道它会以最能让宿主理解的方式翻译。我使用的是狼族特有的时间单位，Lingua把它换成你更容易理解的计量单位。别想太多，也别因此以为所有东西真的相同；Adastra一天有十九小时。”
->
-> *“It's Parental tech, so it's something that we don't really understand at all, but what we do know is that it translates language in a way that offers the best understanding possible for the host. ... Don't think too much about it.”*
+> “啊，Lingua是个复杂的设备。这是Parent的技术，所以我们不完全了解它。但我们都知道，它的翻译方式是最适合宿主理解的。”
+> “我使用了特定于狼族语言的时间度量单位，而Lingua简单地把它翻译成了你能理解的单位。”
+> “别想那么多了。”
+> “只要记住，并不是所有的东西都是相同的。阿达斯特拉一天有十九个小时，我想至少这点就和你们的星球不一样。”
 
 ### 4. “错过飞船”的个人叙事：可验证细节包裹未证实核心
 
@@ -455,9 +456,12 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：糕点停在半空，先叹气、耸肩；说到睡过头时显得尴尬，说到哭泣时耳内发红、移开视线。
 
-> “我原本算一种大使，恰在Stretch 耗竭时抵达。我的人们派飞船接所有Omorfa人，可我……错过了。我睡过头；后来又被Adastra City糟糕的公共交通困住。狼族围着摸我，我几乎看不清标识，因为我们在压力时眼睛会出水。最后我决定利用处境继续工作，与皇室建立关系——所以我成为Cassius的宠物。”
->
-> *“My people sent their own ship to retrieve everyone on Adastra, but I, uh, missed it. ... I slept in. ... I got lost in Adastra City's terrible public transportation system. ... I eventually decided to use my situation to continue my work and build a relationship with the imperial family. So, I became Cassius's pet.”*
+> “这有些复杂，我是作为大使过来的。我抵达的时候刚好发生了Stretch引擎能量枯竭事件。”
+> “狼和他们Parent的情况令人担忧，我们也不知道没有了Stretch技术的狼能坚持多久。于是我的星球派出了飞船，把在阿达斯特拉的族人们接回去。但是我，呃，错过了。”
+> “嗯...我睡过了，没能赶上。”
+> “相信我，我是连续遇到一堆倒霉事才迟到的。主要是因为，我迷路了。拜阿达斯特拉城糟糕的公共交通系统所赐，就算我在起床时有充裕的时间到达星际站也没用。”
+> “我从一个站台跑到另一个站台，周围的狼都试图摸我，因为他们以前从来没见过猫。而且我几乎看不清指示牌，因为...嗯，我的种族在感到压力很大时，眼睛里会有水流出来，所以...”
+> “总之在最后，我决定继续我的职责，与皇室建立关系。于是，我成为了Cassius的宠物。”
 
 ### 5. 讲Children制度：真实批判与方向塑形
 
@@ -465,9 +469,10 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：语气像耐心导师，用问题引导Marco自己说出“奴役”，再把Cassius与Khemia 联盟放进同一政治地图。
 
-> “这些Children像契约仆役；作为智力被大幅提升的交换条件，他们要服务帝国，直到债务还清。第一批成功提升的狼族 Children至今还没还完。听起来确实像奴役，对吧？……我告诉你，是想让你理解自己所在的帝国，这会让你更容易自处。”
->
-> *“These Children are indentured servants in a way. ... They have to serve the empire until the debt is repaid. ... It does, doesn't it? ... I want you to understand the empire that you're in. It will make it easier to... navigate.”*
+> “好吧，这还没有结束。那些Children在某种程度上可以称为劳工。作为培养了他们...主要是智力方面...的代价，他们必须为帝国服务，直至债务被偿还。”
+> “呵呵，我这么说吧，狼族成功培养出来的第一批Children至今都没能还清债务。”
+> “难道不是吗？”
+> “你也许想知道我为什么要告诉你这些，但我只是想让你更了解脚下这个帝国。这会让你更容易找到...方向。”
 
 ### 6. 蜘蛛落到脸上：知识自信瞬间变成真实惊叫
 
@@ -475,9 +480,10 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：蜘蛛突然沿手臂爬到脸上，他原地乱跳、喘气、发抖；危险过去才把毛发压平并勉强一起笑。
 
-> “这里没有任何东西危险，它的毒液最多造成一个发痒的小包——以Galen之名！把它弄下去！……你为什么只是站在那里看？好吧，我本来也正准备跳进池塘。”
->
-> *“Nothing in the gardens is dangerous... BY GALEN! GET IT OFF! ... And you just stood there and watched! ... Well... I was about to.”*
+> “不过，花园里没有什么危险生物，而且它们都是生态平衡所必需的。这种生物的毒液十分温和，被它咬到不过是起一个痒包而已。”
+> “GALEN在上！快把它弄下来！”
+> “而你就站在那里看着！”
+> “好吧...我刚想这么做来着。”
 
 ### 7. 湖上误判Marco不会游泳：恐惧压过食物与体面
 
@@ -485,9 +491,9 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：先大喊`NO`并扑抓，随后倒掉食物、把篮子扔作漂浮；上岸后耳伏、颤抖、连续道歉。
 
-> “我讨厌大面积水；出来确实有压力，但小岛很宁静，通常值得。……不！用这个，它会让你浮在水面！灵长类没有天生游泳能力，掉进水几乎一定会溺死。你真的没事吗？我非常、非常抱歉。”
->
-> *“I hate large bodies of water. ... NO! ... Use this! It will keep you above water! ... Whenever a primate falls into water they're almost sure to drown. ... I'm so, so sorry.”*
+> “噢，我讨厌大片的水。说实话，来到这里我有些紧张。不过这次出行还是值得的，因为岛上很宁静。”
+> “用这个！它能让你浮在水面上！”
+> “你们天生没有游泳的能力。灵长类掉进水里后，几乎肯定会被淹死。你确定你没事吗？我真的，真的很抱歉。”
 
 ### 8. 阻止Amicus越界：宠物也要约束主人
 
@@ -495,9 +501,10 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：从尖叫、蜷成球恢复成喘气与文化批评，整理耳饰后把感谢转成权力原则。
 
-> “这是我最好的一只，别弄坏！你想把我的耳朵撕下来吗？……这是我族人的文化标志。你这样做很不敬，尤其你还是未来皇帝候选人。谢谢你，Marco。你应当服从主人，没错；但当他越过界限时，也必须约束他。”
->
-> *“It's a cultural staple of my people, and honestly, what you're doing is rather disrespectful... You should obey your master, yes, but it is also important to keep your master in check when he oversteps his bounds.”*
+> “Amicus，别！不，不要，这是我最好的一个，别把它弄乱了！”
+> “你敢！你想把我的耳朵扯下来吗！？”
+> “这是我们民族的重要文化，说实话，你的所作所为是相当无礼的，特别是作为一个准皇帝。”
+> “总之，谢谢你，Marco。确实，你应该遵从自己的主人，但是当主人越界的时候，阻止他也是很重要的。”
 
 ### 9. 选拔表演性奇观与友谊提案
 
@@ -505,9 +512,9 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：Alexios先抱住自己说难为情，随后以Omorfan制度视角分析；临出场尾巴来回抽动，却仍主动维护私人关系。
 
-> “狼族太痴迷于表演性奇观和戏剧，所以用选拔，而不是选举，甚至不让议会作出合理判断。若结果不清楚，为什么不选更受民众欢迎的那位狼族候选人？这会提高三人执政团连任的机会。……无论竞争结果如何，我仍把你当朋友。之后一起在花园吃午餐，好吗？”
->
-> *“The Wolves are so obsessed with spectacle and drama... Anyway, despite the competition, I still consider you a friend and I hope you feel the same. Maybe we can have lunch in the gardens soon, no matter the result?”*
+> “确实。狼是如此痴迷于戏剧性和大场面，以至于用选拔代替了选举...甚至还有议会的看法。”
+> “这个嘛...如果决定不够明朗，那何不选择最受欢迎的狼呢？这会增加他们重新竞选时的机会。”
+> “不管怎样，虽然我们是竞争关系，但我依然把你当做朋友，希望你也有同感。也许之后我们可以一起在花园里吃午餐，不论结果如何。”
 
 ### 10. 用Cassius训练情报换取Amicus准备信息
 
@@ -515,9 +522,9 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：优雅啜茶、懒看喷泉，刻意强调Marcus Manius名字，再若无其事问Amicus是否有类似训练。
 
-> “Cassius正与月球上最好的修辞学家训练——Marcus Manius。他给了许多说服三人执政团的建议，非常有用。Amicus也在做类似准备吗？……我建议他研究三人执政团和他们的城市，至少找出第二选拔中说服他们的最好方式。”
->
-> *“Cassius has been training with the best rhetorician on the moon; Marcus Manius. ... Is Amicus doing anything similar? ... I recommend he study the triumvirates and their cities.”*
+> “啊，是的。Cassius一直在和行星上最优秀的修辞学家Marcus Manius一起训练。”
+> “他给Cassius提供了许多用来说服三人执政团们的建议。确实是，非常实用的建议。Amicus有在做类似的事情吗？”
+> “好吧，我建议他研究一下三人执政团和他们的城市，如果想找到能在第二场比赛里说服他们的方法的话。”
 
 ### 11. 承认Cassius 感情：说真话仍保持最低暴露
 
@@ -525,9 +532,11 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：爪短暂停住，耳朵压低、鲜红，盯着杂草；声音降到几乎听不见，又立刻反问Marco的惊讶。
 
-> “我们……没有正式关系。但我们之间确实有感情。Cassius非常‘Cassius’，没错；可他远不止公开里表现出的样子。我喜欢他的某些部分。这里男性之间没有正式身份；保持不说，反而更不容易被发现。”
->
-> *“We're... not in an official relationship. But there are... feelings between us, yes. ... Cassius is very Cassius, but there's a lot more to him than what he puts out in public. ... Parts of him, yes.”*
+> “我们...没有正式的关系。不过是的，我们之间...存在某种感情。”
+> “没错，Cassius非常的Cassius，但他远不止是在公开场合看上去的那样。”
+> “他的一部分，是的。”
+> “它只是简单地被称为关系。官方唯一承认的只有婚姻，但那只存在于雄性与雌性之间。”
+> “越少谈及你们之间的关系，被发现的可能性就越小。”
 
 ### 12. Cato询问谣言：过于干净的清白
 
@@ -535,9 +544,9 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：Alexios刚结束长时间鞠躬，立即挂回笑容；听见谣言时`O-oh`，随后摆出无辜困惑。
 
-> “噢？三人执政团？我想知道为什么。很遗憾，陛下，我并不知道。”
->
-> *“O-oh? ... The Triumvirates? I wonder why? ... I am sorry to say that I do not know, Your Imperial Majesty.”*
+> “哎-哎呀？”
+> “三人执政团？我很好奇为什么？”
+> “很抱歉，我不知道，陛下。”
 
 ### 13. Marco从昏迷复苏：惊喜让位于异常审讯
 
@@ -545,9 +554,13 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：耳朵因声音抽动，毛发先竖起再慢慢压平；他侧移让自己保有通往皇宫的畅通路径，反复从不同角度观察Marco。
 
-> “Marco？可这怎么可能？你……你已经死了。并非完全死亡，但我们被告知你不会从昏迷醒来。医生？Amicus说他抵达前你已经处于植物状态，你怎么会听见？如果当时仍有意识，医生本该阻止病毒损伤。你究竟怎么活下来的？”
->
-> *“[mc]? But how? ... You were... you were dead. ... Amicus told us you were vegetative before he arrived, how did you hear him? ... How did you survive, exactly?”*
+> “Marco？怎么可能？”
+> “你已经...已经死了。”
+> “呃，不完全是。你昏迷了，我们被告知你不会再醒过来。”
+> “医生？”
+> “Amicus告诉我们，在医生抵达前你已经是植物人状态了，你是怎么听到他的？”
+> “如果他到的时候你还有意识，那他应该能够阻止病毒造成进一步的损伤。那个医生是谁？”
+> “是的。不过显然，我不再是了。这一切都十分奇怪...你到底是怎么活过来的？”
 
 ### 14. 被Marco追进洗浴房间：逃跑、哭泣与`simply a pet`
 
@@ -555,9 +568,11 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：先问Marco是否生病、眼神左右寻找出口；突然转身冲刺，滑入热水浴池后湿透毛发贴身，蜷缩、哭并护住肋骨。
 
-> “你吓到我了。别追我！我不知道你想要什么！……没理由？是你用威胁性的姿态逼近我！我想你把我的肋骨撞断了。……我没有答案。我只是一名宠物。”
->
-> *“[mc], you're scaring me... Stop chasing me! I don't know what you want! ... You advanced upon me in a threatening manner! ... I think you broke my ribs! ... I have no answers. I'm simply a pet.”*
+> “Marco，你吓到我了...”
+> “别再追了！我不知道你想要什么！”
+> “好！？我想你弄断了我的肋骨！”
+> “无缘无故？你用威胁的态度逼近过来！”
+> “我不知道。我只是个宠物。”
 
 ### 15. 承认向Neferu泄露Marco：低成本真相换取更大不确定
 
@@ -565,9 +580,9 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：耳朵发红、看向旁边，皱眉并按摩肋骨；道歉后立即补上“本来很明显”“没想到他会告诉你”。
 
-> “他……他对你很好奇，也很有说服力。对不起，我告诉了他；但我当时觉得这本来就很明显，也没想到他会告诉你。至于其他事，Cassius也在与别人讨论，不是吗？也许是那个人。”
->
-> *“He was... he was curious about you, and he can be persuasive. I'm sorry I told him, but again I thought it was obvious... and I didn't think he'd tell you. ... Maybe it was that person?”*
+> “他...他对你很好奇，而且他很有说服力。告诉了他我很抱歉，不过我认为这同样十分明显...而且我以为他不会跟你说。”
+> “Cassius当时是在和其他人讨论这件事，不是吗？”
+> “也许是那个人？”
 
 ### 16. 对树低语被抓：否认失败后用亲吻转移
 
@@ -575,9 +590,8 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：嗓音紧而喘，先说自己偶尔自言自语；被指出“不会对树低语”后耳伏、结巴，随即放松肩膀、爪沿身体下滑，改用挑逗式靠近并亲吻Neferu。
 
-> “我？当然没有。说来很难为情，但我有时会自言自语。……Neferu，现在举止奇怪的明明是你。”
->
-> *“Me? Oh no, definitely not! ... Sometimes I just talk to myself. ... N—Neferu, you're the one that's acting a bit odd right now, you know.”*
+> “我？喔，不，绝对没有！我只是偶尔会自言自语，你知道的，这很尴尬。”
+> “N—Neferu，你知道吗，你现在的表现有点儿反常。”
 
 **动作本体**：此处的亲吻不是单纯告白。Alexios主动贴近、捧住Neferu面颊并加深亲吻，目的是让对方离开树话题；真实熟悉和战术转移注意同时存在。
 
@@ -587,9 +601,13 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：听见Cassius名字后全身皮毛竖起、低吼；声音从受害者哭腔变得几乎无法辨认，逐层列出对方家庭信息。
 
-> “我们全都是间谍，包括你——尤其是你。你以为我会毫无顾忌地让你操我，却不研究你的意图？法老几乎把你扔出星球，让你来培养这场无望的联盟。次子一定很空虚：逃不开兄长的阴影，无法让父亲骄傲，连两个姐妹都获得了比你更显赫的位置。你怕自己在历史里枯萎，最后连Khemian 书籍的一条脚注都不如。”
->
-> *“We're all spies here, including you... especially you. ... You think I just let you fuck me without any regard to your intentions, without studying you? ... You're desperate behind that facade of confidence, terrified of withering away into historical insignificance.”*
+> “为了什么，胡狼？我们都是这里的间谍，包括你...特别是你。”
+> “噢，你以为我那么蠢？你以为我就让你白上我，不管你的意图，不做任何调查？我知道你为什么在这里，胡狼。”
+> “你在这里苦苦挣扎，想要求一个名声。你几乎是被法老赶出了自己的行星，试图在阿达斯特拉建立一个无望的联盟。”
+> “作为次子一定让你很不如意吧。无法摆脱你哥哥的阴影、无法让父亲感到骄傲、被困在这个行星上，蛋还被偏执的狼给踢爆了。”
+> “甚至你的妹妹们，三女和四女，都取得了比你更有威望的地位。”
+> “在一个王室已经放弃了如此多权力的时代，你绝望地躲在自信的外表下，害怕自己就此枯萎，湮没在历史中。”
+> “在克米扬史书里，你连个脚注都算不上。”
 
 ### 18. 被要挟后打开Archive：最少语言完成最大权限转移
 
@@ -597,9 +615,7 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：走路僵硬，不与二人交谈；把爪直接伸进蓝色球体、确认权限脉冲后立刻转身。
 
-> “这应该会给你们完整权限。从这里开始，你们自己处理。”
->
-> *“That should give you full access. You're on your own from here.”*
+> “这应该能给予你们完全的访问权，从这里开始你们就只能靠自己了。”
 
 ### 19. 反向审问Marco：物种等级泄出
 
@@ -607,9 +623,9 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：先讥笑说Marco忘了公民身份；被直接骂狗屁后失去冷静，以Sibling身份压人，再清嗓道歉并恢复职业问询。
 
-> “你甚至还不是Child，却在这里颐指气使，仿佛自己是皇宫最重要的人。……我的歉意，我只是有一刻失去冷静，你刚才确实有点无礼。好吧，Marco，你究竟是谁？我知道你不是被遗弃的 Child。你想要什么，在这里做什么？”
->
-> *“You're not even a child, yet you throw your weight around here like you're the most important person in the palace. ... My apologies, I simply lost my temper for a moment. ... Alright, [mc], who are you?”*
+> “你...你甚至连一个Child都不是，就在这里摆架子，好像自己是皇宫里最重要的人一样。”
+> “我致歉。之前你有点粗鲁，我只是一时有些生气。”
+> “好吧，Marco，你是谁？我知道你不是一个被遗弃的Child。你想要什么？你在这里的目的是什么？”
 
 ### 20. 解释Galaxias 秩序：和平话语与隔离目的
 
@@ -617,9 +633,11 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：笑容消失、眼神变窄；不再说友谊，而以正式纽带与战争历史论证。
 
-> “我是Omorfa与Adastra之间的重要纽带。知道帝国发生什么是我的职责。最简单地说，我在维护整个Galaxias的和平，这主要包括监视狼族的动机。他们危险且有自毁倾向；我不明白Khemia人为什么想与他们结盟。我只想要秩序，而狼族没有秩序。”
->
-> *“I am an important link between Omorfa and Adastra. It is my job to know what is happening in this empire. ... I'm trying to maintain peace in the Galaxias as a whole. ... I just want order. The wolves have none of that.”*
+> “我是连接奥莫法和阿达斯特拉的重要纽带。我的工作就是了解这个帝国发生了什么。”
+> “我能想到最简单的解释就是，我正试图维护加拉西亚斯整体的和平。这主要包括观察狼族的动机。”
+> “因为...他们可能会成为危险。”
+> “不仅如此，他们战争的对象是一个几乎有Parent等级的文明。他们是在自杀，我无法想象克米扬为什么想与他们结盟。”
+> “我只是想要秩序，而狼族没有一丝一毫。”
 
 ### 21. Cato政变中完整坦白`Chaos`
 
@@ -627,9 +645,12 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：先揪扯头顶毛发、骂皇宫，随后扣环爪、盯地面；说出`Chaos`前深呼吸并直视Marco，后续声音单调，像背诵部门教条。
 
-> “我成为宠物只有一个原因，不是大使关系，甚至不只是收集情报——起初那确实是目的；可我在几次正式会面和宴会后与Cassius接近，部门注意到并更改任务。现在的任务？Chaos。不稳定的政府会制造不稳定的社会；发展停滞，对外行动转向内部，社会不再关心边界外的事，只担心自己的问题。”
->
-> *“I became a pet for a single reason... Originally that was my purpose, but I became close to Cassius... My department took notice and... altered my assignment. ... Chaos. ... An unstable government creates an unstable society. Progress is stalled and outward endeavors turn inward.”*
+> “我...我成为宠物的原因只有一个，不是为了大使的职务，不是为了阿达斯特拉和奥莫法的关系...甚至不是为了收集情报-”
+> “我是说，那起初是我的目的。不过，经过几次正式会议和晚宴后，我和Cassius变得亲近了起来。”
+> “我的部门注意到...并更改了我的任务。”
+> “混乱。”
+> “一个不稳定的政府会制造一个不稳定的社会。”
+> “进步停滞不前，外在的努力转向内在。这个社会将更关心他们自己的问题，而不是边境外发生的事情。”
 
 ### 22. 面对死亡后果：职责辩护与有限承认
 
@@ -637,9 +658,8 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：Alexios看见厌恶后退、移开视线；承认谣言行为时结巴，仍精准区分“开始谣言”与“没有把Marco牵进去”。
 
-> “我知道这看起来严酷，但为了保护Omorfa和整个Galaxias免受Adastra威胁，这是我的职责。若你知道历史……我——我也许挑起了谣言，但我从未牵连你。”
->
-> *“I understand that it may seem harsh, but it is my duty to Omorfa and the Galaxias as a whole to keep us safe from Adastra. ... I may have started the rumors, but I never implicated you.”*
+> “我知道，这似乎很残酷，但是我有责任让奥莫法和加拉西亚斯整体免于收到阿达斯特拉的威胁。你...如果你了解历史-”
+> “我-我...我也许是谣言的始作俑者，但是我从未牵连到你。”
 
 ### 23. 释放Amicus：救援前先谈自己的生存条件
 
@@ -647,9 +667,8 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：Alexios在原地发抖、冻结；承认权限后仍先确认自己会不会被Amicus囚禁或处决，Marco以更直接的死亡威胁逼他行动。
 
-> “我……应该可以。Cassius给了我几乎无限的Com安全权限。可是，如果我这样做，你不会让Amicus 监禁或处决我，对吗？”
->
-> *“I... think so. Cassius gave me almost unlimited access to Com's security— ... You won't let him imprison, or execute me if I do?”*
+> “我...我想可以。Cassius给了我几乎无限制访问Com安全-”
+> “好-好的，但是，如果我做了，你不会让他关押，或者处决我吧？”
 
 ### 24. 放逐后与Cassius潜回皇宫：`宠物无选择`的反向控制
 
@@ -657,9 +676,11 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：Alexios贴着Cassius、忍笑又不断要求安静；见Marco后全身皮毛竖起，抓住Cassius手臂，试图阻止喝醉的Cassius继续泄密。
 
-> “Cassius，停下，我们必须安静。……我的主人只是喝醉了。连贯表达不是问题，Cass！他带我来，只因为他想来；作为他的宠物，我没有选择，只能服从。……Marco，你是个鲁莽的猿猴，完全不考虑星系其他人！”
->
-> *“Cassius, stop! We need to be quiet. ... My master is simply drunk. ... As his pet, I have no choice but to obey. ... You're a reckless ape with no consideration for the rest of the galaxy!”*
+> “住手，Cassius！我们需要保持安静。”
+> “很明显，我的主人已经喝醉了。”
+> “不是清不清晰的问题，Cass！”
+> “我的主人带我来这里是基于他的个人意愿。作为他的宠物，我只能服从。”
+> “而你也只是只鲁莽的猿人，对星系的其他区域全然不顾！”
 
 ### 25. 《Interea》重建植物通信：旧伎俩在身份暴露后继续
 
@@ -667,9 +688,19 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：被Neferu从树木拖出后尖嚎、性羞辱反击；Cassius差点说出“vine antenna”时发出强烈猫科兽人嘶声，最后把质疑改写成Khemian优越论。
 
-> “放开我，沙地狗！我们Omorfa人以演技著称。你总忍不住粗暴拉扯我，野蛮人。……首先，是我们先到这里；我才有理由怀疑你来监视我！Cassius，来客人了——以他妈的Galen之名，快出来！冷静，Cassius，他们不懂欣赏Omorfan 技术，Khemia人的优越情结太强。”
+> “放开我，沙狗！”
 >
-> *“Release me, sand dog! ... We are known for our acting abilities. ... We were here first. I should be suspicious that you've come to spy on me! ... By FUCKING Galen, get out here!”*
+> “如你所知，我们以演技而闻名！”
+>
+> “你这个野蛮人，总是对我动手动脚的！”
+>
+> “首先，是我们先到的。我有理由怀疑是你在监视我！”
+>
+> “我们有客人来访，Cassius。”
+>
+> “**天杀的**Galen，快离开！”
+>
+> “冷静下来，Cassius。他们欣赏不了奥莫法科技，克米杨的优越感就是如此强烈。”
 
 ### 26. 用钉床质疑选择：个人经验、反Parent与操纵技术重叠
 
@@ -677,9 +708,11 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：使用极具画面感的思想实验；Bjarni当众指出他在让自己反对Parents，Alexios立即僵住并结巴退回“只是说明一个想法”。
 
-> “这样想：我站在被火焰包围的钉床上，本来已经痛苦，却被告知可以选择离开——进入更糟的位置。这真是选择吗？还是操纵者用糟糕处境作掩护说辞，再声称自己给过选择？……请、请原谅，我只是提出思想实验，好说明一个想法。”
+> “可以这样想：正当我站在被火焰包围的钉床上，痛苦万分之际，被告知我可以选择离开...却是落入一个更糟糕的境地。”
 >
-> *“I am standing on a bed of nails surrounded by flames. ... Is that really choice or simply the manipulator using a poor situation as cover to claim they gave you a choice? ... I was simply presenting to you a thought experiment.”*
+> “这真的称得上是选择吗？还是说，这不过是操纵者以糟糕的局面作为掩护，声称他们给出了选择？”
+>
+> “请-情原谅，但我不过是通过阐述一个思想实验，以更好地诠释自己的想法。”
 
 ### 27. Lupas安全警告：危险信息准确，不代表动机单纯
 
@@ -687,9 +720,11 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 **动作与过渡**：没有用玩笑或思想实验，先承认“并非我的立场”，再给出炸弹与塑像两项具体风险。
 
-> “那不是分离主义者本身，而是奉狼族诸神与狼族至上主义为信条的邪教。二者有大量交集，但邪教徒连分离主义者都觉得太古怪，所以保持分开。我知道这不该由我说，可我建议Marco现在不要访问Lupas；同一邪教曾试图在Forum放炸弹，结果安放炸弹者把自己炸死。最近一次示威里，他们还焚烧了Marco的塑像。”
+> “那不是分裂主义，而是醉心于沃尔文神明与沃尔文权利至高无上的狂信徒。这两者并非没有交集，但即便在分裂主义者眼中，狂信徒也显得格格不入。”
 >
-> *“It's not the separatists, but rather a cult devoted to wolven gods and wolven supremacy. ... I would advise [mc] not to visit Lupas in its current state. ... They did burn an effigy of [mc].”*
+> “我知道，这里没有**我**说话的资格，但眼下我不建议Marco访问鲁帕斯。那些狂信徒与此前在集会所安置炸弹，却失手将自己炸飞的那个人的同出一源。”
+>
+> “并且在最近的一次示威游行中，他们还焚烧了一尊Marco的塑像。”
 
 ## 十二、日常碎金与短句
 
@@ -697,42 +732,27 @@ Amicus得知背叛后几乎要冲去掐死Alexios，最终选择把他放逐到A
 
 ### 礼貌／知识中介
 
-- “噢，亲爱的。今天会非常有趣。”  
-  *“Oh dear. This is going to be an interesting day.”*
-- “一定要配奶酪，面包单吃有些寡淡。”  
-  *“Make sure to use the cheese. The bread is a bit bland without it.”*
-- “别想太多。”  
-  *“Don't think too much about it.”*
-- “不论结果如何，我仍把你当朋友。”  
-  *“Despite the competition, I still consider you a friend.”*
-- “很好, 陛下。也希望您一切同样顺利？”  
-  *“Wonderful, Your Imperial Majesty. I hope the same is for you?”*
+- “哎呀。这将会是有趣的一天。”
+- “一定要涂奶酪。不然面包的味道有点淡。”
+- “哈哈，不好意思。我想我们还没有自我介绍过。你已经知道我是Alexios了，但你也可以叫我Alex。”
+- “你好Marco。所以现在我们不用再假装你不那么聪明了，你从哪里来？说说你自己吧。”
+- “非常好，陛下。希望您也是？”
 
 ### 防御／拖延
 
-- “这与你无关，胡狼。”  
-  *“That is none of your business, jackal.”*
-- “我只是宠物。”  
-  *“I'm simply a pet.”*
-- “你为什么不直接一点，既然我们终究还要玩这场游戏？”  
-  *“Why be blunt if we're going to play the game anyway?”*
-- “我没说自己知道。”  
-  *“I have no idea.”*
-- “有时我只是和自己说话。”  
-  *“Sometimes I just talk to myself.”*
+- “这与你无关，胡狼。在被你们两个如此对待之后，我必须要说-”
+- “你应该更巧妙一点，不是吗？”
+- “为什么不直接一些呢，还是说我们无论如何都要玩这个游戏，Marco？”
+- “我不知道-”
+- “我想，你还是不打算告诉我任何关于你自己的事吧？”
 
 ### 失控／真实攻击
 
-- “别碰我！”  
-  *“D—don't touch me!”*
-- “以Galen之名，把它弄下去！”  
-  *“BY GALEN! GET IT OFF!”*
-- “我受够这该死的皇宫、精神病态的狼族和发展不完全的Children了！”  
-  *“I'm tired of this goddamn palace and psychopathic wolves and half-developed children!”*
-- “我们全都是间谍，尤其是你。”  
-  *“We're all spies here, including you... especially you.”*
-- “我只想要秩序；狼族没有秩序。”  
-  *“I just want order. The wolves have none of that.”*
+- “别-别碰我！”
+- “我要被杀了...要被杀了...我到底在想什么！？”
+- “如果你别来烦我，我就告诉你你想知道的一切！我受够这个该死的皇宫、变态的狼还有发育不全的Children了！”
+- “Marco！救救我！这个胡狼发疯了！”
+- “你...你还真敢这样和一个Sibling说话。”
 
 ## 十三、沉浸式 RP 运行手册
 

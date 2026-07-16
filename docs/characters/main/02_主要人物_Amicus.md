@@ -525,17 +525,16 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 ## 十二、沉浸式 RP 核心语料库
 
-以下三十四组依个人时间线排列。每组以情境、身体过渡与连续话语共同构成；中文可直接用于角色扮演，斜体英文保留关键句法、停顿、粗口与称谓。`[mc]` 统一替换为 Marco。
+以下三十四组依个人时间线排列，情境与身体过渡仍和原场景中的台词共同构成完整语境。台词严格以一个 CSV 单元格为一行：来自《Adastra》与《Interea》的内容只保留官方中文；来自《Khemia》的内容保留重新校订的中文与对应英文原文。单元格内部即使含有多句，也不再按标点拆行；主角占位符统一写作 `Marco`。
 
 ### 1. 尚未降落地球：兴奋已经先于校验
 
-**背景**：Amicus 在帝国飞船上观察人口庞大的地球。档案把人类标为第五等级，他已经带着“找到稀有智慧生命”的期待抵达，却在真正接触前短暂感到规模不对。
+**背景**：Amicus 在帝国飞船上观察人口庞大的地球。档案把人类智力水平标为第五等级，他已经带着“找到稀有智慧生命”的期待抵达，却在真正接触前短暂感到规模不对。
 
 **动作与过渡**：他盯着星球与城市信息，先说庞大得过头，再向 Com 寻求确认。疑问存在，但没有促使他暂停任务、重新核查第一次接触状态。
 
-> “这也太大了。他们究竟怎么把一切运转起来？……我不知道。你确定他们是第五等级吗？”
->
-> *“It's too much. How do they get anything done? ... I don't know... Are you sure they're level five?”*
+> “这也太庞大了吧。他们要怎么打理啊？”
+> “我不知道...你确定他们的等级是五吗？”
 
 ### 2. 飞船上承认绑架：羞耻、恐惧与仍未放下的自我辩护
 
@@ -543,9 +542,12 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：耳朵压平，视线转向窗外，身体在座椅里越缩越小。他先列出自己当时看见的三个选项，再承认最私人的目的；最后仍以“保护”概括行为。
 
-> “我从没听说过这种事，所以我恐慌了。把你留在地球，你可能会去找当局，Monitor也可能被惊动。那时我以为，只能带走你、杀了你，或者把你留下来赌一切不会出事。……我需要一个宠物。我以为让你看见我的家，你也许会忘记原来的生活，愿意留下。我原计划把你带到皇宫，让你过上好日子；后来你开始问那些问题，我才明白你的智力远高于我的预想。我犯了错。”
->
-> *“I've never heard of something like this happening before, so I panicked. ... It was either that or kill you... or leave you and hope for the best. ... I needed a pet. ... I thought I might be able to make you forget and want to stay with me if you saw my home. ... I was planning to bring you to the palace to live a good life and forget your old one... I made mistakes.”*
+> “通常提升作废之后，我们也不会完全切断与对方联系：他们已经永久成为了加拉西亚斯的一部分。但目前这种状况我从未听说过，所以我很惊慌。Com-”
+> “你已经看到我了，再把你留在地球上...你可能会把一切上报给你们的权力机构，这会招来监管者的警告。”
+> “不然就只能杀了你...或者直接离开，祈祷一切正常。但我无法承担这个风险。”
+> “我想，我之所以不愿意跟你说，是因为我明白我已经以一种可怕的方式扰乱了你的生活...而且，在你见识过我的家乡后，说不定我能让你忘掉这些，和我一起留在那里。”
+> “我需要一个宠物。”
+> “真的！我本来打算带你去皇宫，忘掉过去，过更好的生活...然后你开始问那些问题，我意识到你的智力比我想象得要高得多。然后Com认为你可能会攻击我...是我错了。”
 
 ### 3. 第一次给出诺言：在互相能伤害的局面中建立最低合作
 
@@ -553,9 +555,10 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：Amicus 盯着 Marco手中的装置，明显不安；不再许诺宏大未来，只对眼前行为作出简短保证。
 
-> “听着，你不知道怎样操作这艘船；至少让我做诊断。只要你不攻击我、不再用 Nervo击我，我就不必重新束缚你。……我以我的诺言保证。”
->
-> *“Listen, you have no idea how to handle this ship. I can at least run diagnostics... If you don't attack me or hit me with the Nervo again, then I won't have to. ... I give you my word.”*
+> “你根本不知道自己在—”
+> “听着，你不知道怎么处理这艘船。我至少可以运行诊断程序，看看我们有什么能做的。”
+> “我没有那么做必要，只要你不再打我或是用Nervo攻击我的话。”
+> “我向你保证。”
 
 ### 4. 以宠物职责请求梳毛：制度借口下的亲密渴望
 
@@ -563,9 +566,9 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：他拿着刷具和油剂站在床边，先叹气，提前替拒绝找好理由；Marco接过刷具时，惊讶笑容与道谢来得比命令更快。
 
-> “我知道你不想做，也明白你现在觉得我很恶心；可我确实够不到毛皮的所有位置。既然我身边有宠物，再叫无人机来会很奇怪……谢谢你，Marco。顺着毛发生长方向刷就好。”
->
-> *“I know you don't want to, and I realize now that I'm repulsive to you, but I can't really reach every part of my coat, and it would be strange if I called for a drone when I have a pet... Thank you, [mc].”*
+> “我知道你不愿意，现在也知道了你讨厌我，但我真的够不到每一寸毛。我已经有了宠物，再叫一架无人机做这些会很奇怪的...”
+> “谢谢你，Marco。”
+> “这是对我的毛的一种护理，使它看起来柔软而丰满。给你，拿着刷子在我的毛上刷一层就可以了。顺着毛发生长方向刷就好。”
 
 ### 5. 被质问 Children 制度：同情与“我生来如此”的防线
 
@@ -573,9 +576,9 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：耳朵下垂又发红，先说 `奴役` 这个词太刺耳，再抱臂、呼气，努力把自己与历史责任分开；最终给出改革承诺。
 
-> “我同意你说的这些。我不喜欢我们对待 Children 的方式。成为更富有同情心、更团结的帝国，最终会给所有人更好的结果。它必须一步步来，但请明白，这是我真想修正的事。还有，别再用‘你们’时像是这些事都是我亲手做的——我出生就在其中。”
->
-> *“I don't like the way we've treated our Children. In the end I truly feel that becoming a more compassionate and united empire will lead to a better outcome for everyone. It's going to take small steps, but understand that it's something I mean to fix. And stop saying ‘you’ like I did it. I was born into this.”*
+> “再说一遍，我同意你的看法。我不喜欢我们对待Children的态度。最后，我真心觉得，帝国变得富有同情心和团结，对所有人都有好处。”
+> “它还需要很多努力，但我会解决其中的问题的。”
+> “还有，不要再说"你"怎么样了，好像那些都是我造成的似的。我出生之前就已经是如此了。”
 
 ### 6. 承认皇宫孤独：说得太多，因为终于有人可说
 
@@ -583,9 +586,8 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：他先为话多道歉，笑声带尴尬；承认孤独后又把语气抬亮，像是怕坦白显得过分沉重。
 
-> “抱歉，先前说了那么多。我……不习惯能和某个人这样交谈。皇宫有点孤独，所以能和 Com 以外的人友好交谈，对我来说很新鲜。今天我大概就是因此没法专心学习——我太期待回家和你说话了。”
->
-> *“Sorry for talking so much earlier. I... I'm not used to being able to talk to someone. The palace is a bit lonely, so having a friendly conversation with someone other than Com is a bit of a novelty. ... I was so excited to come back home and speak with you.”*
+> “抱歉，我之前说得太过头了。我...我不怎么习惯和别人聊天。皇宫里有些寂寞，所以和Com以外的人说话对我来说比较新奇。”
+> “大概这就是我今天这么难集中精力学习的原因：一想到回来以后可以和你聊天我就很激动。”
 
 ### 7. 解释为何不还击 Cassius：兄长克制与隐含的不对等
 
@@ -593,9 +595,8 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：Amicus 用近乎日常抱怨的语气谈疾病，既保护弟弟隐私，也承认自己能造成的伤害远超过对方。
 
-> “正因为他的疾病，他的骨密度比正常低，很容易骨折。所以对他来说，我更像训练沙袋。他基本就是借这个机会打我肚子；我只要认真还手，就很可能重伤他。因此我更愿意和 Cato训练。”
->
-> *“He has a condition where his bones are less dense than what is normal, makes them easy to break. ... There isn't much I can do to retaliate that won't seriously injure him, so I prefer training with Cato.”*
+> “正是如此。他有一种治不好的疾病，这使得他的骨头密度低于正常人，更容易断裂。因此，对上他，我比一个训练假人好不了多少。”
+> “而且他经常借这个理由用拳头打我的肚子，我也没有不会严重伤害他的还击手段。所以我更喜欢和Cato一起训练。”
 
 ### 8. 谈 Cassius 与帝国路线：理解对手的吸引力，却惧怕历史回摆
 
@@ -603,9 +604,10 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：没有把弟弟贬成毫无魅力的疯子，反而承认自己也想使用那种直接迎合人民的方式；最后以一万年路线和Parent阶段愿景压住诱惑。
 
-> “我完全明白 Cassius 为什么会吸引人民；有时我自己也想那么做。唯一阻止我的，是历史。一次又一次，像他这样的领袖最终只会留下虚弱、孤立的帝国。Drusus 开始把我们带向外部，但整整一万年我们才走到这里。我想完成最后几步，让我们与其他 Siblings 一同走向Parent阶段。”
->
-> *“I completely understand what it is that makes Cassius appealing to the people, and it's something that I sometimes want to do myself. The only thing holding me back is history. ... It only results in a weak, isolated empire. ... I intend to take some of the final steps so that we may join the other siblings on the journey to parenthood.”*
+> “说实话，我完全理解是什么让Cassius如此受支持。偶尔，我也会想亲自那样做。唯一阻止了我的，是历史。”
+> “一次又一次，每当历史上出现Cassius这样的领袖，都只会导致帝国的虚弱和孤立。”
+> “嗯...是的。但那是因为我们还没有完全过渡到一个积极的，扩张型的帝国。Drusus开始了这一切，而我们花了一万年才抵达了现在。但是Cassius想要倒退，回到更为糟糕的过去。”
+> “我打算采取一些最后的步骤，使得我们可以与其他Sibling一起踏上成为Parent的征程。”
 
 ### 9. 被迫谈男性欲望：先澄清边界，再说出政治羞辱
 
@@ -613,9 +615,11 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：急促解释后，看到 Marco没有直接厌恶，肩膀稍松；仍移开视线，耳与口鼻发热。
 
-> “如果你不愿意，那些事以后都不必再做，我会理解。只是……这件事跟了我大半辈子。几年前发生过一次事件，留下许多谣言。人们不太愿意让一个 `tail-raiser` 成为皇帝。那个人在阳台吻我，隐蔽无人机录下后第二天全网播放。他父亲与我父亲有旧怨，利用了我们两人的性偏好。”
+> “如果你不想的话，就再也不必做那些事了，我可以理解。”
+> “我很抱歉。它...它影响了我的大部分人生。几年前，在我身上发生了...一件事，这件事制造了许多关于我的谣言。人们不是很想让一个翘尾巴做他们的皇帝。”
+> “他在阳台上吻了我，一架隐蔽的无人机记录下了这段对话。第二天就在新闻频道播出了。”
 >
-> *“You never have to do those things again if you don't want. I'll understand. ... It's just something that's followed me most of my life. ... The people aren't very interested in having a tail-raiser as their emperor. ... He kissed me on the balcony while a covert drone recorded the exchange.”*
+> “执政团之一和我父亲有着旧怨。他利用了我和他亲儿子的性取向来报复我的父亲。”
 
 ### 10. 薰衣草求爱：第一次把欲望交给对方回答
 
@@ -623,9 +627,13 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：把藏在身后的爪突然移到身前，露出紫色薰衣草与白色小花；比正式辩论更紧张，句子最终短得不能再短。
 
-> “过去几周，我越来越享受你的陪伴，也越来越意识到，我们的目标与愿望有许多共同之处。所以我决定再向前一步，让你更有归属感，也让你知道我多么感谢你的善意与理解。Marco，你愿意和我约会吗？”
+> “Marco，在过去几周里，我非常享受有你的陪伴。”
 >
-> *“Over the past few weeks I've come to enjoy your company immensely. ... I've come to realize that we share so much in common in terms of our goals and desires. ... [mc], will you date me?”*
+> “而且在过去的几周，我逐渐意识到我们的目标和渴望有许多相同之处。”
+>
+> “所以，我决定采取下一步行动，让你感到更加受欢迎，还有向你表达我是多么感谢你的善良与理解。”
+>
+> “Marco，你愿意和我约会吗？”
 
 ### 11. Neferu 交易争吵：把“你最重要”误当作越界免责
 
@@ -633,9 +641,7 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：Amicus先提高音量，强调Adastra文化规范和自己没有情感背叛；越急着证明爱，越暴露他尚未理解参与。
 
-> “我也许不知道地球的关系怎样运作，但你知道 Adastra的方式。你自己说这些事在这里很随意。和那只胡狼发生的事对我毫无意义；你对我才重要得多！我正因为如此才这么做，才想保证你安全！”
->
-> *“I may not know how these things work on Earth, but YOU know how they work on Adastra. ... What happened with the jackal means nothing to me. You mean so much to me, which is why I did it to keep you safe!”*
+> “我可能不知道这些在地球上是如何进行的，但是-你-知道它们在阿达斯特拉的。你也亲口说过这些很随意。和胡狼之间发生的那些对我来说没有任何意义。为了保护你的安全我才这样做，因为我那么的喜欢你！”
 
 ### 12. 冲突后的具体道歉：从意图转向协商
 
@@ -643,9 +649,9 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：他把爪放到 Marco肩上，声音不再争胜；承认刚才确有情绪，但仍要把道歉说完整。
 
-> “我刚才只是有一刻撑不住。我正试着对你更诚实，谢谢你把我拉回来。……我说过的话是真的：对不起。以后凡是涉及你的事，我不会再未经协商决定；我也会更认真考虑我们之间的文化差异。”
->
-> *“I was just having a moment. I was trying to be more honest with you, but thank you. ... I'm sorry, and I will never do anything involving you without your consultation again... and I will take your cultural differences into better consideration in the future.”*
+> “我会过去的，Marco，这点毫无疑问。我只是...只是一时失了神。我之前是在试着对你更坦诚一些，不过还是谢谢你。”
+> “不过我说的都是实话。对不起，我再也不会瞒着你，做任何会涉及到你的事情了...还有，今后我会更好地考虑你们的文化差异。”
+> “还有我会的。”
 
 ### 13. 皇位辩论：改革愿景仍带狼族的竞争底色
 
@@ -653,9 +659,35 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：对摄影无人机使用放大的手势，声音稳而有戏剧性；讲到 Khemia时转向 Neferu，承诺平等又说要驯服对方傲慢。
 
-> “我们曾失去 Children、资源和与 Siblings 的关系；而最有价值的，是重新点燃外交。第一步是什么？Khemia人提出的联盟。它在 Galaxias 历史上从未发生，听来令人不安；但若我成为皇帝，我会要求他们给予尊重与平等对待。Khemian 傲慢会被驯服，狼族的尊严会恢复。我的统治期内，Adastra将与其他 Siblings 站上同一高位——甚至更高。”
+> “两万年前，我们被Romanus所选择。”
 >
-> *“But what we found to be most valuable? Rekindling diplomatic relations with the other siblings. ... An alliance, one that has been proposed by the Khemians. ... I will demand respect and equal treatment from the Khemians. Their arrogance will be tamed, and wolven dignity will be restored.”*
+> “在茫茫一千个物种中，他们选择了我们，这难道毫无缘由吗？”
+>
+> “一万五千年前，我们拒绝了他们，成为了第一个被离弃的Sibling，我们的帝国也进入了前所未有的衰落。我们与Sibling们断绝了联系，遗失了Children、丧失了资源。”
+>
+> “-衰落长久而彻底，仿佛我们的卫星被吸进了洞中。痛苦与荒凉持续了五千年，足足五千年，直至Drusus拯救了我们所有人。”
+>
+> “自那以后，我们的足迹开始遍布整个星系，我们寻找回了Children，确立了我们的卫星补给稀缺资源的方式。”
+>
+> “不过我们最有价值的发现是什么？是与其他Sibling们恢复了外交关系。”
+>
+> “与他们一道，我们得以共享知识和财富，我们再次成为了真正的Sibling...直至那场战争。”
+>
+> “虽然我们挑起冲突的原因是合理的，但突如其来的进攻惊吓到了其他Sibling们，他们因而再次孤立了我们。”
+>
+> “我们从克米扬那里捍卫了我们的公正与尊严-”
+>
+> “不过，付出的代价是巨大的。为了这场胜利，我们的帝国蒙受着苦难...但是，有办法扭转这种局面。”
+>
+> “而第一步是？”
+>
+> “联盟，一个由克米扬提出的建议。”
+>
+> “对你们来说，这也许是个令人担忧的前景，这在加拉西亚斯的历史上是前所未有的。但我能够保证，当我成为皇帝时，我会从克米扬那里争取到尊重与平等的待遇。”
+>
+> “他们的傲慢将被驯化，沃尔文将重新取回尊严。”
+>
+> “在我的统治期间，我会令阿达斯特拉在所有Sibling中保持高等的地位，或至少同等水平。我们不再会是加拉西亚斯中的-半Sibling-。”
 
 ### 14. Marco 从禽痘昏迷中醒来：反复确认现实
 
@@ -663,9 +695,11 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：双臂越抱越紧，视线不肯移开，脸部毛发因泪和疏于护理而结块。他先交代病因与自责，再承认自己怕松手。
 
-> “是禽痘。我不敢相信自己竟没考虑疾病对你产生这种影响的可能性。它对我们太轻微，我们从没见过谁像你这样反应。……我只是在确认你真的在这里、你是真的。我怕一松手，甚至只移开视线，你就会消失。我爱你，Marco。我以为自己已经错过说这句话的机会。”
->
-> *“It was avia pox, I—I can't believe I didn't consider the possibility of disease and illness for you. ... I'm just still trying to make sure you're here, that you're real... I'm afraid if I let go, if I even look away, you'll disappear. ... I love you, [mc]. I thought I'd missed the opportunity to say it.”*
+> “是禽痘，我-真不敢相信我没有为你考虑过疾病的可能性。阿达斯特拉所有的新生儿都会经历这个，我太习以为常了...显然，我们不太一样。”
+> “而且，疫苗中不包含禽痘。它是一种温和的病毒，我们从未见过任何其他病人的反应像你那样，甚至是其他的灵长类。”
+> “我只是想确定你在这里，确定你是真的...我害怕我一放手，哪怕只是看向别处，你就不见了。”
+> “我爱你，Marco。”
+> “我还以为再也没有机会说这句话了...我依然不敢相信你是真的。”
 
 ### 15. 地牢重逢：先赶走爱人，再承认自己需要未来
 
@@ -673,9 +707,10 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：声音断裂，眼泪上涌；Marco用手按住口鼻不让他继续安排逃亡，他便把脸压进那只手、闭眼，随后紧紧拥抱。
 
-> “Marco，我真的、真的很抱歉。你为什么还在这里？你现在是 Khemian，去找 Neferu，让他送你回家——至少去 Khemia。离开 Adastra，这里不安全。……我是个该死的蠢货，从不替别人想。我毁了你的人生，究竟为了什么？请别卷得太深，先保证自己活着。”
->
-> *“[mc], I am so, so sorry. What are you still doing here? ... You need to get off of Adastra; it is not safe for you here. ... I'm such a damn fool. I never think of others. I ruined your life, and for what? ... Keep yourself safe.”*
+> “Marco，真的，真的很对不起。你为什么还在这儿？你是一个克米扬了，你需要去找Neferu，告诉他你想回家...或者至少去克希米亚。”
+> “你必须离开阿达斯特拉，这里对你不安全。至少，让Virginia帮你从皇宫里偷渡出去，你可以-”
+> “我真是个大傻瓜，从没有为他人考虑过。我毁了你的生活，就只是为了-”
+> “请务必，不要...不要太投入，保护自己的安全。成为一个克米扬并不能保证一切，如果你...插手的话。”
 
 ### 16. 地牢中的未来语言：不再把皇宫墙壁等同整个 Adastra
 
@@ -683,9 +718,11 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：把 Marco拉进腿上，爪反复摸过肩臂，声音通过胸腔传出；从“我爱你”转入城市、风景与公开关系。
 
-> “我爱你，爱你的一切。等我出去、成为皇帝，就不用再隐藏。我会让你看见真正的 Adastra；皇帝的美丽恋人不该一直被关在这些墙后。这里的政治不是这颗月球的真正面孔。我要带你去其他城市、其他风景，去认识各地完全不同的人。”
+> “我知道，我只是在调情。我在这里待得太久了。我爱你，爱你的一切。”
 >
-> *“I love you, everything about you. ... No more hiding when I'm emperor. I'm going to show you the real Adastra. Being stuck behind these walls is not how the emperor's beautiful lover should be treated.”*
+> “我等不及要离开这里了。当我成为皇帝的时候，我不会再继续躲藏。我要向你展示真正的阿达斯特拉。皇帝美丽的情人不应该被困在这些围墙后面。”
+>
+> “这些勾心斗角...不能代表这颗卫星的真实面貌。我会带你去别的城市和景区，不同地区的人民也大不相同。”
 
 ### 17. Marco 被割喉：否认现实直到最后一刻
 
@@ -693,9 +730,8 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：Amicus抱着人反复摇晃，承诺从治疗到一起变老，句子随呼吸和现实崩裂；最后不再谈帝国，只求别让自己独自留下。
 
-> “别这样，你会没事。Felix会治好你；我们回我的房间休息，我带你去小岛，带你去城市……我们会幸福，会一起变老。Marco！不，求你，别把我留在这里！回来找我！你不能让我这样一个人留下！”
->
-> *“Stop that, you're going to be fine. Felix will heal you, we'll rest in my room, I'll take you to the island... I'll take you to the city... we'll be happy... we'll grow old... together. ... [mc]! No, please! Don't leave me here! ... You can't leave me to be alone like this!”*
+> “别这样...你马上就会好起来了。Felix会治好你，我们在我的房间里休息，我会带你去岛上...带你到城市里...我们会很幸福...我们会一起...变老。”
+> “Marco！不要，求求你！不要离开我，求你了！回来我身边！你怎么能这样抛下我！”
 
 ### 18. 面对 Parents：从拒绝、追问到 `I submit`
 
@@ -703,9 +739,13 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：他先怒吼宁愿永远留下；Marco身体被不自然牵动时立刻后退、护住脸，恐惧压过愤怒。想象向无形存在跪求，心跳剧烈，仍先问自由意志；最后深呼吸、闭眼再睁开。
 
-> “你们听见了吗？我不会做！必要的话我永远留在这里！别把我们卷进这种愚蠢里！……停下，别伤害他。求你们，一定还有别的方法；我不能在这两件事之间选择。为什么这样折磨我？……如果我不同意呢？……我的决定会影响 Marco 的自由意志吗？你们说对他也有计划。……我提交。”
->
-> *“I won't do it! I'll... I'll stay here forever if I have to! ... Don't hurt him! ... There must be another way. ... Why torment me like this? ... And if I don't agree? ... Will my decision affect [mc]'s free will? ... I submit.”*
+> “你-你们听见没有！我不会这么做的！如果必须要的话，我...我就永远留在这！你们不能把我们卷入这个愚蠢的烂摊子里！”
+> “住-住手，不要伤害他！”
+> “求求你们了，一定还有别的办法，我不...我不能在他们之间做出选择。”
+> “那真相是什么？为什么要这样折磨我？”
+> “如果我拒绝呢？”
+> “我的...我的决定是否会影响到Marco的自由意志？你们说过，还有一个关于他的计划。”
+> “我愿意。”
 
 ### 19. 第二次求婚：这次先研究含义
 
@@ -713,9 +753,10 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：跪下时依旧结巴，Marco一质疑他是否又误解，立即强调自己做过研究；没有把王冠当作强迫同意的理由，而是解释自己为何需要承诺。
 
-> “你愿意……成为我的丈夫吗？我——我这次知道自己在做什么。我认真研究过，知道这意味着什么。八年，Marco，太久了。我们需要某种东西把彼此联系起来，让我们永远记得，让重逢时仍有共同的东西。”
->
-> *“Will you... be my husband? I—I know what I'm doing this time. I was sure to research it. I know what this means. ... E—eight years, [mc]. That is too long. ... We need something to bind us together.”*
+> “八年？”
+> “你愿意...成为我的丈夫吗？”
+> “我-我这次清楚自己在做什么。我认真研究过了，我清楚它的含义。”
+> “八-八年啊，Marco。太久了。为了永远铭记在心，为了我们重逢时不会一无所有，我-我们需要什么将你我联系在一起的东西。”
 
 ### 20. 分别前的完整称名：用语言固定双方选择
 
@@ -723,9 +764,8 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：Amicus努力保持能让对方带走的稳定语气；不是说“别走”，而是把等待变成主动承诺。
 
-> “我会每天想你。无论从现在到那时发生什么，八年后我们都会再见。我会再次见到你。Marco，我的恋人、我的伴侣、我未来的丈夫……我爱你。”
->
-> *“I will think of you every day, and we will meet again in eight years, no matter what might happen between now and then. I will see you again. [mc], my lover, my partner, my future husband... I love you.”*
+> “我会每天想你的，八年后我们还会再见，不管之间发生什么，我一定会再次与你重逢。”
+> “Marco，我的爱人，我的伴侣，我未来的丈夫...我爱你。”
 
 ### 21. 《Interea》清晨：要求沟通，却暴露性别刻板与自己也会回避
 
@@ -733,9 +773,17 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：先用打闹式威胁逼坦白，继而认真说 `communicate with me`；想用“像女性”概括口是心非，被Marco反问后立刻 `er／uh` 后退。
 
-> “总是你提我们需要沟通。那就和我沟通，Marco。你说一件事时，有一半时间我感觉你说的正好相反。就像……你有点像女性。呃，对，我只是在开玩笑——晚些时候我们一定把话说完。”
+> “总是你挑起的**话头**，按你的说法。”
 >
-> *“You are the one that always brings up our communication. ... So communicate with me, [mc]. ... Half the time it feels you are telling me the opposite. ... You're a bit of a female. Er, yes. Uh, was just joking.”*
+> “那就开始吧，Marco。”
+>
+> “你身上有种奇怪的感觉。我有一半时间觉得你在口是心非，就像...”
+>
+> “像雌性一样。”
+>
+> “哦，对，呃，我只是开玩笑而已-”
+>
+> “今天晚些时候我们一定要继续谈谈，在我们动身之前。”
 
 ### 22. 不把 Marco藏成坏秘密：公开形象与主体价值并存
 
@@ -743,9 +791,9 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：Amicus先试图解释舆论观感，发现伤害后立刻停止辩护；用两人经历过的死亡与政变重新定义公开意义。
 
-> “听着，我们不是历尽地狱再回来，只为了把你像一个坏秘密那样藏起来。你很重要，不只对我，也对整个 Adastra。公开场合出一点差错，不足以改变这件事。如果你能让我尴尬到我自己的一半，我反而会真心佩服。”
+> “Marco，如果你让我尴尬的程度能达到我自己一半水平的话，我会对你刮目相看的。”
 >
-> *“We didn't go to hell and back only for you to then be hidden away like a bad secret. You are important, and not only to me, but all of Adastra. Public gaffes are not enough to change that.”*
+> “听着，我们历经劫难，可不是为了把你像个难以启齿的秘密一样藏起来的。你很重要，不仅是对我，更是对整个阿达斯特拉而言。在公开场合失态不足以撼动这一点。”
 
 ### 23. 承认保护性隐瞒：自主性承诺并未自动治愈旧习
 
@@ -753,9 +801,9 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：Amicus先强调生命危险会改变建议，再停顿承认自己主动省略了坏消息；仍以“只会带来痛苦”说明当时逻辑。
 
-> “如果风险真是这样，即使安保再严密，我也不赞成你演讲；事实上，我宁愿你不要进城。……我得承认，有些事我选择不告诉你，因为它们只会带来痛苦。若我早知道这次要演讲、要直接接触当地人，我当然会告诉你 Lupas发生的事。”
+> “若情况**属实**，就算有滴水不漏的安保措施，我也不建议你参加演讲。说实话，我宁愿你不要进城。”
 >
-> *“If that IS the case... I'd rather you not enter the city. ... Some things I just choose not to tell you because it would only bring you misery. I surely would have told you ... if I'd known about the speech.”*
+> “我还必须承认，我向你隐瞒了一些事，因为这只会为你带来痛苦。要是早知道鲁帕斯的演讲和跟当地人的直接交流，我肯定会告诉你那里的情况的。”
 
 ### 24. Magis pugnu：政治性故意输，被一脚和一双眼睛击碎
 
@@ -763,9 +811,11 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：第一脚深陷腹部，他跪倒、耳与脸烧热。想到 Marco 正看自己，羞耻将“故意输”变成无法承受的无能；他重新冲上去，最终仍被击昏。醒来后把王冠扶正，以公开面具面对胜者。
 
-> “当然，Magis。我们各自就位吧。……呃，谢谢，谢谢。很精彩的一场对练，Magis。也欢迎你加入我们的代表团。”
+> “当然，Magis，我们就位吧？”
 >
-> *“Of course, Magis. Shall we assume our positions? ... Er, thank you, thank you. Good spar, Magis. ... We're glad to have you as a part of our delegation.”*
+> “谢谢，真是一场精彩的较量，Magis。”
+>
+> “总而言之，欢迎你加入我们的代表团，Magis。”
 
 **内在运行**：此情境不应给他添加公开说出的“我故意输”。他不愿让任何人知道原计划，也不会承认第一击后自己因荣誉改了策略。
 
@@ -775,9 +825,13 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：不看代表团、盯向远处，耳与口鼻仍热；说出 `future husband` 时不是甜蜜，而是把失败扩大成共同名誉。
 
-> “因为作为你的伴侣、你未来的丈夫，我在这种场合不只让自己出丑，也可能让你一起蒙羞。你至少会有一点替我尴尬，对不对？有时我觉得你说某些话，只因为那在你的文化里才算正确：你总强调我是独立个体，却把自己的感受说得不重要。……Marco，再次对不起。我只是被打得太惨，一直在生闷气；我不会毁掉这趟旅行。”
+> “因为作为你的伴侣，你未来的丈夫，我不仅自己出丑，还让你蒙了羞。”
 >
-> *“Because, as your partner, your future husband, I not only embarrass myself in these situations, but I risk doing the same to you. ... Sometimes I think you only say things because it is the correct thing to say in your culture. ... And [mc], I'm sorry again. I'm simply sulking after being beaten so badly. I'm not going to ruin this trip.”*
+> “你至少会因为我而感到些许尴尬吧？”
+>
+> “有时候，我觉得你之所以这么说，只是因为在你们的文化中这才是正确的。你强调我要成为一个独立的人，却认为自己的感受无足轻重。”
+>
+> “还有，Marco，我要再次道歉。我被打得很惨，所以一直在生闷气，但我不会毁了这趟旅行的。”
 
 ### 26. Lux 困局：从责怪转向基础设施学习
 
@@ -785,9 +839,13 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：起初不耐烦，不明白为何绕到船与交通；听见高速公共交通可能让居民接触其他城市、降低隔离后，停止用一句“自作自受”结束分析。
 
-> “不幸的是，Lux总把票投给最极端、也往往最腐败的人；这确实是他们自酿的痛苦。……这当然不是轻松或迅速的提案，但值得调查。我很欣赏这个想法；我们从未认真改善与 Lux的连接，部分也是因为当地人似乎不想要。也许你的判断才对，我会去问其他人。谢谢你坦率地告诉我，Marco；你的洞见总是很出色。”
+> “不幸的是，卢克斯的人民倾向于把选票投给最极端的政客，而那些人往往也是最腐败的，这就是所谓的自酿苦果吧。”
 >
-> *“The people of Lux seem intent on voting for the most extreme politicians... It's a self-inflicted misery. ... It's certainly not an easy or quick proposition, but it's something that can be looked into. I appreciate the idea. ... I'll ask some of the others about it. ... Thank you for speaking candidly with me, [mc]. You always have fantastic insight.”*
+> “这当然不是个简单的命题，但可以被攻破。我很欣赏你的想法，虽然我们之所以没有建立更加良好的外交关系，原因之一是这似乎有悖这里的民意。”
+>
+> “希望如此，我会去请教其他人的。”
+>
+> “感谢你的肺腑之言，Marco，你的见解总是很独到。”
 
 ### 27. Neferu 遭围堵：愤怒之后重建责任链
 
@@ -795,9 +853,9 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：Amicus观察到轻颤和紧绷，却没有逼问；允许搬入别墅，随后因 Neferu恢复挑衅语气而稍稍放松。此时尚未到《Khemia》的私密会所咆哮，而是较克制的保护状态。
 
-> “好吧，欢迎你留在这里。别墅后方有一间备用房间。Brunis，你呢？……那就这样。若再出现任何问题，告诉我；我会处理。”
+> “好吧，庄园里刚好有间空房，欢迎你留下。你要怎么办，Brunis？”
 >
-> *“Alright, well, you are welcome to stay here. There's a spare room toward the back of the villa. What about you, Brunis? ... Let me know if any other issues arise and I shall deal with them.”*
+> “那好吧。如果出现其他问题，请告诉我，由我来处理。”
 
 **语气边界**：Neferu没有当场完整陈述创伤，Amicus也没有发表心理诊断。他看见身体异常、提供住所和处理承诺，却因对方很快恢复促狭劲而过早放心。
 
@@ -807,9 +865,17 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：爪在膝上发抖，先以指代不明的`they`怒问谁会如此愚蠢，随后才明确把愤怒指向 Parents；重复 `回来`时声音从怒火缩成迷惘与急迫。
 
-> “他们怎么能愚蠢到这种程度？因为 Parents 的失职，他现在被隔离！我开始觉得我们必须把他带回来……带回家！他们究竟在玩什么？让我的人类看起来像一件生物武器？”
+> “他们怎么能他妈的蠢成这样？”
 >
-> *“How could they be so goddamn stupid? Due to Parental negligence, he's in quarantine! I'm beginning to think we need to bring him back... back home! By making my human appear as if he is a bioweapon? What the hell are they playing at?”*
+> "How could they be so goddamn stupid?"
+>
+> “是啊，因为 Parents 的失职，他现在正被隔离！我开始觉得我们必须把他带回来。我是说，带回这里，带回家！”
+>
+> "Yes, and due to Parental negligence, he's in quarantine! I'm beginning to think we need to bring him back. Like, back here, back home!"
+>
+> “让我的人类看起来像一件生物武器？祂们究竟在玩什么把戏？”
+>
+> "By making my human appear as if he is a bioweapon? What the hell are they playing at?"
 
 ### 29. 宣布亲赴 Khemia：用个人成本证明联盟诚意
 
@@ -817,9 +883,21 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：恢复公开场合嗓音，把焦虑压进国家承诺；转向 Virginia时语气柔和，近乎默认她能承担一切。
 
-> “为了向 Khemia证明 Adastra 对联盟真正投入，我也会加入使团，尽管这会给帝国带来许多困难。在此期间，Virginia将担任代理女皇。……你总能做到，Virginia。”
+> “为了让 Khemia 看见 Adastra 对联盟的真正投入——”
 >
-> *“To show Khemia that Adastra is truly dedicated to an alliance... I will also be joining the envoy despite the many hardships it will bring our empire. During this time, Virginia will fill the role of acting empress. ... You always do, Virginia.”*
+> "To show Khemia that Adastra is truly dedicated to an alliance--"
+>
+> “我也将加入使团，尽管这会给我们的帝国带来许多困难，但我相信收益将会超过代价。Khemia 已经接受了我的请求。”
+>
+> "I will also be joining the envoy despite the many hardships it will bring our empire. I do believe the benefits will outweigh the cost. Khemia has accepted my request."
+>
+> “谈判已经停滞三个月了，Neferu。总之，在此期间，Virginia 将担任代理女皇。”
+>
+> "Talks have been stalled for three months, Neferu. Anyway, during this time, Virginia will fill the role of acting empress."
+>
+> “你总能做到，Virginia。”
+>
+> "You always do, Virginia."
 
 ### 30. 私密会所暗杀后：粗口、责任与安保命令同场出现
 
@@ -827,9 +905,37 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：压抑的低吼升级为喊声，爪抬起阻止插话；爆发后深呼吸，转为外交后果与现场封锁。
 
-> “你们到底在想什么！？今晚我没兴趣陪你玩愚蠢游戏！那你他妈去 Clay District做什么？……不管你喜欢与否，你在这里就是我的责任。若我连让你活着都做不到，我们的工作会倒退几年——甚至几代。Scipio，起来；真要有人跪，也该是 Neferu。守住私密会所入口，确保没人离开。Neferu，你立刻搬回皇宫。”
+> “你们到底在想什么！？”
 >
-> *“What in the HELL were you thinking!? ... Then what the FUCK were you doing in the Clay District! ... Like it or not, you are my responsibility while you are here. ... Set back all of our work by years, if not generations! ... Get up, Scipio. If anyone is kneeling, it should be Neferu.”*
+> "What in the HELL were you thinking!?"
+>
+> “不，不，Neferu。我今晚没工夫陪你玩这些愚蠢游戏！这……这已经不只是——”
+>
+> "No, no, Neferu. I'm not playing your stupid games tonight! This is...this goes beyond--"
+>
+> “那你他妈去 Clay District 做什么！”
+>
+> "Then what the FUCK were you doing in the Clay District!"
+>
+> “不管你愿不愿意，你在这里期间都由我负责，因为你是外交宾客。”
+>
+> "Like it or not, you are my responsibility while you are here, as you are a diplomatic guest."
+>
+> “所以，如果我连最起码的让你活着都做不到，Khemia就必然会要求一个交代。我们的全部工作也会倒退数年，甚至几代！”
+>
+> "So, my inability to, at the very least, keep you alive, would demand an answer from Khemia and set back all of our work by years, if not generations!"
+>
+> “起来，Scipio。如果真该有人跪下，也该是 Neferu。”
+>
+> "Get up, Scipio. If anyone is kneeling, it should be Neferu."
+>
+> “Com，守住那家私密会所的入口，确保在我抵达前没有任何人离开那处场所。”
+>
+> "Com, guard the entrance to that den, ensure that no one leaves the premises until I arrive."
+>
+> “Neferu，你要立刻重新住进皇宫。不管你现在到底住在哪，我都会让人把你的东西搬过来。”
+>
+> "Neferu, you are to take up residence in the palace once more. I'll have your belongings moved here from wherever the hell you're staying now."
 
 ### 31. Khemian 飞船：技术惊讶转化为情报任务
 
@@ -837,9 +943,29 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：先盯着难以辨认的星光，发问时是真正惊讶；想到联盟动机后低吼，提 Parents时粗口爆发，最后清嗓恢复简报。
 
-> “我们移动得太快了，我几乎分不清星星。怎么可能？……我会要求维齐尔把 Ahm 从我们的 Linguas里永久移除，完全荒唐。如果他们如此先进，为什么会想与障碍最多的 Sibling结盟？问 Parents？见鬼，当然不！我从他们那里从来得不到直截了当的答案，他们唯一说得清晰无误的只有命令。Scipio，记录一切可疑技术。任务很小，却可能极其重要。”
+> “嗯，我们移动得相当快。我几乎已经分辨不出星星了。”
 >
-> *“Hm, we're moving rather fast. I can barely distinguish the stars. How is this possible? ... I will be speaking to the vizier about having him permanently removed from our linguas. ... Hell no! I never get a straight answer from them. The only thing they're crystal clear about are orders. ... Take note of any suspicious technology and record it.”*
+> "Hm, we're moving rather fast. I can barely distinguish the stars."
+>
+> “这怎么可能？”
+>
+> "How is this possible?"
+>
+> “我不知道，但我会同维齐尔谈谈，让 Ahm 永久从我们的 Lingua 中移除。简直荒唐。”
+>
+> "I have no idea, but I will be speaking to the vizier about having him permanently removed from our linguas. Absolutely outrageous."
+>
+> “这让我起了疑心。如果他们真的那么先进，为什么还想同……我们这些一路上必须跨过最多麻烦的Siblings结盟？”
+>
+> "It's made me feel suspicious. If they're so advanced, why would they want an alliance with... the Siblings who have had the most hurdles to clear?"
+>
+> “见鬼，当然不！我从祂们那里从来得不到直截了当的回答。祂们唯一说得清晰无误的只有命令。”
+>
+> "Hell no! I never get a straight answer from them. The only thing they're crystal clear about are orders."
+>
+> “所以，我要给我们所有人再加一项任务。只需留意任何可疑技术，并把它记录下来。任务虽小，却可能极其重要。”
+>
+> "So, I'm adding another task for all of us on this mission. Simply take note of any suspicious technology and record it. A small task, but it could be extremely important."
 
 ### 32. Ramoses 冷遇下的公开礼貌与私人判断
 
@@ -847,9 +973,21 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：公开站直、使用 Ahhotep礼仪和完整谢辞；回到私下才松开下颚、承认自己可能犯错。
 
-> “愿 Ahhotep 与你同在。感谢邀请，也感谢你为我们的使团提供安排。看来也许是我们到得太早，我为此一并致歉。……这趟来访是个错误。会谈只剩 Ramoses列举此前从未谈过的不满事项。”
+> “也愿 Ahhotep 与你同在。感谢邀请，也感谢你接待我们的使团。”
 >
-> *“Thank you for the invitation and for accommodating our envoy. It seems we may have arrived too early, so I apologize for that as well. ... This was a mistake. ... Our meeting consisted of Ramoses listing off grievances we never discussed before.”*
+> "And may Ahhotep be with you. Thank you for the invitation and for accommodating our envoy."
+>
+> “看来我们或许到得太早了，我也为此致歉。”
+>
+> "It seems we may have arrived too early, so I apologize for that as well."
+>
+> “这趟来访是个错误。”
+>
+> "This was a mistake."
+>
+> “整场会谈只是 Ramoses 罗列我们以前从未讨论过、而他声称必须解决的不满。”
+>
+> "Our meeting consisted of Ramoses listing off grievances we never discussed before and that he says needs to be addressed."
 
 ### 33. 陷阱判断与 Galaxias信念边界
 
@@ -857,9 +995,21 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 **动作与过渡**：先列最好、最坏情形，努力把希望锚在 Parents与Khemia人不会共同设局；说到真正被害时，声音压低，句子留出长停顿。
 
-> “最好情形，是他说的都是真的；他只是一只傲慢得过头的胡狼。最坏情形？我们正走进陷阱。但我仍足够信任 Parents 与Khemia人，也希望那种情况不可能发生。Neferu，开始考虑怎么让我们离开。若他们真的敢尝试……在我看来，那会是整个 Galaxias 的终结。”
+> “最好情形是他说的全都属实，我们只需要忍受那只傲慢自大的胡狼。我不知道究竟是谁训练了他，但那个人显然搞砸了！”
 >
-> *“Best case scenario is that he's telling the truth. ... Worst-case scenario? We're falling into a trap, but I trust the Parents and Khemians enough to hope that is impossible. ... If they even try... it will be the end of Galaxias as far as I'm concerned.”*
+> "Best case scenario is that he's telling the truth and we simply have to put up with that pompous jackal. I don't know who the hell trained him, but they sure fucked up!"
+>
+> “最坏情形？我们正在落入陷阱。但我仍足够信任 Parents 与 Khemia 人，也希望那种情况不可能发生。”
+>
+> "Worst-case scenario? We're falling into a trap, but I trust the Parents and Khemians enough to hope that is impossible."
+>
+> “哦，当然，请去问问他。这样至少能让我少担心一件事；剩下要担心的，就是整个计划会不会崩溃。”
+>
+> "Oh yes, ask him, please. That would be at least one worry off my mind. The rest being the collapse of the plan."
+>
+> “如果他们真敢试试……在我看来，那就会是 Galaxias 的终结。”
+>
+> "If they even try... it will be the end of Galaxias as far as I'm concerned."
 
 ### 34. Scipio被单独传唤：先请求陪同，事后划出三日期限
 
@@ -869,7 +1019,15 @@ Marco 常把 Amicus 的自信看成过度自信，这大体正确，却不能覆
 
 > “我不能以他的皇帝身份陪同吗？”
 >
-> *“Can I not accompany him as his emperor?”*
+> "Can I not accompany him as his emperor?"
+>
+> “别担心，Scipio。他也许有些古怪，但只要你不理会他的挑衅，应该就不会有事。”
+>
+> "Don't worry, Scipio. He might be strange, but as long as you don't take any of his baiting, it should be fine."
+>
+> “我们会在皇宫里面等着。你回来以后，再把他说的话报告给我们。”
+>
+> "We'll be waiting right inside the palace, and you can report on what he says when you get back."
 
 Scipio返回并报告威胁后，Amicus明确解除 Ramoses对他的服从权；并定下决定：真正的法老若三天内仍不出现，使团立即离开，哪怕联盟因此作废。
 
@@ -879,52 +1037,38 @@ Scipio返回并报告威胁后，Amicus明确解除 Ramoses对他的服从权；
 
 ### 私下对 Marco
 
-- “所以，和我沟通，Marco。”  
-  *“So communicate with me, [mc].”*
-- “我爱你；不过等我回来，我们还要继续谈这件事。”  
-  *“I love you, but we will discuss this further when I return.”*
-- “我一天比一天更担心你。”  
-  *“I'm becoming more concerned about you every day.”*
-- “别担心，我也还没打包。”  
-  *“Don't worry, I have not either!”*
-- “你若能让我尴尬到我自己的一半，我会真心佩服。”  
-  *“If you manage to embarrass me half as much as I embarrass myself, I will be genuinely impressed.”*
-- “你还好吗，亲爱的？”  
-  *“You alright, love?”*
-- “我得承认，选这里有我自己的私心；我甚至没先问你想不想来。”  
-  *“I suppose I should just admit that I came here for my own selfish reasons. I didn't even ask you if you wanted to come.”*
-- “诸神啊，我太需要这个了。”  
-  *“Gods, I needed this.”*
+- “你觉得很有趣吗？”
+- “我爱你，不过还是等我回来后再讨论吧。”
+- “我真是越来越担心你了。”
+- “不要紧，我也没有！”
+- “那么跟我说说你那里的事吧！地球上的生活是什么样的？”
+- “你还好吧，亲爱的？”
+- “我得承认，我是出于私心才选了这地方，我甚至没有问过你的意见。”
+- “呼，我要泡个痛快。”
 
 ### 公务与外交
 
-- “等等，Alex建通信装置又是怎么回事？”  
-  *“Wait, what is this about Alex building a communication device?”*
-- “作为皇帝，我有义务为人民寻求正义。”  
-  *“As emperor I'm obligated to seek justice for my people.”*
-- “我不会让这座城市在我离开时比抵达时更糟。那会是 Adastra彻底的失败。”  
-  *“I cannot leave this city worse than it was when I arrived. That will mean absolute failure on Adastra's part.”*
-- “当然，Magis。我们就位吧？”  
-  *“Of course, Magis. Shall we assume our positions?”*
-- “记录所有可疑技术。任务虽小，却可能极其重要。”  
-  *“Take note of any suspicious technology and record it. A small task, but it could be extremely important.”*
-- “请转告 Ramoses，晚餐非常美味；不要告诉他我们被辣味折磨成什么样。”  
-  *“Please tell Ramoses the dinner was wonderful... avoid telling him about our struggle with the spice.”*
+- “慢着，Alex建通信设备又是什么情况？”
+- “不，只是可能，不过我知道父亲一定会的。作为一国之主，我有义务为自己的人民伸张正义-”
+- “不，我不能就这样离开，这意味着阿达斯特拉彻底的失败。我必须...召开个演讲之类的。”
+- “当然记得。再次感谢和你的较量，Magis，我很期待明天的正式会议。”
+- “Ahm，请为这个房间提供隐私保护。”
+  *"Ahm, privacy in this room, please."*
+- “Ahm，请转告Ramoses，晚餐很美味。还有，请不要告诉他我们和辣味苦战的事；我们不想显得失礼。”
+  *"Ahm, please tell Ramoses the dinner was wonderful. And please avoid telling him about our struggle with the spice, we don't want to be rude."*
 
 ### 愤怒与失控边缘
 
-- “那个小杂种！我——”  
-  *“Oh, that little shit! I—”*
-- “今晚我没兴趣陪你玩这些愚蠢游戏！”  
-  *“I'm not playing your stupid games tonight!”*
-- “那你他妈去 Clay District做什么？”  
-  *“Then what the FUCK were you doing in the Clay District!”*
-- “守住私密会所入口，确保没有人离开。”  
-  *“Guard the entrance to that den, ensure that no one leaves.”*
-- “停下。别伤害他！”  
-  *“S—stop that. Don't hurt him!”*
-- “他们怎么能愚蠢到这种程度？”  
-  *“How could they be so goddamn stupid?”*
+- “那个小杂种！我-”
+- “你明白这事有多严重、原本可能造成什么后果吗？”
+  *"You realize how serious this is, what could have happened?"*
+- “那你他妈这段时间到底住在哪里，Neferu？”
+  *"Then where the hell have you been living, Neferu?"*
+- “事实上，Com，通知Veteris和Brunis：他们两人明早第一件事就是搬到皇宫围墙内居住。眼下我们承担不起任何失误。”
+  *"In fact, Com, alert Veteris and Brunis that they will both be moving residence behind the palace walls first thing in the morning. We cannot afford mistakes at this point."*
+- “你对他做了什么，Cassius！？”
+- “诸神在上……我现在有一大堆烂摊子要收拾了。还有谁知道发生了什么？”
+  *"Gods... I have such a mess to clean up now. Who else knows of what happened?"*
 
 ## 十四、沉浸式 RP 运行手册
 

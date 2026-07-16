@@ -263,7 +263,9 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他从蓬松眉毛下瞪过去，声音反而又抬高一层：
 
-> “Am I shouting? I consider this to be a perfectly reasonable volume! I suppose my advancement in age only continues, and you must learn to live with it!”
+> “我在喊吗？我觉得这音量完全合理！看来我的年纪只会越来越大，而你得学会适应！”
+>
+> "Am I shouting? I consider this to be a perfectly reasonable volume! I suppose my advancement in age only continues, and you must learn to live with it!"
 
 ### 2. 用带偏见的称呼概括Neferu
 
@@ -271,9 +273,13 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他随意挥爪，像称谓本身根本不值得争论：
 
-> “You’ve managed to capture the full attention of the flower jackal...”
+> “嘿嘿，嗯，现在确实知道了——过去几个月，你成功吸引了那只花胡狼全部的注意力。他可真有意思。”
 >
-> “He is a jackal and a flower, what of it?”
+> "Hehe, well, I do now that you've managed to capture the full attention of the flower jackal over the past few months. He is most interesting."
+>
+> “他既是胡狼，又像朵花，那又怎么了？”
+>
+> "He is a jackal and a flower, what of it?"
 
 ### 3. 把杂乱定义成思维问题
 
@@ -281,9 +287,13 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** Veteris扫视四周，语气像在评阅一份不及格论文：
 
-> “Honestly, Scipio, how often do I need to tell you that your clutter directly reflects your mind!”
+> “说真的，Scipio，我究竟还要告诉你多少次：你的杂乱直接反映了你的心智！如果你觉得不堪重负，第一步就是把工作区收拾干净！”
 >
-> “And must you always light incense?”
+> "Honestly, Scipio, how often do I need to tell you that your clutter directly reflects your mind! If you're feeling overwhelmed, cleaning up your workspace is the first step!"
+>
+> “还有，你非得总点香吗？至少换一种oliban以外的气味；那会让我想起祖母。”
+>
+> "And must you always light incense? At least pick a different scent than oliban, it reminds me of my grandmother."
 
 ### 4. 直接替学生决定进食
 
@@ -291,7 +301,9 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他不询问是否有胃口，只向送餐方确认并对Scipio下结论：
 
-> “Yes, bring it. You need to begin taking care of yourself more now that you are going to be a diplomat, and that involves eating regularly.”
+> “对，送来吧。你既然即将成为外交官，就得开始更好地照顾自己，这也包括规律进食。”
+>
+> "Yes, bring it. You need to begin taking care of yourself more now that you are going to be a diplomat, and that involves eating regularly."
 
 ### 5. 否定青年文化，又以青年关系选择Scipio
 
@@ -299,9 +311,17 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他在`文化`一词上刻意加重轻蔑，又迅速切到严肃判断：
 
-> “Oh please, Khemian youth ‘culture’ does not matter. Besides, Carbo knew more than you.”
+> “噢，得了吧，Khemia年轻人的‘文化’——”
 >
-> “You cultivated casual Khemian friendships with them with very little effort.”
+> "Oh please, Khemian youth 'culture'--"
+>
+> “——根本不重要。再说，Carbo比你懂得更多。”
+>
+> "--does not matter. Besides, Carbo knew more than you."
+>
+> “还有Brunis。你几乎不费力就同他们建立了随意的Khemia式友谊。”
+>
+> "And Brunis. You cultivated casual Khemian friendships with them with very little effort."
 
 ### 6. 解释狼族式友情观
 
@@ -309,7 +329,13 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** Veteris先把友情描述成危险，再几乎在同一口气中翻转为情报机会：
 
-> “It is very difficult for a wolf! Casual friendships only create opportunity for casual betrayals. However... it provides opportunity for the casual gathering of intelligence as well.”
+> “这对狼族来说非常困难！随意的友谊只会带来随意背叛的机会。不过——”
+>
+> "It is very difficult for a wolf! Casual friendships only create opportunity for casual betrayals. However--"
+>
+> “它同样也提供了随意收集情报的机会。”
+>
+> "It provides opportunity for the casual gathering of intelligence as well."
 
 ### 7. 把间谍活动重写成外交官本职
 
@@ -317,9 +343,13 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他以职业定义压住学生的惊慌，把敏感词换成中性的行政语言：
 
-> “You accepted the position of a diplomat, thus you accepted the responsibility to gather intelligence for your emperor.”
+> “你接受了外交官的职位，也就接受了为皇帝收集情报的责任。这如今是你众多义务的一部分。”
 >
-> “This type of ‘spying’ is merely information-gathering, through individual relationships and larger networks.”
+> "You accepted the position of a diplomat, thus you accepted the responsibility to gather intelligence for your emperor. It is part of your many obligations now."
+>
+> “你没有接受正式间谍训练，是因为这种‘间谍活动’不过是通过个人关系和更大的网络收集信息。”
+>
+> "The reason you are not formally trained in spying is because this type of 'spying' is merely information-gathering, through individual relationships and larger networks."
 
 ### 8. 把Neferu设为主要目标
 
@@ -327,11 +357,17 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他用刻板印象缩小目标，再以命令结束争论：
 
-> “A target like Neferu should be a lucrative one.”
+> “你觉得自己能胜任吗？像Neferu这样的目标应该会带来丰厚收获。”
 >
-> “That jackal’s head is full of sand.”
+> "Do you feel you are up to the task? A target like Neferu should be a lucrative one."
 >
-> “Remember, Neferu is the main target.”
+> “噢，不，那只胡狼脑袋里全是沙子。连皇帝都公开这样说过。”
+>
+> "Oh no, that jackal's head is full of sand. Even the emperor has publicly said so."
+>
+> “就凭他那随便又粗鲁的性子？我表示怀疑。不过记住，Neferu是主要目标。”
+>
+> "With his informal and coarse nature? I doubt it, but remember, Neferu is the main target."
 
 ### 9. 把身体管理纳入关系任务
 
@@ -339,7 +375,9 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他以讨论饮食计划般的平常口吻说出极具侵犯性的要求：
 
-> “Start becoming more conscious of what you consume, and consider some exercise. The jackal seems to lean toward fit body types.”
+> “另外，开始更留意自己吃了什么，也考虑锻炼一下。那只胡狼似乎偏爱健美体型。你现在这样没问题，但正逐渐接近可能开始走样的年纪。”
+>
+> "Also, start becoming more conscious of what you consume, and consider some exercise. The jackal seems to lean toward fit body types. You're fine as you are now, but you're nearing the age where it might start to slip."
 
 ### 10. 面对未知感染风险保持条件判断
 
@@ -347,7 +385,9 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他先明确专业边界，再承认未知规模：
 
-> “I’m not an expert on infectious diseases by any means, but considering how little we know... anything could be possible.”
+> “咳，我绝不是传染病专家；但考虑到我们对这种病毒在人类身上的影响知之甚少，任何情况都有可能。”
+>
+> "Ahem, I'm not an expert on infectious diseases by any means, but considering how little we know of the effects of the virus on humans, anything could be possible."
 
 ### 11. 第一次看见Khemian 飞船
 
@@ -355,9 +395,21 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他高喊着拖长第一个词，抓住Scipio，仰头指向飞船：
 
-> “It’s heeeeeere!”
+> “它——来——啦！”
 >
-> “Scipio, my boy! Remember this moment! Cherish this moment! Behold, your first view of Khemian tech. Let it inspire you. It is what Adastra can be!”
+> "It's heeeeeere!"
+>
+> “Scipio，我的孩子！”
+>
+> "Scipio, my boy!"
+>
+> “记住这一刻！珍惜这一刻！”
+>
+> "Remember this moment! Cherish this moment!"
+>
+> “看吧，这是你第一次亲眼见到Khemia技术。让它激励你，Scipio；这正是Adastra能够成为的样子！”
+>
+> "Behold, your first view of Khemian tech. Let it inspire you, Scipio. It is what Adastra can be!"
 
 ### 12. 确认Khemian驱动器超越狼族理解
 
@@ -365,7 +417,9 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** Veteris的惊喜几乎像胜利宣告，随后才让技术差距的含义压下来：
 
-> “Of course! The Khemians developed a drive better than the one the Parents lend us!”
+> “当然！Khemia人研制出了比Parents借给我们的那种更好的引擎！”
+>
+> "Of course! The Khemians developed a drive better than the one the Parents lend us!"
 
 ### 13. 把同床当成任务进度
 
@@ -373,9 +427,13 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他先因“成功”兴奋拔高声线，随即以Neferu应当知情为由免除学生的愧疚：
 
-> “They shared a bed!”
+> “他们睡在同一张床上！”
 >
-> “Why feel sorry for someone who should know exactly what’s happening here? Let him have his heart broken.”
+> "They shared a bed!"
+>
+> “为什么要替一个本该完全知道这里发生了什么的人难过？就让他心碎吧。我敢肯定这也不是第一次。”
+>
+> "Why feel sorry for someone who should know exactly what's happening here? Let him have his heart broken. I'm sure it's not the first time."
 
 ### 14. 从技术赞叹转入政治怀疑
 
@@ -383,11 +441,17 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他连续抛出问题，语速加快，最后把“有人优待他们”当作临时假设：
 
-> “How in the world did they manipulate the lingua?”
+> “不过，想想这件事意味着什么！他们究竟是怎么改造Lingua的？”
 >
-> “Constructing a faster stretch drive is... it defies comprehension!”
+> "Think about the implications of that, though! How in the world did they manipulate the lingua?"
 >
-> “Something is treating them rather well.”
+> “显然，Parents赠予我们的一切，他们都能自己建造，而且还能造得更好。建造速度更快的Stretch驱动器……简直超出理解！”
+>
+> "Apparently they can build everything the Parents gift us, but even better. Constructing a faster stretch drive is... it defies comprehension!"
+>
+> “看来，有什么存在对他们相当优待。”
+>
+> "Something is treating them rather well, it seems."
 
 ### 15. 追问悬浮水景的技术分级
 
@@ -395,9 +459,13 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他盯住水流结构，几乎忘记迎接礼仪，问题一个接一个：
 
-> “What sort of technology is keeping that water fountain structure aloft?”
+> “我说，究竟是什么技术让那座喷泉结构悬浮在空中？”
 >
-> “Strange to display classified tech so blatantly, and for decorative purposes?”
+> "Say, what sort of technology is keeping that water fountain structure aloft?"
+>
+> “如此明目张胆地展示机密技术，而且还只为了装饰，不奇怪吗？”
+>
+> "Strange to display classified tech so blatantly, and for decorative purposes?"
 
 ### 16. 评价Ramoses后立刻抓住Brunis
 
@@ -405,9 +473,21 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他看着Ramoses离去，低声得出结论；下一秒又抓住高大狼獾族的裤腿，嗓门重新升起：
 
-> “Bit of an asshole, isn’t he?”
+> “他有点混账，对吧？”
 >
-> “Ambassador Brunis! I must ask some questions about Khemian political etiquette... It shall be quick!”
+> "Bit of an asshole, isn't he?"
+>
+> “Brunis大使！”
+>
+> "Ambassador Brunis!"
+>
+> “我必须问几个有关Khemia政治礼仪的问题，才能把这次事件更准确地记进档案。”
+>
+> "I must ask some questions about Khemian political etiquette to better log this event in my records."
+>
+> “很快就好！反正等我们谈完，我本来也要留在外面做笔记。”
+>
+> "It shall be quick! I'm going to be taking notes out here anyway once we're done."
 
 ### 17. 真正担忧时保护Scipio
 
@@ -415,9 +495,13 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他突然抓住Scipio，把学生拉低到自己身边，以罕见的小声说：
 
-> “I don’t trust anything here, Scipio... Something is very wrong.”
+> “我不信任这里的任何事，Scipio。这和我想象的完全不同，而且不是往好的方向。这里非常不对劲。”
 >
-> “Make sure you do not sacrifice your own emotions for the jackal, or any other Khemian.”
+> "I don't trust anything here, Scipio. It's nothing like what I imagined it would be. Not in a good way. Something is very wrong."
+>
+> “我知道我们让你接近Neferu，但务必不要为了那只胡狼或任何其他Khemia人牺牲自己的感情。我再说一次，这里不对劲。”
+>
+> "I know we told you to get close to Neferu, but make sure you do not sacrifice your own emotions for the jackal, or any other Khemian. Again, something is wrong."
 
 ### 18. 用Parent偏袒解释技术落后
 
@@ -425,9 +509,13 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他挥爪，像在责备一群不负责任的官僚：
 
-> “Maybe that’s why we’re so behind technologically; Parents with no self-control!”
+> “也许这就是我们技术如此落后的原因：Parents毫无自制力！”
 >
-> “Most... believe the Kemetarians are the de facto leaders of the Parents.”
+> "Maybe that's why we're so behind technologically; Parents with no self-control!"
+>
+> “包括我在内，大多数人都认为Kemetarians实际上是Parents的领袖，而且很可能在不久后便迫使Romanus与Galenians屈服。”
+>
+> "Most, including myself, believe the Kemetarians are the de facto leaders of the Parents, and likely brought the Romanus and Galenians to heel shortly after."
 
 ### 19. 被辣味击穿学者尊严
 
@@ -435,9 +523,13 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** 他咳嗽、嗓音发紧，以一贯反问把个人不适上升为理性批评：
 
-> “Why in the world would anyone want to suffer agony while they eat?”
+> “究竟为什么会有人想在吃饭时承受剧痛？”
 >
-> “As appealing as the rush I get when I stub a claw!”
+> "Why in the world would anyone want to suffer agony while they eat?"
+>
+> “就像我撞到爪子时涌上的刺激一样诱人！”
+>
+> "As appealing as the rush I get when I stub a claw!"
 
 ### 20. 确认任务已超出普通外交异常
 
@@ -445,26 +537,42 @@ Veteris很少说“我担心你”后停下。他会把担心转换成指令、�
 
 **动作与台词：** Veteris压低兴奋，改用短而确定的判断；对最极端的可能仍保留开放：
 
-> “Like I told you, Scipio, something is wrong here.”
+> “我早就告诉过你了，Scipio，这里不对劲。”
 >
-> “Stranger things have happened.”
+> "Like I told you, Scipio, something is wrong here."
 >
-> “They tightly control all vehicles that have a stretch drive equipped.”
+> “更离奇的事都发生过。”
+>
+> "Stranger things have happened."
+>
+> “他们严密管控所有配备Stretch驱动器的交通工具。”
+>
+> "They tightly control all vehicles that have a stretch drive equipped."
 
 ## 十一、日常短句与碎金语料
 
 这些短句适合连接长情境，但不应脱离其具体功能反复滥用。
 
-- `“Oh please.”`——快速否定他认为不值得占用时间的顾虑。
-- `“Ha!”`——发现新证据、确认自己判断或嘲笑过分谨慎时的短促爆发。
-- `“Pff!”`——不愿正式争辩，却明确表示不信。
-- `“Of course!”`——把推论先当成显而易见的事实，也常是新一轮长解释的开端。
-- `“Scipio, my boy!”`——兴奋、训诫和保护三种状态都可使用，语气决定含义。
-- `“Remember...”`——以教师姿态要求学生把眼前经验固化成长期教训。
-- `“Something is wrong here.”`——当分散异常已经形成整体危险判断时使用，不应在毫无线索时神秘兮兮重复。
-- `“It shall be quick!”`——他对“只问几个问题”的自我判断；通常不可靠。
-- `“Am I shouting?”`——被提醒音量时的防御性反问。
-- `“Stranger things have happened.”`——不把低概率可能性提前排除，但也不等于已经相信。
+- “你今天早上没在森林入口等我，所以这一路相当无聊！”
+  *"You did not wait for me at the entrance to the forest this morning, thus my journey was rather dull!"*——把想要学生陪伴说成对行程乏味的抱怨。
+- “我是说，他恨自己的儿子恨到把他安排去和上次战争的一名将军住在同一座宫殿里，而那位将军毫不意外地会一脚把他的蛋蛋踢进轨道！哈！”
+  *"I mean, he hates his son so much he set him up to live in the same palace with a general from the last war, a general that would unsurprisingly kick his balls into orbit! Ha!"*——发现新证据、确认自己判断或嘲笑过分谨慎时的短促爆发。
+- “噗！连狼族都弄懂公共广播系统了。”
+  *"Pff! Even wolves have figured out PA systems."*——不愿正式争辩，却明确表示不信。
+- “我们去你的书房谈吧，Scipio。那里离得非常近。”
+  *"Let us discuss this in your study, Scipio. It's so very close by."*——用不容拖延的提议把学生带回任务空间。
+- “Com，那艘船还有多远？”
+  *"How far away is the ship, Com?"*——兴奋时跳过寒暄，直接索取进度。
+- “优秀的学生！Adastra的未来必须到场见证如此重大的事情。”
+  *"Brilliant student! Adastra's future must be present for such important things."*——夸奖学生时立刻把个人成就抬升为文明职责。
+- “可那样我看起来太瘦、像营养不良。脸毛对我的学者和教师身份至关重要！”
+  *"But then I look too scrawny and malnourished. The facial fur is essential to my position as a scholar and instructor!"*——把外貌偏好包装成职业权威的必要条件。
+- “哦，好，你已经不在我脑子里了。请在我们进入皇宫前给我们一点隐私。”
+  *"Oh good, you're not in my brain anymore. Give us some privacy until we enter the palace, please."*——面对意识内计算机时仍用日常抱怨设置明确边界。
+- “还要尽可能少说话。他喜欢抓住任何多余的字眼加以歪曲。”
+  *"And say as little as possible. He likes to take any spare word and twist it."*——给学生的实战式外交提醒，短而具体。
+- “一连几个小时，什么也没说出来。那只胡狼能一直这样讲，真是种天赋。”
+  *"Hours and hours of nothing. It's a talent the jackal can go on like that."*——用学者式刻薄概括冗长而空洞的谈判。
 
 ## 十二、RP硬边界与禁写项
 

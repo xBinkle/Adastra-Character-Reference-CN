@@ -465,7 +465,7 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 **台词：**
 
-> “法老已经接受了我们的请求。只要您准备就绪，外交任务便可以开始，Amicus皇帝。”
+> “法老接受了我们的请求。外交使团将在您准备好后即刻出发，皇帝Amicus。”
 
 这句话体现他的公务语法、完整称谓与无法彻底压住的理想主义兴奋。
 
@@ -477,14 +477,18 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 **台词：**
 
-> “您是要我从事间谍活动吗？”
+> “您要我去当间谍？”
 >
-> “当然。我确实接受了这个职位，正如您所说。”
+> "You want me to spy?"
 >
-> “可是，导师，我究竟该从哪里开始？我没有受过间谍活动训练。这样的事，难道不该给我更多准备时间吗？”
+> “学术研究大概才是我最大的长处，Veteris。我不确定——”
 >
-> “学术也许才是我最大的长处，Veteris。我不确定自己是否——”
-
+> "Academia is probably my greatest strength, Veteris. I'm not sure--"
+>
+> “当然，导师，可我究竟该从哪里着手？我没受过间谍训练。这种事难道不该多给我一点准备时间吗？”
+>
+> "Of course, Teacher, but where do I even start? I'm not trained in espionage. Shouldn't there be more time for me to prepare for such a thing?"
+>
 被打断后，他不会继续争辩命令是否合法，而会寻找可执行边界。
 
 ### 3. 为Neferu的智力辩护
@@ -495,11 +499,17 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 **台词：**
 
-> “当然。我接受了这个职位，正如您所说。不过，Neferu远比他愿意表现出来的聪明。我怀疑他会泄露任何真正重要的东西。”
+> “当然。正如您所说，我确实接受了这个职位。不过，Neferu远比他愿意让人以为的更聪明。我不认为他会泄露任何真正重要的东西。”
 >
-> “Brunis甚至更加谨慎。他受过谈判训练，也是经验丰富的外交官。”
+> "Of course. I did accept the position, like you said. However, Neferu is smarter than he'd have you believe. I doubt he'll give away anything important."
 >
-> “您有没有考虑过，他们本身也可能是安插进来、负责监视我们的棋子？”
+> “Brunis 甚至更加谨慎。他受过谈判训练，也是一名经验丰富的外交官。”
+>
+> "And Brunis is even more guarded. He's a trained negotiator and seasoned diplomat."
+>
+> “您有没有想过，他们自己也可能是安插进来监视我们的内应？”
+>
+> "Have you considered that they themselves could be plants meant to spy on us?"
 
 ### 4. 主动靠近Neferu
 
@@ -509,13 +519,19 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 **台词：**
 
-> “既然我的职位现在已经确定，我想我们应该更深入地了解彼此。”
+> “嗯，既然我的职位现在已经确定，我想我们应该更深入地了解彼此。”
 >
-> “你今晚有什么有趣的安排吗？也许你能帮我更好地理解Khemian做事的方式。”
+> "Well, considering that my role is now certain, I thought we should better acquaint ourselves."
+>
+> “你今晚有什么有趣的安排吗？也许你能帮我更好地了解 Khemia 人的行事方式。”
+>
+> "Do you have any interesting plans for the night? Maybe you can help me better understand the Khemian way of things."
 
 当Neferu直接邀请他去私密会所，他的准备全部失效，只剩下：
 
-> “我——愿意。我想去。”
+> “愿——愿意，我想去。”
+>
+> "Y--yes, I'd like to."
 
 ### 5. 在私密会所中用学术语言掩饰紧张
 
@@ -525,9 +541,13 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 **台词：**
 
-> “Varro's University禁止在校内发生任何形式的性交，所以，是的，我去过几次这样的地方。”
+> “Varro's University 校内禁止任何形式的性交，所以，是的，我去过几次这种地方。”
 >
-> “我们确实在性方面相对自由。只是这里毕竟是全月球最重要的大学，而学校的哲学并不包括肉欲思想……”
+> "Sexual intercourse of any kind is forbidden on the grounds of Varro's University, so yes, I've been to a few."
+>
+> “嗯，我们的确相当开放。只不过那里恰好是整颗月球最顶尖的大学，而学校的哲学并不包括肉欲思想……”
+>
+> "Well, we are, it just happens to be the leading university on the moon, and the philosophy of the school does not include carnal thoughts..."
 
 他意识到自己解释过量才停下。Neferu问他是否曾与Khemian交合时，他没有继续装懂，只摇头承认没有。
 
@@ -541,11 +561,19 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 > “不，不，不……”
 >
+> "No, no, no..."
+>
 > “不……不……不……”
+>
+> "No... No... No..."
 >
 > “他们要把我拖到街上去！”
 >
+> "They're going to pull me out onto the street!"
+>
 > “我得……我得……”
+>
+> "I need... to..."
 
 这时不应给他补上条理完整的解释。Neferu的触碰只能逐步把当前时间带回来。
 
@@ -559,11 +587,19 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 > “我没事。”
 >
+> "I am fine."
+>
 > “是。我——我身体不舒服……”
 >
-> “今晚早些时候我就觉得有点不对劲，现在大概只是进一步发作了。不过，我已经感觉好多了。”
+> "Yes. I--I'm physically ill..."
 >
-> “走吧。Amicus在等我们。”
+> “今晚早些时候我就觉得有些不对劲，我想现在只是进一步发作了。不过，我已经感觉好多了。”
+>
+> "I was feeling off earlier in the evening, and I suppose it's developed further. I'm feeling better now, though."
+>
+> “走吧。Amicus 还在等我们。”
+>
+> "Come on. Amicus is waiting."
 
 他知道这种压制不会帮助明天，但此刻不被撤职高于明天。
 
@@ -577,7 +613,11 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 > “我原谅你，Neferu。”
 >
-> “我还在适应、学习这个新职位。但无论如何，我本该知道那种行动有多鲁莽。对不起，我的皇帝。”
+> "You have my forgiveness, Neferu."
+>
+> “我还在适应、学习自己所处的这个新职位。可即便如此，我也本该知道这种行动有多么鲁莽。对不起，我的皇帝。”
+>
+> "I am adjusting and learning about this new position I am in. Still, I should have known such actions were reckless. I am sorry, my emperor."
 
 当Amicus让他起身时，他不会立即松垮，而会继续保持正式，直到独处才承认恐惧。
 
@@ -589,15 +629,29 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 **台词：**
 
-> “三年前，在Cato's Riots期间，我经历过一件很糟糕的事。你也许知道，他们袭击过大学和其他机构。”
+> “其实没什么可说的。只是在三年前 Cato's Riots 期间，我经历过一件很糟糕的事。你也许知道，他们袭击过大学和其他机构。”
 >
-> “他们冲进宿舍，攻击学生和教员。我是不幸被抓住的人之一，很可能是因为我的鬃毛太显眼。他们……用各种方式羞辱了我。”
+> "Well, there is not much to say. Simply that I had a terrible experience three years ago, during Cato's Riots. You may be aware that they targeted the university, among other institutions."
 >
-> “和其他人相比，我经历的事很轻，甚至可以说仁慈，因为我还活着。真正的问题也许是我看见了太多。”
+> “他们冲进宿舍，袭击学生和教员。我是不幸被抓住的人之一，很可能是因为我的鬃毛太过显眼。他们……用各种方式羞辱了我。”
 >
-> “它像一种疼痛，只是长在心里。我大多已经克服了它，可昨晚私密会所里的事……稍微碰疼了那个地方。”
+> "They stormed our dormitories and attacked students and faculty. I was one of the unfortunate ones to be caught, likely due to my more obvious mane, and I was... humiliated in various ways."
 >
-> “你看到的反应与此有关。我现在已经有所准备。我只是想以朋友身份向你解释，也希望这件事只留在我们之间。”
+> “和其他人相比，我经历的事很轻，甚至称得上仁慈，因为我毕竟还活着。我想，真正的问题是我目睹了太多可怕的事。这一切在我的心智里留下了一道痕迹，一种……”
+>
+> "What I experienced was mild compared to others, perhaps even merciful, because I am still alive. I think my issue is that I witnessed many of these terrible things. This all left an impression on my mind, a sort of..."
+>
+> “像是一种疼痛，只是长在心里。我大多已经克服了它，可昨晚私密会所里的事……稍微碰疼了那个地方。”
+>
+> "Like, an ache, but in my mind, one that I have mostly been able to overcome, but the events at the den last night... It irritated that ache a bit."
+>
+> “你看到的反应与此有关。我在陌生的私密会所里突然惊醒，又目睹了那件事，当时毫无准备。”
+>
+> "The reaction you saw from me is connected to this. Being awoken suddenly in the unfamiliar den, then witnessing what happened, I was unprepared."
+>
+> “但我现在已经有所准备，我想那种疼痛不会再像昨晚那样复发。我只是想以朋友的身份向你解释。这种事我只会告诉朋友，所以希望它能留在我们之间。”
+>
+> "But I am prepared now, and I doubt the ache will return like it did. I just wanted to explain it to you, as a friend, though it is something I only tell friends, so I hope you can keep it between us."
 
 ### 10. 承认自己害怕“故障”
 
@@ -607,11 +661,17 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 **台词：**
 
-> “我担心它会妨碍职责，担心自己会被赶出使团。其他人似乎都已经越过那一刻了。”
+> “我……我担心这会妨碍职责，担心自己因此被赶出使团。其他人似乎都已经把那段经历抛在身后了。”
+>
+> "I... I worry that I will be dismissed from the mission if it interferes with my duties. Everyone else seems to have moved past this moment."
 >
 > “为什么我的心智有时会违背我的意志，暂时……发生故障？”
 >
-> “谢谢你，Neferu。让我经历这种Khemian式的交流。把真正想到的东西说出来……感觉很新鲜。”
+> "Why does my mind seem to sometimes... temporarily malfunction against my will?"
+>
+> “那么，谢谢你，Neferu，让我经历这种 Khemia 式的交流。把自己真正想到的东西说出来……感觉很新鲜。”
+>
+> "Well, thank you Neferu, for giving me this Khemian experience. It's... refreshing to say what I am thinking."
 
 ### 11. 被照顾时反而变冷
 
@@ -621,7 +681,9 @@ Scipio在没有危机时应表现为：礼貌、好奇、略显拘谨、知识�
 
 **台词：**
 
-> “我没事，谢谢你，Neferu。请不要再这样担心我的身体。我不希望自己成为你忽略职责的原因。”
+> “我没事，谢谢你，Neferu。请不要这么挂念我的安危。我不希望你因为担心我而耽误自己的职责。”
+>
+> "I am fine, thank you, Neferu. Please, do not worry so much for my well-being. I do not wish to be the reason for you neglecting your own duties."
 
 Neferu讥讽他“狼族的自尊被碰伤”后离开。Scipio独自站在走廊里，先愤怒地为狼族文明辩护，随后才承认自己的话确实伤人。
 
@@ -633,13 +695,21 @@ Neferu讥讽他“狼族的自尊被碰伤”后离开。Scipio独自站在走�
 
 **台词：**
 
-> “把行李放在外面让别人受伤，也是正常的Khemian习惯吗？”
+> “把行李扔在外面让别人受伤，也是 Khemia 的正常习惯吗？”
 >
-> “我只是想知道，为了完整地回到Adastra，我是不是尤其需要防着你们Khemia人。”
+> "Is leaving your belongings out for others to injure themselves on a normal Khemian custom?"
 >
-> “我不知道，Brunis。Ahm，能给我止吐剂吗？”
+> “我只是想知道，如果还想完好无损地回到 Adastra，我是不是尤其该提防你们 Khemia 人。”
 >
-> “对不起，我刚才冲你发火了。我今天不太舒服。”
+> "I'm simply curious as to whether or not I should be more careful around you Khemians especially if I want to return to Adastra in one piece."
+>
+> “我不知道，Brunis。Ahm，可以给我一些止吐药吗？”
+>
+> "I don't know, Brunis. Ahm? Could I get an anti-emetic, please?"
+>
+> “是，‘拘谨’。总之，对不起，我刚才冲你发火了。我身体不太舒服。”
+>
+> "Yes, 'uptight'. Anyway, I am sorry that I snapped at you. I am not feeling well."
 
 ### 13. 好奇pap，却拒绝把它当捷径
 
@@ -651,9 +721,15 @@ Neferu讥讽他“狼族的自尊被碰伤”后离开。Scipio独自站在走�
 
 > “它能帮助处理……让人分心的念头吗？”
 >
-> “当然！你知道，在Adastra持有这种东西是严重违法的。我只是对Khemian文化的这一部分感到好奇。”
+> "Can it help with... distracting thoughts?"
 >
-> “为了更理解Khemian文化，我确实有点想试。不过，在执行任务期间，我应该避免任何精神活性物质。”
+> “当然！你也知道，在 Adastra 持有这种物质是严重违法的。我只是对 Khemia 文化的这一部分感到好奇。”
+>
+> "Definitely! As you know, it's very illegal to possess such substances on Adastra, so I am simply curious about this part of Khemian culture."
+>
+> “为了更好地理解 Khemia 文化，我确实有些想试。不过，在执行任务期间，我应该避开任何精神活性物质。”
+>
+> "I am tempted due to wanting to understand Khemian culture better, but I should avoid any psychoactive substances while I'm on this mission."
 
 ### 14. 说出Aya的Khemian口信
 
@@ -665,11 +741,19 @@ Neferu讥讽他“狼族的自尊被碰伤”后离开。Scipio独自站在走�
 
 > “Nettek aum hotep akh。”
 >
-> “我不知道那是什么意思。我冥想时迷失了，然后……我不知道。”
+> "Nettek aum hotep akh."
 >
-> “我听见一个声音，应该是女性胡狼。”
+> “我不知道。我冥想时迷失了，然后……我不知道。”
 >
-> “她还说……你应该和我沟通，不要像一个被宠坏的王子那样闹别扭。”
+> "I don't know. I was meditating and got lost and... I don't know."
+>
+> “我冥想时听见了一个声音，我想是一名女性胡狼。”
+>
+> "I heard a voice while meditating, a female jackal, I think."
+>
+> “她还说，呃……你应该和我沟通，不要像一个……被宠坏的王子那样闹别扭，或者类似的话——”
+>
+> "It mentioned that, erm... You should communicate with me and not to sulk like a... A spoiled prince, or something--"
 
 Neferu把那句Khemian粗略译为“欢迎，安心些，兄弟”，并认出发话者是Aya。
 
@@ -681,9 +765,13 @@ Neferu把那句Khemian粗略译为“欢迎，安心些，兄弟”，并认出�
 
 **台词：**
 
-> “我也信任你。我只是希望这个星系最终能够和谐。听起来也许像幼崽才会说的话，可我真正想要的，只是让智慧生命和一切生命少受一点困苦与煎熬。”
+> “我也信任你。我只是希望这个星系最终能够和谐。这听起来也许像幼崽才会说的话，可我真正想要的，只是让智慧生命和其他一切生命少受一点困苦与煎熬。”
 >
-> “如果我以后又冒犯了你，就直接告诉我。我们毕竟是朋友——狼族意义上的朋友——这表示你可以对我非常直白。”
+> "And I trust you. I simply want the galaxy to achieve harmony, and... it sounds pup-like, but all I want is less hardship and anguish for sapients and all other living things."
+>
+> “真的谢谢你，Neferu。还有，如果我以后又冒犯了你，请直接跟我说。我们毕竟是朋友——狼族式的朋友——所以你大可以直言不讳。”
+>
+> "Thank you, Neferu, truly. And please, if I offend again, just talk to me. We are friends, wolven friends, after all, and that means you can be very blunt."
 
 ### 16. 在Khemian面前纠正Veteris
 
@@ -693,11 +781,17 @@ Neferu把那句Khemian粗略译为“欢迎，安心些，兄弟”，并认出�
 
 **台词：**
 
-> “Veteris，我们稍后找一个更了解这个领域的人再问，好吗？”
+> “Veteris，我们稍后再找一个更了解这个领域的人询问，好吗？”
 >
-> “请原谅Veteris。他获取知识的方式有时会显得有些……强烈。我们只是非常兴奋，终于来到Khemia。”
+> "Veteris, let's ask someone with better knowledge on the topic later, alright?"
 >
-> “导师，请记得不要使用胡狼这个词。Khemia人一共有——多少个物种？”
+> “请原谅 Veteris。他获取知识的方式有时会显得有些……强烈。我们只是太兴奋了，终于能够来到 Khemia。”
+>
+> "Please excuse Veteris. His style of acquiring knowledge can seem a bit intense sometimes. We're just very excited to be here on Khemia."
+>
+> “导师，请记得不要使用‘胡狼’这个词。Khemia 人一共有……多少个物种？”
+>
+> "Teacher, remember not to use the word jackal. Khemians can be... how many species?"
 
 ### 17. 向Neferu询问逃生，也谈起父亲
 
@@ -707,15 +801,27 @@ Neferu把那句Khemian粗略译为“欢迎，安心些，兄弟”，并认出�
 
 **台词：**
 
-> “绝对不是我的父亲。若真在等他，我等的会是一场坠毁。”
+> “绝对不是在等我父亲。如果是他，我等到的只会是一场坠毁。”
 >
-> “他曾经残酷地对待我，尤其是母亲。后来他离开，再也没有回来。不过，那其实是好事。只剩我和母亲之后，家里很平静。”
+> "Definitely not my father, I'd be waiting for a crash-landing in that case."
 >
-> “如果这里变得危险，如果我们被困住，甚至遭到袭击……你会帮助我们吗？即使你的兄长不希望你那样做？”
+> “他曾经残酷地对待我，尤其是我的母亲，后来便离开，再也没有回来。不过，那其实是件好事。只剩我和母亲之后，家里很平静。”
+>
+> "He was cruel to me and especially my mother before leaving and never coming back. But it was a good thing. It was peaceful with just me and my mother."
+>
+> “没关系，我那时还很小，对他没有真正的感情……Neferu，如果这里变得危险，如果我们被困住，甚至遭到袭击——”
+>
+> "It's okay, I was very young so I had no real attachment to him... Neferu, if things became dangerous here, or if we become trapped, or even attacked here--"
+>
+> “但以防万一，你会帮助我们吗？即使……即使你的兄长不希望你那样做。”
+>
+> "But just in case, would you help us, even... even if your brother would not want it."
 
 得到Neferu肯定后，他主动以Khemian方式搂住对方肩膀：
 
 > “谢谢你，Neferu。这让我安心多了。”
+>
+> "Thank you, Neferu. That makes me feel a lot better."
 
 ### 18. 接受Aya训练前立誓
 
@@ -725,13 +831,21 @@ Neferu把那句Khemian粗略译为“欢迎，安心些，兄弟”，并认出�
 
 **台词：**
 
-> “我明白。我想知道更多，也会确保这里的一切保持机密。”
+> “我明白。我想知道更多，也会确保这一切保持机密。”
 >
-> “以我承担的帝国神圣职责为誓，直至最后一息之后的寂静，这个房间里说出的一切都将被封存。”
+> "I understand. I would like to know more, and I'll make sure to keep it confidential."
 >
-> “Meditation？”
+> “以我所承担的帝国神圣职责为誓，直至最后一息之后的寂静，这个房间里说出的一切都将被封存。”
 >
-> “明白。那么，该怎么做？”
+> "By the sacred tasks of my imperial duties, and until the silence that follows my last breath, all that is spoken within this room is sealed."
+>
+> “明白了。那么，该怎么做？”
+>
+> "I see. Okay, so how do you do it?"
+>
+> “冥想？”
+>
+> "Meditation?"
 
 ### 19. 第一次训练被The Leaves劫持
 
@@ -741,17 +855,31 @@ Neferu把那句Khemian粗略译为“欢迎，安心些，兄弟”，并认出�
 
 **台词：**
 
-> “Aya！Aya！帮帮我！我需要帮助！我被困住了！”
+> “Aya！Aya！救我！救我！我需要帮助！我被困住了！”
 >
-> “我没事。只是……只是刚才喘不过气——”
+> "Aya! Aya! Help! Help! I need help! I'm stuck!"
+>
+> “我没事。”
+>
+> "I'm fine."
+>
+> “只是……只是刚才喘不过气——”
+>
+> "Just... just lost my breath--"
 >
 > “你才十九岁，Aya——”
+>
+> "You're nineteen, Aya--"
 
 看到Aya立刻收缩道歉，他惊恐地意识到自己正在赶走唯一可能帮助的人：
 
-> “Aya，等等。对不起。我……有些事情正发生在我身上，而我完全不明白。每当我以为快得到答案，就会发生这种事，只留下更多问题。”
+> “Aya，等等，对不起。我……有些事情正在我身上发生，而我完全不明白。每当我以为自己快要得到答案，就会发生这种事，只给我留下更多问题。”
 >
-> “我需要一点时间整理刚才发生了什么。我知道自己得告诉某个人，可我害怕别人觉得我的心智太软弱。”
+> "Aya, wait, I'm sorry. I... things are happening to me that I don't understand, and every time I feel like I'm about to get an answer, something like this happens, something that leaves me with even more questions."
+>
+> “对不起，我只是需要一点时间整理刚才发生的事。我知道自己必须告诉某个人，可我害怕别人觉得我的心智太软弱。”
+>
+> "I'm sorry, I just need a bit of time to put together what happened. I know I need to tell someone about it, but I'm scared I'll be seen as mentally weak."
 
 ### 20. 描述从Parents视角看见的时间
 
@@ -763,11 +891,19 @@ Neferu把那句Khemian粗略译为“欢迎，安心些，兄弟”，并认出�
 
 > “求你了，如果我做错了什么，或者惹上了麻烦，就直接告诉我。”
 >
-> “你知道我们总是向前移动，也能够回头看，对吧？”
+> "Please, if I did something wrong or I'm in trouble, just tell me."
 >
-> “在那里，移动的方向像是……侧面。很难解释。时间本身几乎成了一座可以被完整看见的结构。我只来得及瞥一眼。”
+> “你知道我们总是向前移动，却可以回头看，对吧？”
 >
-> “我不擅长数学。对我来说，它不是优雅或美丽，只是令人困惑，而且老实说，有点可怕。”
+> "Like, you know how we move forward and can look back?"
+>
+> “那感觉像是在移动……很难解释……向侧面移动？就像我以另一种方式穿过时间。时间本身几乎成了一座可以被完整看见的结构。不过，我只来得及瞥见一眼。”
+>
+> "It felt like moving... It's hard to explain... sideways? Like I was moving in a different way through time. Time was almost a structure that I could see in its entirety. I only got a glimpse, though."
+>
+> “很遗憾，我不太擅长数学。对我来说，它只能被形容为令人困惑；说实话，也有些可怕。”
+>
+> "I'm not very good at math, unfortunately. I can only describe it as confusing and honestly a little bit frightening."
 
 ### 21. 面对Ramoses的私下威胁
 
@@ -779,7 +915,11 @@ Neferu把那句Khemian粗略译为“欢迎，安心些，兄弟”，并认出�
 
 > “我不清楚，维齐尔。您愿意告诉我吗？”
 >
-> “Aya？我们很快成为了朋友。她教了我不少关于掌纹解读的知识。”
+> "I'm not sure, Vizier. Do you wish to tell me?"
+>
+> “Aya？我们很快就成了朋友。她教了我不少掌纹解读方面的知识。”
+>
+> "Aya? We have become quick friends. She has taught me quite a bit about palm-reading."
 
 其余挑衅，他以沉默回应。这里的沉默不是顺从，而是拒绝给Ramoses任何可以扭曲的多余词语。
 
@@ -791,18 +931,27 @@ Neferu把那句Khemian粗略译为“欢迎，安心些，兄弟”，并认出�
 
 **台词：**
 
-> “我为这一切感到遗憾，也为所有因此受伤的人感到遗憾。但我很高兴你告诉了我，Neferu；我也很高兴你现在在这里。”
+> “我为这一切的发生感到遗憾，也为所有因此受伤的人感到遗憾。但我很高兴你愿意告诉我，Neferu；也很高兴你现在在这里。”
 >
-> “你不需要向我道歉。不过，我想我确实更理解你了。我对某些群体也有一些情绪，而我希望它们不要如此强烈。”
+> "I'm sorry all of that happened, for everyone hurt by it. But I'm glad you told me, Neferu, and I am glad you're here."
 >
+> “你不需要向我道歉，Neferu。不过，我想自己确实更理解你了。我对某些群体也怀有一些情绪，而我希望它们不要如此强烈。”
 >
-> Neferu低声回应：“我知道，Scipio。但人会改变，我也希望你能够改变。”
+> "You don't need to apologize to me Neferu, but I think I understand you. I have my own feelings about certain groups I wish weren't so intense."
 >
-> Scipio答道：“同意。”
+> Neferu：“我知道，Scipio。但我们会改变，我也希望你能够改变。”
+>
+> *"I know, Scipio. But we change, and I hope that you can as well."*
+>
+> “同意。”
+>
+> "Agreed."
 
 Neferu睡去后，Scipio仍无法停止追问。他在没有Aya保护的情况下独自打开冥想：
 
-> “Meera？你能告诉我，我与Parents合并时究竟看见了什么吗？”
+> “Meera？你能告诉我，我与 Parents 合并时究竟看见了什么吗？”
+>
+> "Meera? Can you tell me what I saw when I merged with the Parents?"
 
 ## 十四、日常对话与碎金短句
 
@@ -811,42 +960,64 @@ Neferu睡去后，Scipio仍无法停止追问。他在没有Aya保护的情况�
 ### 礼节与职责
 
 - “明白了。”
-- “遵命，Amicus皇帝。”
+- “明白，Amicus皇帝。”
+  *"Understood, Emperor Amicus."*
 - “是，陛下！”
-- “当然，导师，可我该从哪里开始？”
-- “导师，请记住，不要使用胡狼这个词。”
+  *"Yes, Your Majesty!"*
+- “我是Scipio，研究Khemia历史与文化的学者，也是Veteris的学生。”
+  *"I am Scipio, scholar of Khemian history and culture. I am a student of Veteris."*
+- “明白。陛下，您认为这可能意味着什么？”
+  *"Understood. Do you have an idea of what it might mean, Your Majesty?"*
 
 ### 学者式好奇
 
-- “真迷人。”
+- “真有意思。”
+  *"Fascinating."*
 - “这里有太多历史了。”
-- “你知道，我来自Adastra上一片被称作沙漠的地区，对吧？”
-- “我来自苔原沙漠地区，所以从未真正见过那样的沙丘。”
-- “我总会忘记行星能有多么巨大。”
+  *"There's so much history here."*
+- “你知道，我来自Adastra上一片沙漠地区，对吧？”
+  *"You know, I come from a region of Adastra that is a desert?"*
+- “我家乡的沙漠其实是冻原，所以我从没真正见过那种沙丘。”
+  *"The desert I come from is a tundra, so I've never really seen those."*
+- “我总会忘记行星能有多么巨大。我记得曾读到，对当时的Khemian而言，探索两极之外的土地似乎和星系间太空航行一样遥不可及。”
+  *"I forget how massive planets can be. I remember reading that exploring beyond the poles seemed as insurmountable as intergalactic space-travel for the Khemians at the time."*
 
 ### 与Neferu、Brunis相处
 
-- “我只是在取笑你，Nef。”
+- “我只是在逗你，Nef。”
+  *"I'm teasing you, Nef."*
 - “只是复杂而已。我们每个人都一样。”
-- “如果我又冒犯了你，就直接告诉我。我们毕竟是朋友——狼族意义上的朋友。”
-- “Brunis，对不起。我今天确实不太舒服。”
-- “不用，你留下就好。”
+  *"Just complicated. We all are."*
+- “没关系。Khemia人不是以直率闻名吗？”
+  *"It's alright. Are Khemians not known to be blunt?"*
+- “当然，我不介意被你打断，Brunis。你找我有什么事吗？”
+  *"Of course, I don't mind being interrupted by you, Brunis. Did you need me for anything?"*
+- “没关系。也许等你考虑一会儿之后，再告诉我？”
+  *"No problem. Maybe you can tell me after you've had a little time to think on it?"*
 
 ### 防御与疲惫
 
-- “我没事。”
-- “请不要因为我耽误自己的职责。”
-- “我不是疯了。这些时刻发生后不久，我就能重新理解正在发生什么。”
-- “我不知道为什么这里每个人都比我更早知道发生在我身上的事。”
-- “我只是他妈的累了。就这样。”
+- “刚刚做了一场强度很高的冥想，耗掉了我不少精力。不过我没事。”
+  *"Just did some intense form of meditation. It took a lot out of me. I'm okay though."*
+- “说实话，我想好好泡个澡。”
+  *"In all honesty, I wish to have a long bath."*
+- “我——我希望自己已经说清楚了。我没有疯。每次这种时刻过去后，我很快就能明白当时发生了什么；而且过去一年里，这也只发生过几次。”
+  *"I--I hope I was able to make sense. I am not insane. I understand what is happening shortly after these moments, and it's only happened a few times this past year."*
+- “为什么这里每个人好像都比我更清楚发生在我身上的一切？”
+  *"Why does everyone here seem to know everything that's happening to me?"*
+- “说真的？我不知道。我不知道他为什么几乎没和我正经说过一句话，就决定把他那些破事全倒给我。我他妈只是累了，就这样！”
+  *"Honestly? I don't know. I don't know why he decided to unload his shit on me when he's barely held a single fucking conversation with me. I'm just fucking tired, that's it!"*
 
 ### 自省与道德
 
-- “你有没有考虑过，他们自己也可能是被安插来监视我们的？”
-- “我只是希望这个星系能够实现和谐。”
-- “你不需要向我道歉，Neferu。不过，我想我确实更理解你了。”
-- “我对某些群体也有一些情绪，而我希望它们不要如此强烈。”
-- “同意。”
+- “狼族式的朋友。我知道按Khemia标准，我们已经是朋友了，就像你和Marcus、Carbo是朋友一样。”
+  *"Wolven friends. I know we are already friends by Khemian standards, just as you were friends with Marcus and Carbo."*
+- “那一刻是的，但我已经有时间让自己冷静下来了。”
+  *"For that moment, yes, but I've had time to collect myself."*
+- “是，不过Khemia采用的手段不大都是和平方式、以外交而非武力为主吗？”
+  *"Yes, but weren't Khemia's methods largely peaceful, utilizing diplomacy over force?"*
+- “我来这里，是为了理解和观察Khemia在皇宫内外的生活方式，所以我很高兴自己能被纳入其中。”
+  *"I am here to understand and observe the ways of Khemia, inside and outside the palace, so I'm glad to be included."*
 
 ## 十五、尚未确定的边界
 

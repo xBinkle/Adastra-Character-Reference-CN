@@ -163,84 +163,130 @@ Scipio 出发前在 Varro’s University 休息时，Aya 与 Zanmek 至少都注
 
 [背景]Scipio 躺在 Varro’s University 的大理石长凳上进入半冥想。他听见两道声音在谈论自己；其中主动者已对目标身份有强烈确信。
 
-> Zanmek：“一定是他，我从这里就能听到。”
+> 一定是他，我从这里就能听到。
 >
-> Aya：“你确定你听到的是他吗？”
+> "He must be, I can hear him from here."
+>
+> 你确定你听到的是他吗？
+>
+> "Are you sure it is him that you hear?"
 
 ### 2. 用外形与矫正镜片补足识别
 
 [背景]Aya 要求更明确的证据。Zanmek 开始逐项描述自己感知到的 Wolf。
 
-> Zanmek：“很确定。深蓝色的毛，前身、耳尖和吻部是奶油色——”
+> 很确定。深蓝色的毛，胸腹、耳尖和吻部呈奶油色——
 >
-> Aya：“你刚才描述了 Adastra 上五十万名 Wolf。”
+> "Pretty sure. Dark blue-ish fur, cream-colored front, ear tips, and muzzle--"
 >
-> Zanmek：“还戴着矫正镜片。”
+> 你刚才描述了 Adastra 上五十万名 Wolf。
+>
+> "You just described half-a-million wolves on Adastra."
+>
+> 还戴着矫正镜片。
+>
+> "Corrective lenses as well."
 
 ### 3. 对“又疯了”的自嘲性防御
 
 [背景]Aya 仍未完全相信这种远距离识别。Zanmek 没有退回含混措辞，而是直接把她可能的质疑说出来。
 
-> Zanmek：“那你的解释是什么？我又疯了？又不是第一次。”
+> 那你的解释是什么？我又疯了？又不是第一次。
 >
-> Aya：“不是。我只是说，当你试图把感知伸到那么远时，应该谨慎。尤其面对无形之事时，心智往往会欺骗自己。”
+> "So what's your explanation? That I'm going crazy? It wouldn't be the first time."
+>
+> 不是。我只是说，当你试图把感知伸到那么远时，应该谨慎。尤其面对无形之事时，心智往往会欺骗自己。
+>
+> "No, just that you should be careful when trying to reach that far. The mind can often be one massive illusion to its owner, especially concerning non-tangible matters."
 
 ### 4. 识别被创伤改变的心智
 
 [背景]两道声音继续观察 Scipio。Zanmek 注意的不只是外表，还有对方心智中的改变。
 
-> Zanmek：“他的心智……不太稳固？它被改变过。”
+> 他的心智……不太健全？它被改变过。
 >
-> Aya：“这对你这样的人来说很常见。”
+> "His mind, it's not... sound? It's been altered."
+>
+> 这对你这样的人来说很常见。
+>
+> "That's a common feature for those like you."
 
 ### 5. 以 `ahewawi` 和听觉反应完成验证
 
 [背景]Zanmek 在 Scipio 的心智中感到了虚渺而不实体化的痛苦，用 Khemian 词 `ahewawi` 命名。Scipio 对这个词产生注意，证明他能听见这场交谈。
 
-> Zanmek：“Ahewawi。我感觉到它了。”
+> Ahewawi。我感觉到了。
 >
-> Zanmek：“看吧？他听见我了。”
+> "Ahewawi, I feel it."
 >
-> Aya：“不要让他注意到我们的存在。”
+> 看吧？他听见我了。
 >
-> Zanmek：“所以你现在相信我了。再说，他早已经注意到了，只是在忽略我们。就像我说的，他有天赋。不过好吧，你可以放心，我会停下。”
+> "See? He hears me."
+>
+> 不要让他注意到我们的存在。
+>
+> "Do not alert him to our presence."
+>
+> 所以你现在相信我了。再说，他早已经注意到了，只是在忽略我们。就像我说的，他有天赋。不过好吧，你可以放心，我会停下。
+>
+> "So now you believe me. Besides, he is already alert. He's just ignoring us. Like I said, he's gifted. But fine, you can relax, I'll stop."
 
 ### 6. 不稳定归属：跟随 Scipio 的异常
 
 [背景]Scipio 用“把创伤封入远离自己的时空球体”完成冥想时，两道声音在远处低声交换。两句无法确定谁先说，不可作为 Zanmek 独立台词使用。
 
-> 未验明声音甲：“它跟着他。”
+> 它跟着他。
 >
-> 未验明声音乙：“我知道。”
+> "It follows him."
+>
+> 我知道。
+>
+> "I know."
 
 ### 7. Aya 向 Scipio 说明 Zanmek 的身份
 
 [背景]Khemia 王宫接触室中，Aya 第一次完整解释四个 Sibling 文明的天赋传统。此处是 Aya 对 Zanmek 的直接说明，不是 Zanmek 本人自述。
 
-> Aya：“Taharkans 把这一职位称为 dakhur，他们的理解与 Khemians 非常相似。事实上，我有时会和现任 dakhur 说话。”
+> “Taharka人把他们的沟通者称作dakhur，理解方式与Khemia人很接近。事实上，我有时会同现任dakhur交谈。”
 >
-> Aya：“只有拥有同样天赋、而且在我同他建立纽带之后才可以。他是我的朋友。他有兴趣在某个时候见见你。”
+> "The Taharkans call theirs the dakhur, and they understand it in a very similar way to Khemians. I sometimes talk to the current dakhur, in fact."
+>
+> “只有拥有相同天赋、并且已经与我形成纽带的人才可以。他是我的朋友，也有兴趣找机会见你。”
+>
+> "Only ones with the same gift and after I've formed a bond with them. He's a friend of mine. He's interested in meeting you at some point."
 
 ### 8. 水晶与锚定
 
 [背景]Scipio 询问每个人如何找到自己的钥匙。Aya 用自己的掌纹阅读与 Zanmek 的石块、水晶作对照。
 
-> Aya：“我的钥匙是掌纹阅读。Dakhur Zanmek 则通过手持某些他能从中感到能量的石块和水晶。”
+> “我的钥匙是掌纹解读。Dakhur Zanmek则会握住某些他能从中感到能量的石块和水晶。”
 >
-> Aya：“最终，你会学会不使用最初的仪式也能进入门。不过 Zanmek 在沟通时仍会手持水晶，作为他的锚定方法。”
+> "Mine is palm-reading. Dakhur Zanmek's is through holding certain stones and crystals that he feels energy from."
+>
+> “最终，即使不再使用最初的仪式，你也能进入那扇门；不过Zanmek在沟通时仍会握着水晶，把它们作为自己的锚定手法。”
+>
+> "You do eventually learn to access the gate without the ritual you once used, though Zanmek still holds crystals during communication for his grounding technique."
 
 ### 9. 首次明确发声：请求见 Scipio
 
 [背景]Scipio 第一次进入接触室的跨层状态，刚感知到 Neferu，就在远处听见一个轰鸣般低沉、又因兴奋而上扬的声音。Aya 随后用“Zan”回应，使此句高置信确认属于 Zanmek。
 
-> Zanmek：“Aya，我可以见见他吗？”
+> “Aya，我可以见见他吗？”
 >
-> Aya：“下次吧，Zan。他正在探索……”
+> "Aya, can I meet him?"
+>
+> “下次吧，Zan。他现在正在探索……”
+>
+> "Next time, Zan. He's exploring..."
 
 ### 10. 会面被推迟至尚未到来的“明天”
 
 [背景]第二次接触室训练开始前，Scipio 已经对 Zanmek 产生好奇，主动询问他是否参加。此处仍无 Zanmek 本人发言。
 
-> Scipio：“Zanmek 不加入我们吗？”
+> “Zanmek 不加入我们吗？”
 >
-> Aya：“明天。今天更像是一次个人体验。”
+> "Isn't Zanmek joining us?"
+>
+> “明天。今天更像是一次个人体验。”
+>
+> "Tomorrow. This is more of an individual experience."

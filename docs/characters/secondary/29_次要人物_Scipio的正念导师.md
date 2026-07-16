@@ -179,84 +179,133 @@ Aya 识别出冥想就是 Scipio 的钥匙，并在接触室中要他继续做�
 
 [背景]Scipio 躺在凉爽的大理石长凳上，进入一种介于完全清醒与深度冥想之间的状态。
 
-> Scipio 的心念：“这感觉很好。这是我的正念导师在数年前教给我的一种半冥想。”
+> 感觉很好；这是我的正念导师几年前教给我的一种半冥想。
+>
+> It's nice, a sort of half-meditation that my mindfulness teacher once taught me several years ago.
 
 ### 2. 不将每一个杂念当成启示
 
 [背景]冥想初期，Scipio 试图区分普通无意识念头与当下正在评论他的异常声音。
 
-> Scipio 的心念：“冥想时，未经邀请就出现的念头并不罕见。通常它们没有清晰目的，除非人偏要深挖那些暗示的、也许根本不存在的意义，否则它们几乎没有洞见。”
+> 冥想时，心中自行浮现念头并不罕见，不过这一次很不一样。
+>
+> Thoughts that come unbidden to the mind are not uncommon during meditation, though this time, it's quite different.
+>
+> 通常，那些念头没有明确目的；除非刻意钻研其中暗示的、而且很可能并不存在的意义，否则几乎得不到任何启示。
+>
+> Usually, the thoughts don't have a clear purpose and offer little insight unless one delves into implied, and likely non-existent meanings.
 
 ### 3. 把暴乱封入另一个时空的球体
 
 [背景]校园仍保留当年的大理石、雕像和走廊，容易使 Scipio 身体误以为事件仍在发生。
 
-> Scipio 的心念：“现在，我把那场事件想象成一颗装满痛苦与震惊的球体，让它在另一个时间与空间中，漂浮在虚无里。”
+> 现在，我把那场事件想象成一个由痛苦与震惊构成的球体，置于另一个时空，漂浮在虚无之中。
+>
+> Now, I imagine that incident, a sphere of suffering and shock, to be in a different place in time and space, floating in nothingness.
 
 ### 4. 用冰凉大理石锚定
 
 [背景]异常声音打断冥想，Scipio 应当联系导师，却因使命迫近而不愿留下精神异常记录。
 
 [动作]他开始锚定，用双爪摩擦冰凉、打磨光滑的大理石，让触感把注意重新拉回身体。
+> 我开始进行锚定，让前爪摩挲冰凉而光滑的大理石。
+>
+> I begin the process of grounding, rubbing my paws over the cool, polished marble.
 
 ### 5. 明知应该报告，却因仕途而隐瞒
 
 [背景]Scipio 听见一个明显不像普通杂念的枯叶声，心中立即想起导师这一汇报对象。
 
-> Scipio 的心念：“我知道自己应该给正念指导者发一则消息，告诉他发生了什么。但我不会这么做；使命已经太接近，‘未受控的思想’出现在上级简报中不会好看。”
+> 那些奇怪、如今又显得不祥的念头打断了我的专注；我叹了口气，知道自己应该给正念导师发消息。
+>
+> My concentration is broken by the strange, now ominous thoughts, and I sigh, knowing I should send a message about this to my mindfulness instructor.
+>
+> 但我不会这样做，因为任务已经近在眼前；而且我怀疑，任何提交给上级的简报里出现‘无法控制的念头’，都不会显得好看。
+>
+> But I won't, because my mission is far too close now, and I doubt "uncontrolled thoughts" will look good in any briefing to my superiors.
 
 ### 6. 刺杀后以呼吸稳住爪和思绪
 
 [背景]刺客被无人机扭曲操作杀死，Scipio 的感官、记忆与当下重叠。
 
 [动作]他开始做那些通常可以稳住发抖爪掌和高速思绪的呼吸练习。呼吸逐渐减慢，视野却仍周期性发黑，昏厥威胁并未消失。
+> 我开始做呼吸练习；它们通常能让颤抖的前爪和飞奔的思绪平静下来。
+>
+> I begin my breathing exercises, the ones that usually steady my paws and racing thoughts.
 
 ### 7. 母亲与导师：两个能坦白心理弱点的人
 
 [背景]Scipio 意识到 Neferu 已经看见他的创伤反应，却仍很难开口。
 
-> Scipio 的心念：“要向一个既不是我的正念导师、也不是我母亲的人坦白心理弱点，会很困难。”
+> 要向一个既不是我的正念导师、也不是我母亲的人坦白心智弱点，会很困难——
+>
+> It will be difficult, confessing my mental weaknesses to someone that isn't my mindfulness teacher, or my mother--
 
 ### 8. 将解离命名为防御机制
 
 [背景]刺杀后次日，Scipio 感到世界与自己之间像有一层看不见的滤镜，一切像虚构娱乐节目。
 
-> Scipio 的心念：“暴乱后不久，我看所有事都像在看娱乐频道播放的故事。它是悲剧，却至少不像真的。我的正念导师把这叫作‘防御机制’。”
+> 我的正念导师把它称作一种‘防御机制’。
+>
+> A "defense mechanism" my mindfulness teacher had called it.
 
 ### 9. 唯一可完整引用的本人语句
 
 [背景]Brunis 向 Scipio 递来 papywei，Scipio 对药物与 Khemian 文化好奇，脑中却浮现导师的声音。
 
-> “冥想是关键，Scipio。酒精只会损害你的自我觉察和自我控制。”
+> 冥想才是关键，Scipio。酒精只会损害你的自我觉察与自我控制。
+>
+> Meditation is key, Scipio. Alcohol only damages your self-awareness and self-control.
 
 ### 10. 拒绝 papywei：导师原话与 Scipio 推论的分界
 
 [背景]导师只明确提及酒精，Scipio 自己认为他大概会对大多数改变心智的药物持类似态度。
 
-> Scipio 对 Brunis：“为了更好地理解 Khemian 文化，我确实有些想尝试。但在此次使命期间，我应该避免任何精神活性物质。”
+> “为了更好地理解Khemia文化，我确实有些想试。不过，在执行任务期间，我应该避开任何精神活性物质。”
+>
+> "I am tempted due to wanting to understand Khemian culture better, but I should avoid any psychoactive substances while I'm on this mission."
 
 ### 11. 基础步骤：盘腿、呼吸、胸腔起伏
 
 [背景]Scipio 坐在飞船床尾，不尝试未经指导的复杂技术，只回到熟悉程序。
 
 [动作]他盘腿坐好，第一步是聚焦呼吸；聆听气流，仔细注意胸腔与肩部的升降。
+> 我盘腿坐在床尾，从熟悉的第一步开始：把注意力集中在呼吸上。
+>
+> I sit cross-legged at the foot of my bed, beginning with the familiar first step of focusing on my breathing.
+>
+> 我倾听自己的呼吸，仔细感受胸口与肩膀的起伏。
+>
+> I listen to my breathing and pay close attention to the rise and fall of my chest and shoulders.
 
 ### 12. 当下、不评判与窗户般透明
 
 [背景]对贫困城区居民的仇视念头突然冒出，Scipio 呼吸加快，随即重新聚焦。
 
-> Scipio 的心念：“我在这里，在当下，不作评判，想象自己拥有窗户般的透明……呼吸，记得呼吸。”
+> 我就在这里，身处当下，不作评判，并想象自己像一扇透明的窗——
+>
+> I'm here, in the moment, without judgement, imagining myself to have the transparency of a window--
+>
+> 呼吸，记得呼吸。
+>
+> Breathing, remember breathing.
 
 ### 13. 不在没有导师时试验更复杂的冥想
 
 [背景]Stretch 让 Scipio 心智异常灵活，他感到自己似乎可以轻易进入更复杂层次。
 
-> Scipio 的心念：“我的心智现在异常灵活，似乎可以毫无问题地尝试更复杂的冥想。但没有指导者在场，我不敢那样做。”
+> 此刻我的心智出奇地灵活，仿佛可以毫无阻碍地尝试更复杂的冥想；但没有导师在场，我不敢那样做。
+>
+> My mind is surprisingly flexible right now, as if I could try more complex meditation without issue, but I don't dare do that without my instructor.
 
 ### 14. 正念技术被 Aya 识别为钥匙
 
 [背景]Khemia 王宫接触室中，Aya 说明每个天赋者都需找到打开门的钥匙，并认为 Scipio 早已经知道自己的答案。
 
-> Scipio：“冥想？”
+> “冥想？”
 >
-> Aya：“正是！所以你已经有了自己的钥匙。你以前就曾打开并关闭门，因而已经有一些经验。”
+> "Meditation?"
+>
+> “正是如此！所以你已经拥有钥匙。你曾经打开、也关闭过那扇门，因此已经有了一些经验。”
+>
+> "Precisely! So, you already have your key. You have unlocked and locked the gate before, so you already have some experience."
