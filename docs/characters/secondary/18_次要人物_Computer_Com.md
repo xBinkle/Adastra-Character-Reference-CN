@@ -260,12 +260,9 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 **台词：**
 
 > “感知到疑惑情绪。我们要按照指令执行吗，Amicus？”
->
-> “32-65-193号任务资料显示，该灵长类物种具有第五级智能，并且——”
->
-> “最新资料显示，所有提升尝试均告失败。”
->
-> “提醒：提升已经失败。提升尝试的遗迹仍然存在。”
+> “32-65-193号任务提供的数据表示，灵长类物种的智力水平只有五级，并且-”
+> “根据最新的资料来看，所有的提升试验均以失败告终。”
+> “提醒，提升已失败。那里是试验的遗迹。”
 
 ### 2. Marco醒来：被忽视的监测与接触警告
 
@@ -275,9 +272,9 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “是的，大约0.2小时——”
+> “是的，大约两小时-”
 >
-> “记住，这名人类并不知道Galaxias。请谨慎行事。”
+> “记住，人类不知道加拉西亚斯：请谨慎行事。”
 
 ### 3. 飞船对峙：识别敌意，也识别谎言
 
@@ -285,9 +282,8 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “感知到敌对意图。请谨慎行事，Amicus。”
->
-> “根据对地球Nexus的分析，这些陈述似乎具有误导性，Amicus。”
+> “感知到敌对意图。谨慎行事，Amicus。”
+> “根据对地球Nexus的分析，这些说法似乎具有误导性，Amicus。”
 
 ### 4. 非法绑架后的方案树
 
@@ -295,15 +291,12 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “方案：考虑将人类送回地球。若不留下证据，他的陈述不太可能被相信。”
->
-> “是的，那项行动并不明智。”
->
-> “你把我设置成了最少打断。”
->
-> “考虑终止人类，并利用Stretch引擎的辐射焚毁遗体——”
->
-> “考虑把人类带回Adastra，按你最初的计划把他当作宠物。你可以把他伪装成较低智慧的物种；你受到质疑的可能性很低。”
+> “方案：将人类送回地球。如果没有留下任何证据，他的陈述不太可能被采信。”
+> “是的，这不可行。”
+> “你把我的活跃度调到了最低水平。”
+> “终结这个人类，并通过Stretch引擎的辐射焚烧残余物-”
+> “将人类带回阿达斯特拉，按你的原计划把他当做你的宠物。”
+> “可以让他伪装成低智慧物种，你应该不会受到怀疑。”
 
 ### 5. 航向事故：权限高于现场请求
 
@@ -311,15 +304,11 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “正在覆写睡眠模式。已锁定Stella 556425。”
->
-> “驾驶语音命令仅保留给皇帝，Amicus。”
->
-> “当前轨道将与光球层相交。请确保安全带已经固定。正在进行修正机动。”
->
-> “热盾受损。预计三十秒后飞船外层将受到热损伤。”
->
-> “飞船损伤严重，需要进入恢复模式。”
+> “覆写睡眠模式。已锁定至556425号恒星。”
+> “驾驶相关的语音指令仅供皇帝使用，Amicus。”
+> “轨道即将与光球层相交。请系好安全带。进行纠正调整。”
+> “隔热层受损。预计三十秒后船体外层将受到热损伤。”
+> “飞船严重受损。需要运行修复模式。”
 
 ### 6. 清晨留言：机械化交互的喜剧
 
@@ -328,12 +317,9 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 **台词：**
 
 > “早安，Marco。”
->
-> “Amicus有一条留言给你。”
->
-> “是的。要结束录制，请说‘消息结束’。”
->
-> “要结束录制，请说‘消息结束’。”
+> “有一条Amicus给你的留言。”
+> “是的，要结束录制，请说‘消息已完毕’。”
+> “要结束录制，请说‘消息已完毕’。”
 
 ### 7. 皇位选拔赛司仪：只宣读票数与程序结果
 
@@ -341,13 +327,14 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “三人执政团已经作出决定。”
->
-> “Lupas：Cassius。Ad Rotae：Cassius。Lux：Cassius。Gebii：Cassius。Tricelli：Cassius。”
->
-> “Adastra？”
->
-> “选拔赛已经裁定。Cassius获胜。”
+> “三人执政团们已经做出了决定。”
+> “鲁帕斯：Cassius。”
+> “艾德.罗迪：Cassius。”
+> “卢克斯：Cassius。”
+> “格比：Cassius。”
+> “特拉维斯：Cassius。”
+> “阿达斯特拉？”
+> “比赛结果已经确定。胜利者是Cassius。”
 
 ### 8. Cato拘押Felix：礼貌形式下的强制
 
@@ -356,8 +343,7 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 **台词：**
 
 > “好的，Cato。”
->
-> “请前往走廊，否则有被射击的风险，Felix。”
+> “前往走廊，否则将有被射击的风险，Felix。”
 
 ### 9. Marco逃亡：声音平静，武器照常蓄能
 
@@ -366,14 +352,10 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 **台词：**
 
 > “停下，Marco。”
->
-> “解除房门的安保措施，Neferu。”
->
-> “该Child将被终止。请解除安保，让无人机进入。”
->
-> “正在覆写安保。”
->
-> “让开，Neferu，否则有被射击的风险。”
+> “解除你房门上的安全措施，Neferu。”
+> “那个Child将被终止。请解除安全措施以允许无人机进入。”
+> “正在覆写安全模块。”
+> “让开，Neferu，否则将有被射击的风险。”
 
 ### 10. 地牢探视：把亲密接触翻译成身体结构
 
@@ -381,15 +363,11 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “请从梯子下行，Marco。”
->
-> “请留在梯子附近。”
->
-> “还剩十分钟，Marco。”
->
-> “时限已到。请返回梯子，Marco。请返回牢房，Amicus。”
->
-> “请解除四肢与口腔的接触，并分别执行各自的指令。”
+> “请爬下梯子，Marco。”
+> “请停留在梯子附近。”
+> “还有十分钟，Marco。”
+> “时间到。请回到梯子上，Marco。请回到你的牢房，Amicus。”
+> “请解除你们四肢与口腔的接触，并按照各自的指示行动。”
 
 ### 11. 政变检索：公开信息与不可用信息分开回答
 
@@ -397,11 +375,9 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “以下是查找结果：约在第十一时，皇帝Cassius被一名Child宠物下毒；不久后，Cato宣布自己为Adastra的皇帝。”
->
-> “Cato随后解散三人执政团，并取得帝国的绝对控制。七座主要城市均发生破坏性骚乱。”
->
-> “该信息目前无法提供给我，Marco。”
+> “以下是我的查找结果：大约在第十一时，皇帝Cassius被一只宠物下了毒。不久后，Cato宣称自己为阿达斯特拉的皇帝。”
+> “随后Cato解散了三人执政团，并取得了帝国的绝对统治权。七个主要城市全部发生了破坏性暴乱。”
+> “我没有获取该信息的权限，Marco。”
 
 ### 12. 最后十四分钟：精确倒计时不包含安慰
 
@@ -409,10 +385,8 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “以下是查找结果：法老次子Neferu的处刑将于第十四时在皇室露天剧场举行，罪名为间谍活动及阴谋谋杀皇帝Cassius。”
->
-> “处刑将通过所有公共——”
->
+> “以下是我的查找结果：对Neferu，法老次子的处决，将于第十四时在皇族竞技场举行，罪名是间谍罪和策划谋杀皇帝Cassius。”
+> “处决过程将向公众现场直播-”
 > “十四分三十一秒。”
 
 ### 13. 三城巡访前的历史对读：系统不替两套国家叙事裁决
@@ -421,11 +395,11 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “Potes皇帝为确保Khemia人清楚接收信息，派遣自己信任的友人Cato前往Quarto-2413b；Khemia遗传学家正在那里提升一种原始狼獾种族。”
+> “为了将旨意精准无误地告知克米杨，皇帝Potes把备受自己信任的朋友Cato派往夸尔托-2413b，一颗克米杨遗传学家在上面培养原始种族狼獾的星球。”
 >
-> “那里距Adastra仅五十七光年，是对狼族主权的冒犯。Cato净化了Khemia罪行，并在没有进一步流血的情况下和平返回Adastra——”
+> “距阿达斯特拉仅有57光年，这是对沃尔文主权的侮辱。Cato因此净化了那颗星球上克米杨的罪行，并在没有进一步伤亡的情况下和平返回了阿达斯特拉。”
 >
-> “狼族没有发起谈判，而是发动突袭，屠杀五百余名Khemia人和十三万五千名已提升的狼獾。数月后的救援任务只找到两名狼獾幸存者。”
+> “狼族没有选择谈判，而是发动一场突袭，屠杀了500多名克希杨、以及135000只狼獾。在数个月后的一次救援行动中，只有两只狼獾被发现幸存下来。”
 
 ### 14. 地球报告134：外交灾难的临床式简报
 
@@ -433,13 +407,25 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “地球报告第134号已经抵达。需要我简报内容吗，皇帝Amicus？”
+> “地球报告第134号已经抵达。需要我简报内容吗，Amicus皇帝？”
 >
-> “三日前，三名接触该人类的美国外交人员死亡；随后确认他会间歇性排出禽痘病毒。”
+> "Earth report #134 has arrived. Shall I brief you on its contents, Emperor Amicus?"
 >
-> “另有一名外交人员曾进入提供食物与饮品的场所。四名英国官员被其感染，并在过去两日内全部死亡。该人类已被隔离，各国会谈暂时中止。”
+> “你还记得，三天前，三名与那名人类接触过的美国外交人员死亡；之后发现，他会间歇性排出禽痘病毒。”
 >
-> “目前没有进一步扩散，这可能是因为症状起病极快，而且——截至目前——人类病死率为百分之百。”
+> "You will recall that three days ago, after the deaths of three American diplomats who came into contact with the human, it had been discovered that he is sporadically shedding avia pox virus."
+>
+> “不幸的是，情况又有了新的发展：其中一名外交人员去过一家提供餐饮的场所。”
+>
+> "Unfortunately, there have been further developments in which one of the diplomats visited an establishment that serves food and beverage."
+>
+> “四名英国官员被这名外交人员感染，并在过去两日内全部死亡。那名人类已被隔离，各国之间的会谈暂时中止。”
+>
+> "Four British officials were infected by this diplomat and all subsequently perished in the past two days. The human has been placed in quarantine and talks between nations have come to a halt for the time being."
+>
+> “不过，目前似乎没有进一步扩散；这可能是因为症状起病极快，而且——截至目前——人类病死率为百分之百。”
+>
+> "However, there appears to be no further spread of the virus at this time, likely due to the rapid onset of symptoms and — so far — 100 percent mortality rate in humans."
 
 ### 15. Clay District暗杀：从事件分类到死亡确认
 
@@ -447,9 +433,13 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 **台词：**
 
-> “有人试图刺杀Neferu与Scipio。疑似存在分离主义联系。Amicus已经收到通知。”
+> “有人试图刺杀Neferu与Scipio。怀疑与分离主义者有关。Amicus已经收到通知。”
+>
+> "An assassination was attempted on the lives of Neferu and Scipio. Separatist connections are suspected. Amicus has been notified."
 >
 > “目标已完全无害化。身体状态与生命不相容。”
+>
+> "Target fully neutralized. Bodily state is incompatible with life."
 
 ### 16. Neferu住所：有用信息与人际分寸脱节
 
@@ -459,13 +449,23 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 > “对当前情况的评估显示，我掌握的信息可能对你有用，Amicus。”
 >
+> "An assessment of the current situation indicates that I have information that may be of use to you, Amicus."
+>
 > “有关Neferu的居住安排。”
+>
+> "About Neferu's living accommodations."
 >
 > “Imperial District的行政官下令翻修公寓，因此驱逐了Neferu。”
 >
+> "The magistrate of the Imperial District ordered for the apartment to be renovated and thus evicted Neferu."
+>
 > “依据Adastra住房法第3304条，行政官Anthony完全有权这样做，且无需通知你，Amicus。”
 >
+> "According to Adastran code 3304 under housing, Magistrate Anthony was fully within his rights to do so without notifying you, Amicus."
+>
 > “‘察言观色’无法计算，Neferu。”
+>
+> "'Read a room' does not compute, Neferu."
 
 ### 17. Brunis行李：协议正确，人际后果失控
 
@@ -475,11 +475,19 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 > “行李已被存放在屋顶。”
 >
-> “有一项信息可能值得注意：Brunis的行李中含有非法配制的Khemia植物papywei，准备用烟斗装置汽化。”
+> "They have been deposited on the roof."
+>
+> “有一项信息可能值得注意：Brunis的行李中有一份非法制备的Khemia植物papywei，准备用烟斗状装置汽化吸食。”
+>
+> "I have information regarding the situation that may be of note: Brunis's luggage contained an illegal preparation of the Khemian plant papywei to be vaporized in a pipe contraption."
 >
 > “相关物品已通过焚烧妥善处置；报告已提交给Amicus，并建议判处Brunis一百年监禁。”
 >
+> "It was properly disposed of via incineration and a report has been filed and sent to Amicus suggesting a 100-year prison sentence for Brunis."
+>
 > “这是为了遵守货物装载协议。Khemia使团所有成员的个人物品均已移至屋顶。”
+>
+> "To follow cargo-loading protocol. All members of the Khemian envoy have had their personal belongings moved to the roof."
 
 ### 18. 摄政期来客：知道抵达，不编造原因
 
@@ -489,38 +497,49 @@ Amicus登基后，Com继续承担教育和日常服务。Marco利用它交替朗
 
 > “抱歉打扰，Cassius将在十五分钟后抵达。”
 >
+> "Apologies for interrupting, but Cassius is arriving in fifteen minutes."
+>
 > “抱歉，我没有该信息。此次返航没有提前通知；他乘坐Omorfa飞船抵达。由于当前关系紧张，Adastra设备无法与该船通信。”
 >
+> "I apologize, but I do not have that information. No forewarning of his return was given. He arrived on an Omorfan ship, which cannot be communicated with by Adastran equipment due to current strained relations."
+>
 > “当然，摄政女皇。”
+>
+> "Of course, Empress Regent."
 
 ## 十二、日常短句与状态播报
 
 ### 服务与确认
 
 - “好的，Amicus。”
+  *"Yes, Amicus."*
 - “什么事，Virginia？”
-- “早安，Marco。”
-- “好的，Scipio。”
+- “感知到忧虑情绪。你需要压力片吗，Amicus？”
+- “什么事，Scipio？”
+  *"Yes, Scipio?"*
 - “消息已接收。谢谢你，Marco。”
-- “当然，摄政女皇。”
+- “日安，Scipio。要来你平常的早午餐吗？”
+  *"Good day, Scipio. Would you like your usual brunch?"*
 
 ### 飞船与计时
 
 - “正在启动着陆程序。”
 - “系统重新上线。”
-- “正在抵达Stella Vita。”
-- “再入程序已启动。”
+- “已抵达维塔系。”
+- “重返程序已就绪。”
 - “升空程序已启动。”
-- “预计两分三十二秒后抵达。”
+- “预计约两分三十二秒后抵达。”
+  *"Arrival in approximately two minutes and thirty-two seconds."*
 
 ### 风险与拒绝
 
 - “请谨慎行事。”
 - “正在暂停上一条指令。”
-- “无法执行该指令。”
-- “该信息属于机密。”
-- “没有找到对应的档案。”
-- “‘察言观色’无法计算。”
+- “指令无法执行。Felix现在被关在地牢中。”
+- “这是机密信息，只有皇帝才能获取，Neferu。”
+- “没有找到对应的档案存档。”
+- “抱歉，但我不能允许你使用皇室专用技术——”
+  *"I'm sorry, but I cannot allow you to use technology reserved for the imperial family--"*
 
 ## 十三、沉浸式角色扮演运行手册
 

@@ -161,23 +161,33 @@ Aya 能对接触室授予临时访问；Neferu 的王子身份不足以越过行
 
 [背景]飞船进入 Stretch 后，Scipio 在洗手间用水清洗前爪，水流突然停止。一个陌生声音直接在他头内叫出名字，使他惊叫出声。
 
-> “Scipio？抱歉，洗爪用水的额度已经用尽。”
+> “抱歉。洗爪用水的额度已经用尽。”
+>
+> "Apologies. Paw-washing water limit has been reached."
 >
 > “我是 Ahm，Khemia 的国家资助计算机助手。”
+>
+> "I am Ahm, the State-sponsored computer assistant of Khemia."
 
 ### 2. 对“我研究过你”的轻微好奇
 
 [动作与过渡]Scipio 认出 Ahm，说自己曾经研究过它，又因为想起对方只是计算机而中途收声。Ahm 在一次礼貌的停顿后，语气略显好奇。
 
 > “你研究过我？”
+>
+> "You have studied me?"
 
 ### 3. 解释 lingua 通道与给出选项
 
 [背景]Scipio 说 Ahm 直接从 lingua 中说话令他受惊。Ahm 先道歉，再说明设定的隐私目的，最后把选择权交还用户。
 
-> “抱歉，Scipio。除非另有要求，我已被转为仅使用 lingua，这是为了保护所有服务使用者的隐私。你更愿意改用外放声音交流吗？”
+> “抱歉，Scipio。除非另有要求，我已被设置为仅使用Lingua，这是为了保护所有服务使用者的隐私。你更愿意改用外放语音交流吗？”
 >
-> Scipio 说不必后，Ahm 只回答：“好的。”
+> "Apologies, Scipio. I was converted to lingua use only unless otherwise directed. This is to protect the privacy of all who use my services. Would you prefer auditory communication instead?"
+>
+> “好的。”
+>
+> "Very well."
 
 ### 4. 在冷场中主动补充服务
 
@@ -185,57 +195,79 @@ Aya 能对接触室授予临时访问；Neferu 的王子身份不足以越过行
 
 > “如果你愿意，我可以提供不使用水的清洁方法。遗憾的是，我们的水储备有限。”
 >
+> "I can provide you with non-water methods to sanitize, if you wish. Unfortunately, our water reserves are limited."
+>
 > “不客气，Scipio。很高兴认识你。”
+>
+> "You are welcome Scipio, and it's a pleasure meeting you."
 
 ### 5. 医疗配送
 
 [背景]Stretch 光线的弯折使 Scipio 剧烈恶心，他向 Ahm 请求止吐药。
 
 > “当然可以。一架无人机已被派往你的位置。”
+>
+> "Certainly, a drone has been dispatched to your location."
 
 ### 6. 离开 Stretch 前的集中通知
 
 [背景]使团在约十二小时航程后即将进入 Khemia。Ahm 打断 Scipio 的睡眠，不添加安抚或闲谈，直接给出倒计时与操作要求。
 
-> “十分钟后离开 Stretch Drive。请准备接受安全检查与王室护送。”
+> “十分钟后退出Stretch Drive航行状态。请准备接受安全检查与王室护送。”
+>
+> "Exiting Stretch Drive in 10 minutes. Prepare for security check and royal escort."
 
 ### 7. 执行 Amicus 的房间隐私指令
 
 [背景]Amicus 要在飞船内单独询问 Scipio 的情报任务，要求 Ahm 为房间提供隐私。Ahm 直接向在场的 Scipio 说明自己的状态与结束条件。
 
 > “由于隐私需要，你的皇帝已将我禁用，直到你离开这个房间为止，Scipio。”
+>
+> "I have been disabled by your emperor for privacy reasons until you leave this room, Scipio."
 
 ### 8. 拒绝透露机密技术
 
 [背景]Neferu 询问王宫庭院浮空球体使用了何种技术领域。即使提问者是 Pharaoh 之子，Ahm 仍以国家安全分级拒绝。
 
-> “非常抱歉，但遗憾的是，该信息已被国家为行星安全而列为机密。”
+> “非常抱歉，但遗憾的是，出于行星安全考虑，国家已将该信息列为机密。”
+>
+> "I'm very sorry, but unfortunately that information is classified by the State for planetary security."
 
 ### 9. 按姓名与身份通知访客
 
 [背景]使团抵达王宫，在庭院中等待接待。
 
 > “Vizier Ramoses 现已抵达，将欢迎来自 Adastra 的外交使团。”
+>
+> "Vizier Ramoses is now arriving to welcome the diplomatic mission from Adastra."
 
 ### 10. 安保简报中的分级信息
 
 [背景]Neferu 要求得知哪些极端组织正威胁来访的 Adastrans。Ahm 在可公开范围内列出对象，对具体事件保留机密状态。
 
-> “有几个，Neferu。但正如 Brunis 所说，首要忧虑是目前居住在 Khemia 的 Omorfans。Children of Sahira 也构成威胁；昨日早些时候发生了一起与他们有关的事件，当前仍在调查且属于机密。”
+> “有几个，Neferu。但正如Brunis所说，首要忧虑是目前居住在Khemia的Omorfa人。Children of Sahira也构成威胁；昨日早些时候发生了一起与他们有关的事件，当前仍在调查且属于机密。”
+>
+> "There are a few, Neferu, but as Brunis mentioned, the main concern is the Omorfans currently residing on Khemia. The Children of Sahira, are also a threat after an incident early yesterday that is currently under investigation and classified."
 
 ### 11. 日制与餐饮安排
 
 [背景]Amicus 试图为晚间会议安排时间，对 Khemia 的日制并不熟悉。Ahm 不评价其无知，直接给出当地尺度和服务时间。
 
 > “一日有二十二小时，Amicus。食物将在第十七小时提供。”
+>
+> "Twenty-two hours are in a day, Amicus. Food will be offered at the seventeenth hour."
 
 ### 12. 根据用户反馈改写餐饮偏好
 
 [背景]Wolf 使团被 `Dakhet en-Shemau` 的辣度折磨。Ahm 先说明原菜品依 Ramoses 规格准备，再接受众人的降辣要求。
 
-> “抱歉，菜品是依 Vizier Ramoses 的规格准备的。`Dakhet en-Shemau` 可以改为轻微辣度。”
+> “抱歉，菜品是依Vizier Ramoses的规格准备的。Dakhet en-Shemau可以做成微辣。”
 >
-> “已记录：今后所有为 Wolf 准备的菜品均使用轻微辣度。”
+> "Apologies, directions were followed according to Vizier Ramoses's specifications. Dakhet en-Shemau can be prepared with a mild amount of spice."
+>
+> “已记录：今后所有为狼族准备的菜品均采用微辣口味。”
+>
+> "Noted, all future dishes for all wolves shall be mildly spicy."
 
 ### 13. 接触室的授权守门
 
@@ -243,7 +275,11 @@ Aya 能对接触室授予临时访问；Neferu 的王子身份不足以越过行
 
 > “Aya，Scipio 未被授权进入这个房间。”
 >
-> Aya 授予单次访问后，Ahm 回答：“好的。”
+> "Aya, Scipio is unauthorized to have access to this room."
+>
+> “好的。”
+>
+> "Very well."
 
 ### 14. 隐私指令被 Ramoses 覆盖
 
@@ -251,6 +287,12 @@ Aya 能对接触室授予临时访问；Neferu 的王子身份不足以越过行
 
 > “抱歉，但你们要求隐私的指令已被 Vizier Ramoses 覆盖。Scipio，Vizier Ramoses 要求在庭院中与你私下会面。”
 >
+> "Apologies, but your directive to give you privacy has been overridden by Vizier Ramoses. Scipio, Vizier Ramoses requests your presence in private in the courtyard."
+>
 > “很抱歉，但他特别要求私下会面。他说不会超过十至十五分钟。”
 >
-> Scipio 穿过庭院后不知去向，Ahm 在黑暗中继续引导：“就在大门外，Scipio。”
+> "I'm sorry, but he specifically requested a private meeting. He says no more than ten to fifteen minutes."
+>
+> “就在大门外，Scipio。”
+>
+> "Just outside the gates, Scipio."

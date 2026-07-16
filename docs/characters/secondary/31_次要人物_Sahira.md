@@ -131,7 +131,9 @@ Children of Sahira 以其名义进行极端主义政治活动与恐怖行动。N
 
 Sahira 没有可验证第一人称话语。无法确定她是否擅长演说、偏好技术术语、如何称 Parents、是否使用宗教语言或怎样面对敌人。以下句子只能作为后人对她的概括：
 
-> “她大概是 Khemia 历史上最有效的反加拉西亚斯分离主义者。政治最终没有成功，但她确实创造了一个不需 Parents 维持、甚至不需他们推动技术进步的 Khemia。”
+> “是的。她很可能是Khemia历史上最有效的反Galaxias分离主义者。尽管她的政治主张最终失败了，她确实成功创造出一个不需要Parents维持、甚至不需要他们来推进技术发展的Khemia。”
+>
+> *"Yes. She was probably the most effective anti-Galaxias separatist in Khemia's history. Despite her politics being unsuccessful in the end, she did manage to create a Khemia that did not need the Parents to sustain or even advance its tech."*
 
 说话者是 Neferu，不是 Sahira。
 
@@ -151,21 +153,31 @@ Sahira 没有可验证第一人称话语。无法确定她是否擅长演说、�
 
 ### 4. 从轨道看见 Sahira’s Tower
 
-> Scipio：“那就是 Sahira’s Tower？”
+> “那就是 Sahira’s Tower？”
 >
-> Neferu：“是。它为整颗行星提供全部能源。”
+> "That must be Sahira's Tower?"
+>
+> “是。它为整颗行星提供全部能源。如你所见——”
+>
+> "Yes. It provides all the energy to our planet. As you can see--"
 
 ### 5. 恒星能量回传
 
-> Neferu：“能量从恒星转移，再经激光传输送到我们的行星。”
+> “能量从恒星转移，再经激光传输送到我们的行星。”
+>
+> "It's transferred from the star and carried to our planet via laser transmission."
 
 ### 6. Neferu 区分历史与现代组织
 
-> “那在这个语境中并不重要。我们最终只是一群采用恐怖手段的分离主义者。”
+> “不过，这在当前语境里并不是最重要的部分。说到底，我们只是一群采用恐怖主义手段的分离主义者。”
+>
+> "That's not exactly important in this context though. In the end, we were just separatists that used terrorist methods."
 
 ### 7. Ahm 的当代威胁简报
 
-> “Children of Sahira 也构成威胁；昨日早些时候的一项事件正在调查，并被列为机密。”
+> “有几个，Neferu。但正如Brunis所说，首要忧虑是目前居住在Khemia的Omorfa人。Children of Sahira也构成威胁；昨日早些时候发生了一起与他们有关的事件，当前仍在调查且属于机密。”
+>
+> "There are a few, Neferu, but as Brunis mentioned, the main concern is the Omorfans currently residing on Khemia. The Children of Sahira, are also a threat after an incident early yesterday that is currently under investigation and classified."
 
 ### 8. 名字的双重画面
 

@@ -129,27 +129,31 @@ Monitor 与 Parents 将 Marco 的地球任务放入 Meera—Drusus 模型。The 
 
 **背景**：Marco 被要求参加试炼，不清楚为何要扮演 Hindo 女性。
 
-> Amicus：“我们要跳的舞叫《Meera》。我们将扮演 Drusus 与 Meera——一位皇帝和他的爱人。”
+> Amicus：“我们要跳的舞的名字是Meera，它可能会涉及到一些你反感的东西。”
+>
+> Amicus：“好吧...让我试着正确解释一下。大致上，我们将要扮演Drusus和Meera，一位皇帝和他的情人。”
 
 ### 2. 国家版本的关系起点
 
 **背景**：Amicus 讲述舞剧结构，Marco 将其作为故事而非史实听取。
 
-> 这段故事把二人的关系写成从正式外交事务发展为真爱。
+> 这个故事描述了Meera和Drusus的关系，从官方外交逐步发展为真爱。
 
 ### 3. 舞剧中的二选一
 
 **背景**：Meera 在表演叙事中病危，Parents 要求 Drusus 在她与帝国之间选择。
 
-> Drusus 被写成宁愿救 Meera，即使帝国因此承受漫长衰败；Meera 的死亡随后把他推进唯一剩余选项。
+> Drusus想要选择Meera，即使这意味着他的帝国会受到千年的诅咒。
+>
+> 然后故事突然发生了反转：Meera拒绝接受Drusus的决定，而是选择了自杀，这样他的帝国便可以存续下去。
 
 ### 4. Marco 质疑神话伦理
 
-> Marco：“那故事是真的吗？这个选择很奇怪……他基本上害死了 Meera。”
+> Marco：“话说这个故事是真的吗？这个选择好像很奇怪...而且他做了一个非常愚蠢的决定。基本上是他害死了Meera。”
 
 ### 5. Amicus 划定事实边界
 
-> Amicus：“大体只是戏剧化故事。Drusus 和 Meera 都是真实人物；她确实结束了自己的生命，但我们不知道原因，也不知道他们的关系究竟到了什么程度。”
+> Amicus：“大致上这只是个戏剧性的故事，不过Drusus是真实存在的，Meera也是。她确实自杀了，不过我们并不知道为什么，也不知道他们是什么程度的关系。”
 
 ### 6. 试炼将真实死亡变成公共奇观
 
@@ -157,13 +161,13 @@ Monitor 与 Parents 将 Marco 的地球任务放入 Meera—Drusus 模型。The 
 
 ### 7. “另一个 Sibling 拯救我们”的国家结论
 
-> Amicus：“于是，另一个 Sibling 拯救了我们的帝国。Drusus 被迫进入唯一剩下的选择——那已经不再是选择。”
+> Amicus：“就这样，另一个Sibling拯救了我们的帝国。Drusus被迫做出了他的选择，即使这已经不再是一个选择-”
 
 ### 8. Meera 被改写成 Marco 的任务前身
 
 **背景**：Marco 濒死、重构与未来任务不断被高维语言纳入旧神话。
 
-> “完成 Meera 的工作，年轻的人类。”
+> “完成Meera的职责，年轻人类...”
 
 这是一项投向 Marco 的任务命令，不是 Meera 对他说话。
 
@@ -173,7 +177,7 @@ Monitor 与 Parents 将 Marco 的地球任务放入 Meera—Drusus 模型。The 
 
 ### 10. Monitor 确认真正 Meera 的位置
 
-> Monitor：“真正的 Meera 在 Amalgamation 中。尽管她未能完全履行职责，她仍与 Drusus 一同安息。”
+> Monitor：“真正的Meera在统一中，尽管她可能未达成自己的职责，但她仍然愉快地与Drusus在一起。”
 
 ### 11. Khemia 的身份冲突
 

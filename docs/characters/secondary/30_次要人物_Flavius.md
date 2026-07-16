@@ -243,7 +243,9 @@ Flavius没有可验证的完整直接台词。为避免把Virginia的复述伪�
 
 **台词：**
 
-> “婊———”
+> 就在传送门通话结束、屏幕转黑之前，Virginia听见一句‘婊——’，随后音频被切断。
+>
+> Just before the portal call ends and the screen goes black, Virginia hears a "Bit--" before the audio cuts off.
 
 音频在完整单词说出前切断；结合随后Virginia向Cassius说明“Lupas三人执政官叫我婊子”，其目标词可以确认，但不能为他增补后续辱骂长句。
 

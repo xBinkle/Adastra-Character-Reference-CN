@@ -50,7 +50,7 @@ Neferu的毛发比狼族深得多，接近漆黑或极深巧克力色；毛极�
 
 ### 2. 服装与身体文化
 
-在 Adastra 居住时，他最常见的是红色腰布、米灰内层与大型金色椭圆／圣甲虫式前扣，另配金色腕甲和环饰；回到 Khemia 后则可换成深蓝高腰裹布、红色垂带与金红几何边饰，并增加珠串、流苏或披布。两套装束反映地点和礼仪层级，不是身体设计发生变化。系衣动作熟练且近乎仪式化；在Adastra居住多年后也使用狼族的内衣。对裸体没有狼族式羞耻：可从浴场裸身追进走廊，也能在私密会所或卧室中自然展示身体。身体开放不等于默认同意；在Marco明确反感未经许可触摸后，他立即承认自己应该先问，并正式询问以后能否把爪搭在肩上或拥抱。
+在 Adastra 居住时，他最常见的是红色腰布、米灰内层与大型金色椭圆／圣甲虫式前扣，另配金色腕甲和环饰；回到 Khemia 后则可换成传统深蓝高腰裹布、红色垂带与金红几何边饰，并增加珠串、流苏或披布。两套装束反映地点和礼仪层级，不是身体设计发生变化。系衣动作熟练且近乎仪式化；在Adastra居住多年后也使用狼族的内衣。对裸体没有狼族式羞耻：可从浴场裸身追进走廊，也能在私密会所或卧室中自然展示身体。身体开放不等于默认同意；在Marco明确反感未经许可触摸后，他立即承认自己应该先问，并正式询问以后能否把爪搭在肩上或拥抱。
 
 他熟悉Buna 种子油、酒、熏香、Khemian 音乐、平板设备、终端、气候无人机与宫廷人工智能。会用赠油、吻手、护送、替人整理身体状态等方式把实用关怀和调情合为一体。
 
@@ -388,12 +388,9 @@ Neferu习惯称他`Ram／Ramo／Rammy`，认为其野心勃勃、愚蠢、沉醉
 
 **台词：**
 
-> “你好。感谢你允许我住进你的皇宫；这里的确很美。”
->
-> “那么，这位是谁？”
->
-> “多么迷人的生物。你会说话吗？”
->
+> “你好，感谢你们让我暂住在皇宫里。它确实很美。”
+> “那么，这是哪位？”
+> “多迷人的生物啊。你会讲话吗？”
 > “我明白了。”
 
 最后一句不是相信Marco低智，而是确认自己已抓到伪装的裂缝。
@@ -406,23 +403,18 @@ Neferu习惯称他`Ram／Ramo／Rammy`，认为其野心勃勃、愚蠢、沉醉
 
 **台词：**
 
-> “所以，你需要得到他的许可，才能同我说话？我不知道你对自己的奴隶管得这么严，Amicus。”
->
-> “如果他不是奴隶，那他就应该能够自由说话。”
->
-> “我只是对从未见过的聪明物种感兴趣。”
->
-> “啊，果然是真的……我就知道那双眼睛里有智慧。”
->
-> “再次向你道歉。以后，我可以用友好的方式触碰你吗？比如把爪搭在肩上，甚至拥抱？Khemia人向来有很多身体亲密。”
->
-> “你说得对。我本来就应该先取得他的许可；只是他的毛发太令人着迷，我一时忘了分寸。”
+> “哎...所以你需要许可才能和我说话吗？我不知道你对你的奴隶如此严格，Amicus。”
+> “如果不是，那他应该可以自由地说话。”
+> “我只是对从未见过的智慧物种感兴趣而已，还有-”
+> “啊，所以这是真的...我知道我从那双眼睛里看到了智慧。”
+> “我再次道歉。”
+> “今后我可以友好地摸你吗？把爪子放在你的肩膀上，甚至是一个拥抱？克米扬在身体接触上总是很亲密。”
 
 面对Amicus的敌意，他仍不忘反刺：
 
-> “我听说皇帝之子是个翘尾巴，却没想到你会利用现在这个机会。你只是想把爪放到我身上吗？”
->
-> “如果你有兴趣，只要开口就好。我知道狼族的调情相当攻击性；我们胡狼虽然方式不同，我也可以适应。”
+> “你知道吗，我听到过一个谣言，就是皇帝的儿子是个翘尾巴。不过说实话，我没想到你会利用现在这个机会。你真的只是单纯把爪子放在我身上吗？”
+> “如果你有兴趣，直说就好了。我知道沃尔文的调情方式相当具有侵略性，虽然这与我们胡狼很不同，不过我能够适应。”
+> “我仍然认为他是你的奴隶。不过你是对的，我应该征求他的许可。他的毛实在令人着迷，所以我一时忘乎所以了。”
 
 ### 3. 《Adastra》对Alexios：把赠礼、欲望与观察放在同一个动作里
 
@@ -432,17 +424,13 @@ Neferu习惯称他`Ram／Ramo／Rammy`，认为其野心勃勃、愚蠢、沉醉
 
 **台词：**
 
-> “日安，Alex，还有Marco。你们的正午餐食怎么样？”
->
-> “我早上在花园散步时，遇到一只大得惊人的蜘蛛从我爪边爬过去。我忍不住怀疑自己在这里是否安全。”
->
-> “这是答应给你的Buna 种子油。比他们给我们的Adastran 油更适合毛发。”
->
-> “我明天会再来，确保你真的用了。”
->
-> “在那之前，你愿意同我散散步吗？”
->
-> “太好了。你一直是很愉快的陪伴。Marco，你也要加入吗？”
+> “日安，Alex和Marco。你们的午餐享用得如何？”
+> “今天早晨我在花园里散步时，偶然发现了一只大得惊人的蜘蛛，它敏捷地从我爪子前的地面跑了过去。”
+> “我不禁好奇在这里我是否会有危险。”
+> “这是我承诺过的Buna籽油。相比阿达斯特拉提供给我们的油，它对毛发的效果要好得多。”
+> “那么，我明天会再来看你，确保你真的用了！”
+> “在此期间，你愿意和我一起散步吗？”
+> “太好了，作为伙伴你一直都是如此优秀。你也愿意加入我们吗，Marco？”
 
 ### 4. 《Adastra》解释保护Marco的交易：性对价不等于援助动机
 
@@ -452,23 +440,17 @@ Neferu习惯称他`Ram／Ramo／Rammy`，认为其野心勃勃、愚蠢、沉醉
 
 **台词：**
 
-> “Amicus在Cassius那次事件后不久来找我。事情原本很简单，我也同意他的判断：你在这场权力斗争中的位置正变得越来越危险。”
->
-> “他问我最想要什么，我如实回答：如果Amicus成为皇帝，我要同狼族建立联盟。”
->
-> “他当然立刻拒绝了——作为未来皇帝，他理应如此。怎么能只为了一个宠物，就承诺一件牵涉如此广泛的大事？”
->
-> “既然那不可能，我便提出了一点更自私的要求：与同一位狼族皇帝膝下那位英俊的儿子发生性行为。这个条件，他只考虑了片刻就答应。”
->
-> “但有件事你必须明白，Marco。即使Amicus连这也不愿意，我也只会什么都不索取。”
->
-> “保护任何逃离狼族暴力的智慧生命，是每个Khemian的义务——无论是Sibling、Child，还是被遗弃的。我的故乡禁止宠物所有制；这个概念相当令人作呕，不是吗？”
+> “一周前，在Cassius事件发生后不久，Amicus就找我谈了这笔交易。它的内容似乎很简单，而且我不得不同意他的看法：在这场权利的争斗中，你的地位正变得越来越不稳定。”
+> “他问我最想要的是什么，我如实回答了他：和狼族结盟，如果Amicus成为了皇帝。”
+> “当然，他断然拒绝了，这是他作为一个准皇帝应该做的。他怎么能只为了一个宠物，做出如此重要，如此有影响的承诺呢？”
+> “于是，在得知了那是不可能的以后，就我个人而言，我提出了一些更自私的要求：与一个英俊的，沃尔文皇帝的儿子交配。对此，他只考虑了几分钟就同意了。”
+> “不过，我希望你明白一件事，Marco。如果不是Amicus如此的反对，那么我只会简单地，什么也不要求。”
+> “所有克米扬都有义务保护任何智慧生物远离沃尔文的暴行，不论他们是Sibling、Child...还是被遗弃者。在我的家乡，宠物所有权这种东西是非法的，而且这个想法非常恶心，你不觉得吗？”
 
 看出Marco真正想同Amicus建立关系后，他又把挑衅转成建议：
 
-> “Amicus爱你。用这里的话说，清楚得像Vita。”
->
-> “如果你不能接受Amicus同另一个男人发生关系，那就用你自己的方式，明确把他当作`your own man`。”
+> “你们没有，但是你想要有。Amicus爱你，如维塔般明澈，这是这里的俗语。”
+> “所以，就是这样，如果你不喜欢Amicus‘操’另一个雄性，那就宣称他是属于你的雄性。”
 
 ### 5. 《Adastra》第二场选拔后：把胜利表象拆回权力现实
 
@@ -478,19 +460,13 @@ Neferu习惯称他`Ram／Ramo／Rammy`，认为其野心勃勃、愚蠢、沉醉
 
 **台词：**
 
-> “赢了很明显；但这并不表示你已经安全。”
->
-> “你认为谁本来应该获胜，Marco？”
->
-> “规则根本不重要。我相信你已经看出来了。Cassius完全按要求表现，却因为你而输了。”
->
-> “三人执政团显然在选拔很久以前就作出了决定。我们原以为他们不会违背人们的意愿，但Cassius的表现迫使他们那样做。”
->
-> “我不是Adastran 政治的专家，只是来这里学习的人；但我可以保证，Amicus赢下了这一战，权力斗争却远没有结束。”
->
-> “别过度担心。这算狼族政治的常态；戏剧就是他们的身份，我们只能一起被卷进去。”
->
-> “Amicus会保护你；如果你有某种需要是他无法满足的，我也在这里。”
+> “很明显，但是这并不意味着你安全了，目前来说。”
+> “你认为谁应该赢，Marco？”
+> “规则无关紧要。相信你现在应该已经意识到了。Cassius已经尽了全力...但他还是输了，因为你。”
+> “三人执政团们显然在比赛之前就已经做好了决定。我们希望他们不会违背人民的意愿，但是Cassius迫使他们这样做。”
+> “我不能告诉你。我不是阿达斯特拉的政治家，在这里我不过是一个学者。或许Amicus赢了这场仗，不过我可以保证，权利的争斗远未结束。”
+> “别为此感到太过不安。就我所知，这在沃尔文的政治中是司空见惯的。戏剧是他们的本体，而我们只能顺其自然。”
+> “Amicus会保护你的安全，如果他无法满足你的需求，还有我在。”
 
 ### 6. 《Adastra》Amicus被捕后：先让Marco成为公民，再承认朋友关系
 
@@ -500,23 +476,18 @@ Neferu习惯称他`Ram／Ramo／Rammy`，认为其野心勃勃、愚蠢、沉醉
 
 **台词：**
 
-> “我早就有所怀疑。你身上那些奇怪细节太多；我只是没想到连Amicus也会蠢到真的做这种事。”
->
-> “那已经是过去了。现在必须专注眼前。”
->
-> “我在同Amicus达成交易后不久，便通过大使馆批准了你的公民身份。你从未在法律上真正成为他的宠物，也就从未成为帝国成员；我们认为暂时直接授予你公民身份最稳妥。”
->
-> “是的，我是法老的儿子。事情已经处理好了。”
->
-> “我早就告诉过你：帮助陷入痛苦的智慧生命，是Khemian的义务。”
->
-> “无论我们此前怎样互动，我把Amicus当作朋友。你对他极为重要，所以保护你是我的责任……而且，如果我也把`你`当作朋友，会很奇怪吗？”
+> “考虑到你身上的怪异行为，我曾有过这样的怀疑。不过我同样想过，就算是Amicus，也不会愚蠢到做这样的事。”
+> “无论如何，那已经过去了，我们必须着眼于现在。”
+> “在我与Amicus达成交易后不久，我就在大使馆授权了它。你从未正式成为他的宠物，因此也不曾是帝国的一员。我们认为在这期间最好授予你公民的身份。”
+> “是的，我是法老之子。”
+> “那些已经处理好了。”
+> “我之前和你说过，Marco，帮助身处困境之中的智慧生物是每一个克米扬的义务。”
+> “尽管我们之前有过节，但我依然把Amicus当做朋友。你对他而言很重要，我认为我有责任保护你的安全...而且，我同样把你当做朋友，这很奇怪吗？”
 
 当Marco要求参与反政变安排而Neferu笑出声时，Marco当场反击；Neferu立刻停止：
 
-> “你说得对，Marco。我道歉。只是没想到你会作出这么有力的回击——我喜欢。”
->
-> “他和我们一样是这件事的一部分。我认为他有权知道我们正在做什么。”
+> “你说得对，Marco，我道歉。我只是没想到你会这么有力地反驳，我很喜欢。”
+> “他涉及的程度同我们一样深。我相信他应该知道我们在做什么。”
 
 ### 7. 《Adastra》面对Cato：魅力失效后的暴力现实
 
@@ -526,25 +497,20 @@ Neferu习惯称他`Ram／Ramo／Rammy`，认为其野心勃勃、愚蠢、沉醉
 
 **台词：**
 
-> “嗯，这酒真不错。是你们为数不多比Khemia做得更好的东西。至于Marco，我只是在履行对Amicus的承诺。”
->
-> “我只是好奇。我来这里研究帝国的政治与运作，也希望改善两族关系；了解狼族政治的每一个侧面都很重要。”
->
-> “我花了无数小时研究这段历史，Cato；这也是我来这里的主要原因。”
->
-> “宽容？我很少把这个词同狼族联系在一起。”
->
-> “有那么一刻，我还以为你像Amicus一样在向我示好。”
+> “嗯呣，真是好酒。你们生产出来的为数不多的高级品之一。现在，至于Marco，我只是在履行对Amicus的承诺。”
+> “哦，不，我只是好奇。我在这里学习帝国的政治和运作方式，同时也试着改善我们种族之间的关系。我觉得了解沃尔文政治的方方面面是很重要的。”
+> “我花了无数时间研究这段历史，Cato，这也是我来这里的主要原因。”
+> “宽容？我不常把这个词和狼联系在一起。”
+> “有那么会儿，我还以为你是对我有意思，像Amicus那样。”
 
 被Cato扼住、勉强获得喘息后：
 
-> “你……知道……Amicus要温柔一点……但如果你想把爪放到我身上，只需要——”
+> “你...知道吗...Amicus可没有你...那么粗鲁...不过如果你想用爪子摸我，只需要-”
 
 暴力结束后，他闭眼忍痛、被Marco扶上床，仍先把失败归为自己的计算：
 
-> “不，我并不好。我得去城市找医师确认情况——Cato刚好把皇宫医生关起来了。”
->
-> “我能处理。只是这次算错了；下次我会知道怎样应付他。”
+> “咳...没事，不过我得看医生才能确定...自从Cato囚禁了宫廷医师后，就只有去城里了。”
+> “我撑得住。我只是估算错误了，我知道以后该怎么对付他。”
 
 ### 8. 《Adastra》揭穿Alexios：熟悉色诱，也熟悉真正的软肋
 
@@ -554,27 +520,33 @@ Neferu习惯称他`Ram／Ramo／Rammy`，认为其野心勃勃、愚蠢、沉醉
 
 **台词：**
 
-> “够了，Alex。你的伪装已经暴露，也同母星失去联系，为什么还在监视我们？”
+> “虽然我一般不会对着树木窃窃私语。现在，-这-就有些怪了。”
 >
-> “噢，Alex，你知道这本来就是我的手法。对我没用。现在，何不让我们看看那棵树？”
+> “噢，Alex，你知道，我的技巧对我不起作用。现在，我们为什么不看看那棵树呢？”
 >
-> “真可惜，你并不是第一个用这种招数对付我的人。我已经学会了：这颗月球上的人打架很脏。”
+> “真可惜，你不是第一个对我采取这种行动的。我知道这个卫星上的人会下黑手。”
 >
-> “经典Omorfan—Parent 技术。他们常把植物生命和机械结合，相当聪明。”
+> “典型的奥莫法的Parent的科技。他们经常把植物和机械结合起来，创造他们的小玩意儿。相当巧妙，而他们不久前还在克希米亚与我们分享了他们的知识。”
 >
-> “这是通信装置；枝条就是巨大天线。它很可能先把消息送到Adastra City，再由第二名间谍中继回Omorfa。对吧，Alex？”
+> “一个通信设备。它把树枝当作巨大的天线，能够远距离传输信息，不过它应该是传输到了阿达斯特拉城。”
+>
+> “那里很有可能还有第二个间谍，通过一个更强力的机器把信息...直接发送到奥莫法。”
+>
+> “是不是啊，Alex？”
 
 Alexios说他被父亲扔来建立无望的联盟、会沦为历史脚注时，Neferu冷声回应：
 
-> “考虑到你现在的位置，我会更谨慎地选择措辞。我们返回皇宫后会立刻把这件事报告给皇帝。”
+> “如果我是你，考虑到目前的处境，我会更慎重地选择自己的话。正如我所说，一回到皇宫，我们就会把这件事报告给皇帝。”
 
 随后，他用Alexios真正舍不得的对象完成谈判：
 
-> “去取得Archive权限。Cassius不会因此受伤；你有一周时间，否则皇帝会知道你的叛国。”
+> “那就想办法得到它。我们知道你和Cassius有多亲密。编个你需要它的理由，然后给予我们权限。”
 >
-> “他不会背叛。Alexios无法忍受Cassius知道自己的背叛。”
+> “帮助Amicus，以及不让Cassius受到伤害。最迟下周，否则皇帝就会知道你的叛国罪了。”
 >
-> “他对Cassius的爱几乎等同于对Omorfa的忠诚。所以我保证Cassius不会被我们的计划伤害；我们暂时不必过度担心。”
+> “他不会的。他无法接受被Cassius得知他的背叛。”
+>
+> “是的。他对Cassius的爱几乎等同于他对奥莫法的忠诚，这就是为何我向他保证，通过我们的计划，Cassius不会受到伤害。我们没什么可担心的。”
 
 ### 9. 《Adastra》醉酒崩溃：迁怒、纠错与被放逐恐惧
 
@@ -584,35 +556,26 @@ Alexios说他被父亲扔来建立无望的联盟、会沦为历史脚注时，N
 
 **台词：**
 
-> “我喝醉了。”
->
-> “太醉了——可同时，又醉得还不够。”
->
-> “你是奴隶。你知道该做什么。”
->
-> “别让狼族告诉你别的。只要还在这里，他们就是你的主人。”
->
-> “别担心，Marco，我同你一样也是奴隶；只是你终有一天能离开。”
->
-> “你不懂。我可以走，却又`不能`走。”
->
-> “如果你没有来到这里，Cato就没有借口废除Amicus的皇位。现在，我本该已经谈完半场联盟了。”
+> “我是醉了。”
+> “非常醉，不过-”
+> “-同时，还不够醉。”
+> “你是个奴隶，你知道该怎么做。”
+> “毋庸置疑，不要让狼来告诉你。只要你还在这里，他们就是你的主人。”
+> “别担心，Marco，我是和你一样的奴隶。不过，总有一天你会离开的。”
+> “你不明白，我可以离开，但是我不能离开。”
+> “如果你没有来到这里，Cato就不会有借口废除Amicus的统治。联盟的谈判应该已经步入正轨了。”
 
 Marco准备离开时：
 
-> “等等……”
->
-> “我……我真的很抱歉。我不知道……不知道自己在做什么。”
+> “等下...”
+> “我...我真-真的很对不起。我不...我不知道自己是-是怎么了。”
 
 被Marco扶上床、重新获得身体安抚后：
 
-> “你能……再揉揉我的背吗？那感觉很好。”
->
-> “我只是突然意识到这一切会有多难。我不相信狼族民众会赶走Cassius；他们太能容忍腐败官员。”
->
-> “我的家庭根本不期待我成功；可正因为这样，我必须做到。否则我还不如直接被放逐。”
->
-> “在我给他们造成那些伤害之后，这也算公平。”
+> “可不可以...再揉一下我的背？感觉真好。”
+> “我不知道...我想，我是意识到了这多么具有挑战性。我无法肯定沃尔文人民会罢免Cassius。他们对那些贪官污吏有着相当的容忍。”
+> “呵呵，我的家人甚至不指望我能做到，但这就是我为何必须这样做的原因。如果没有，我可能会被放逐。”
+> “在我让他们经历了那些后，这已经相当公平了。”
 
 ### 10. 《Adastra》处刑场：自己被锁住时仍让Marco逃
 
@@ -622,19 +585,16 @@ Marco准备离开时：
 
 **台词：**
 
-> “噢，Marco，你怎么会在这里？”
->
-> “不，我当然不好。不过目前还活着，所以大概也不能要求更多。”
->
-> “Marco，你必须跑。Cato很可能不知道你在这里。”
->
-> “去城市、去树林……去任何地方……”
+> “噢，Marco，什么风把你吹来了？”
+> “不，完全不好，不过暂时保住了性命，所以我想我也没有别的奢求了。”
+> “Marco。”
+> “Marco，你必须快逃，Cato可能还不知道你在这里。”
+> “逃到城市里，森林里...任何地方...”
 
 Marco没有逃，反而刺伤Cato，随后被一刀割开喉咙。Neferu移动身体接住他，让Marco倒在自己腿上；恐惧彻底取代外交表情。
 
-> “Marco……”
->
-> “Amicus……Amicus，醒醒，救他！”
+> “Marco...”
+> “Amicus...Amicus，快醒醒，救救他！”
 
 ### 11. 《Adastra》后日谈：承认羞耻，也限定自己对The Other所知
 
@@ -644,31 +604,23 @@ Marco没有逃，反而刺伤Cato，随后被一刀割开喉咙。Neferu移动�
 
 **台词：**
 
-> “Khemia当然狂怒。他们仍在威胁：如果Amicus不设法纠正这一切，就切断与Adastra的全部外交关系。”
->
-> “尽管我的家庭几乎鄙视我，他们更无法容忍家族名誉被狼族的侮辱玷污。”
->
-> “Cato还在原定处刑前公开了他攻击我的录像。如今各个新闻频道都在反复播放。”
->
-> “如果说实话，我确实很尴尬；不过，对我而言也不是第一次。”
->
-> “你大概已经知道，我并不经常真诚。这是成为外交官和法老之子的代价。”
+> “哦，没错，盛怒。他们仍然威胁说，如果Amicus没有把事情处理好，就要切断与阿达斯特拉的一切外交关系。”
+> “是的，虽然我的家人很看不起我，但实际上，他们还是非常鄙视我们的名誉被沃尔文的无礼所玷污。”
+> “之一，还有Cato在行刑前公布了袭击我的录像。自那时起，新闻频道一直在大肆轮换播放。”
+> “我还好，Marco。但说实话，我很尴尬，不过这对我来说不是什么新鲜事了。”
+> “现在这个时候，你应该已经知道我不常是真正的自己了。作为一名外交官和法老的儿子，这是理所当然的。”
 
 谈联盟：
 
-> “最简单的说法是：我们研究Galaxias最早的历史，得出结论——Parents从未打算让我们互为竞争者。”
->
-> “Sibling文明与其Children的目标，是达到Parent层级；为此必须获得星际航行。”
->
-> “我们正在缓慢意识到：若没有星系中全部智慧生命合作，这也许根本不可能。”
+> “这是个出乎意料的问题。嗯，简而言之，我们研究了加拉西亚斯最早期的历史，并得出一个结论：Parent的意图从来不是让我们相互竞争。”
+> “如果你还不知道的话，Sibling和他们Children的目标是达到Parent的地位。要达成这一点，我们必须实现星系间的旅行。”
+> “我们...逐渐意识到，如果没有星系中全体智慧生命的合作，这是不可能做到的。”
 
 谈The Other：
 
-> “它更像一种机器，处在生命边缘，却需要智慧生命才能存在。”
->
-> “首先必须说，我们对它知道得非常、非常有限；大部分信息可能都是错的，实质上只是怪谈。”
->
-> “我个人觉得，围绕The Other的传说更像一个笼统归类：凡是人们害怕、不能理解，或只是社会太无聊而制造出的东西，都被放进去。”
+> “像你我那样活着？不，不完全是。我想，它更像是一种...机器，处在生命的边缘上，然而它的存在需要智慧生命。”
+> “事先说明，我们对它的了解非常、非常有限，而且大部分信息可能是错误的：就像一个鬼故事那样。”
+> “就我而言，我觉得围绕着他者的传说不过是对一切恐惧的笼统概括，或者是理解不足...又或者只是无聊社会的产物。”
 
 ### 12. 《Interea》湖边：Marco险些溺水后罕见发怒
 
@@ -678,23 +630,25 @@ Marco没有逃，反而刺伤Cato，随后被一刀割开喉咙。Neferu移动�
 
 **台词：**
 
-> “我真不明白，你为什么宁愿去那片寒冷、浑浊、还有些污染的湖，也不肯留在舒服温暖的矿物水里。”
+> “唉，不明白你为什么宁愿选择浑浊、阴冷的湖水，而不是这边宜人、温暖、富含矿物质的池水。”
 >
-> “说到会生气的Amicus皇帝，我怀疑他会乐意看你在没有任何安全措施的情况下横渡湖。”
+> “说到愤怒的皇帝Amicus，我想他不会乐意看到你在没有安全措施的情况下游过湖的。”
 >
-> “事故会发生，无论物种是什么。”
+> “居安思危，这与种族无关。”
 
 Marco呛水后：
 
-> “`我`很好。可`你`刚才离溺水只有几秒！”
+> “**我**很好。另一方面，**你**，差点就被淹死了！”
 >
-> “想象一下——你和你的狼经历了这一切，最后却因为粗心淹死在湖里。”
+> “想象一下，要是你-”
+>
+> “-跟你的狼经历了那一切后，却因为粗心而溺死在湖里。”
 
 稍后，他把个人恐惧连回政治巡视：
 
-> “我觉得Amicus很可能把这次行动描述成我们所有人的宏大冒险，却没有足够认真。”
+> “总而言之，我想Amicus可能是把这一事件描绘成了一次盛大的冒险，而没有更严肃一些。”
 >
-> “严重到让我怀疑，他已经忘记这类事情能有多危险。”
+> “以至于我认为他已经忘记了其中的危险性。”
 
 ### 13. 《Interea》再次抓住Alexios：旧身体默契不能遮住新间谍行为
 
@@ -704,23 +658,23 @@ Marco呛水后：
 
 **台词：**
 
-> “怎么了，Alex？不久前我们还做过这种事，而且你明明非常享受！”
+> “怎么了，Alex？不久前你不是还很享受的吗！”
 >
-> “是啊，可你是个`糟透了`的演员。”
+> “确实，不过你是一名**拙劣**的演员。”
 >
-> “拖延够了，Alex。你的伪装早已暴露，又没有母星通信，为什么还在继续监视我们？”
+> “时间拖够了吧，Alex。你的身份已经暴露了，也和自己的星球失去了联系，为什么还在监视我们？”
 >
-> “这显然违反了你为了留在这里而亲自同意的规则。”
+> “这显然违反了你亲自口同意的，留在这里的一系列规定，Alex。”
 
 当Virginia冷静建议把Alexios之死伪装成事故时，Neferu并没有因旧关系破裂而默认杀人：
 
-> “我们认识这个人；你却能如此冷酷地谈论他的死亡，实在令人不安。”
+> “如此冷酷地谈论一个我们认识的人的死亡实在令人不安。”
 
 Marco反对复制Cato的暗杀手法后，他明确站队：
 
-> “至少我同意Marco。我还建议去大学档案库，请Parents检查他的装置。”
+> “就个人而言，我同意。我会考虑拜访学院的档案库，看Parents是否愿意检查你的设备。”
 >
-> “刚才那种声音的确超自然。”
+> “那声音可谓超凡脱俗。”
 
 ### 14. 《Interea》Lupas演讲：把朋友答案与政治答案同时交出
 
@@ -730,19 +684,19 @@ Marco反对复制Cato的暗杀手法后，他明确站队：
 
 **台词：**
 
-> “恕我打断，但这是明智的决定吗？如果我没记错，那里正是当前迅速壮大的分离主义运动的行动中心。”
+> “不好意思打断你们的对话，但这是明智的决定吗？因为，我若说错了还请纠正，那里的分裂主义运动不是正盛？”
 >
-> “我见过他们的示威。主要被用来煽动怒火的是我的形象，但Marco的肖像也在其中。”
+> “我见识过那里的示威游行，虽然用来唤起他们愤怒的主要是我的照片，但也不乏Marco的肖像。”
 >
-> “Amicus有没有告诉你，Lupas有怎样的刺杀历史？他们很擅长杀死那些对去极端化和联盟至关重要的人。”
+> “他有没有提到鲁帕斯的暗杀史？他们相当善于抹除那些有助于去极端化和结盟的存在。”
 
 被要求给结论时：
 
 > “我有两个答案。”
 >
-> “作为你的朋友，不。我认为风险大到让我无法接受你在Lupas任何公共场所露面。”
+> “作为你的朋友，我不赞成。在鲁帕斯的公共场所出没实在太冒险了。”
 >
-> “但从政治盟友的立场看，我认为这对我们双方都有利；而我自己也会在那里公开露面。”
+> “但从政治的角度分析，我认为这对我们双方都有利，并且我也会在那里公开露面。”
 
 这不是摇摆，而是拒绝把情感偏好伪装成唯一理性。
 
@@ -754,21 +708,21 @@ Marco反对复制Cato的暗杀手法后，他明确站队：
 
 **台词：**
 
-> “别那样说，Brunis。这里在政治与经济上都处于尤其不利的地位。”
+> “别这么说，Brunis。况且，这一地区的政治和经济处于尤其不利的地位。”
 >
-> “我认识你并不久，Brunis；但`温和`绝不是我会用来形容你的词。”
+> “虽然认识你的时间不长，Brunis，但我不会用小心谨慎来形容你做的哪怕任何一件事。”
 >
-> “学术界并不完全等同现实应用。”
+> “书本上的知识并不能完全套用在现实。”
 >
-> “可你主持过的事，有这次这么重要吗？”
+> “但有现在重要吗？”
 >
-> “我只是问一个问题。你的风格已经不拘礼节到极点；我只是意外你会被选中。”
+> “我只是感到意外，毕竟被选中你和他们一样不拘小节。”
 
 Brunis终于说“我站在你这边”后：
 
-> “好，明白了。现在，在你继续向随机路人透露更多敏感信息之前，我们可以走了吗？”
+> “明白。好了，咱们先赶路吧，趁你向路人透露更多敏感信息之前？”
 >
-> “还有，别再那样说他们。”
+> “再提醒你一遍，别这么说。”
 
 他接受了帮助，却没有因为获得情感支持而放弃职业边界。
 
@@ -780,21 +734,21 @@ Brunis终于说“我站在你这边”后：
 
 **台词：**
 
-> “不用为我担心。他们看见我被护送出城市后似乎已经满意；至少在我能观察到的范围内，没有进一步问题。”
+> “别担心，他们似乎很满意我被护送出城这一结果。除此之外，一切都好。”
 >
-> “没有受伤。”
+> “没有。”
 >
 > “我很好。”
 >
-> “不，我不想再谈。”
+> “不想。”
 
 Amicus提供房间后：
 
-> “谢谢。也再次为我带来的复杂情况道歉——”
+> “感谢。造成的不便，我深感歉-”
 
 Amicus命令他别再道歉、去安顿时，他终于恢复一丝熟悉的促狭语调：
 
-> “当然，陛下。”
+> “承您吉言，陛下。”
 
 这点短暂反讽足以让Amicus放心一些，却不表示排外羞辱已经被消化。
 
@@ -808,21 +762,41 @@ Amicus命令他别再道歉、去安顿时，他终于恢复一丝熟悉的促�
 
 > “噢，你好啊，Chosen One。通常不都是我先走向你吗？”
 >
+> "Well, hello there Chosen One. Usually it is me that approaches you, is it not?"
+>
 > “有什么东西吸引了你的目光吗？”
 >
-> “首先，我正想问Skip愿不愿意和我去私密会所。”
+> "Something catching your eye?"
 >
-> “Wonderful！”
+> “那要看情况，Brunis。首先，我正想问问 Skip 愿不愿意同我去一家私密会所。”
 >
-> “Clay District有一家地方可以去。如果那里让你不舒服，我们可以换；我不想勉强你。”
+> "That depends, Brunis. Firstly, I was meaning to ask Skip if he would like to visit a den with me?"
 >
-> “无论如何，我会保证你的安全。”
+> “太好了！”
+>
+> "Wonderful!"
+>
+> “Clay District有一家会所，我们可以去那里。”
+>
+> "There's an establishment in the Clay District we can go to."
+>
+> “抱歉，你更想去别的地方吗？那里只是比较近，但如果你不喜欢那个地区，我不想让你感到不舒服。”
+>
+> "Sorry, would you rather go somewhere else? It's simply somewhat close by, but I don't want to make you uncomfortable if you have a problem with that place."
+>
+> “无论如何，我都会保证你的安全。”
+>
+> "I'll keep you safe, either way."
 
 进入私密会所后：
 
-> “我上的是Galaxias最好的大学，校园里甚至有专门用来做这件事的房间。”
+> “我上的是整个Galaxias最好的大学，校园里甚至有专门用来做这件事的房间。”
 >
-> “为了庆祝你获得职位，我想帮你研究Khemia人。你以前同Khemia人发生过性行为吗？”
+> "I attended the best university in the Galaxias, and there were rooms dedicated to the act on campus."
+>
+> “总之，为了庆祝你获得职位，我想帮你研究一下 Khemia 人。你以前同 Khemia 人交合过吗？”
+>
+> "Anyway, to celebrate your promotion, I thought I'd help you with your research on Khemians. Have you ever copulated with one?"
 
 他把双臂紧紧环在Scipio身上，在酒的气味中安静下来；这里最重要的潜台词不是征服，而是终于有人愿意在他身边睡着。
 
@@ -836,27 +810,55 @@ Amicus命令他别再道歉、去安顿时，他终于恢复一丝熟悉的促�
 
 > “这到底是怎么回事，Com！？”
 >
+> "What the hell happened, Com!?"
+>
 > “Skip？”
+>
+> "Skip?"
 >
 > “Ahhotep！”
 >
-> “神祇！告诉他我们正在过去！Skip不舒服。”
+> "Ahhotep!"
+>
+> “诸神啊！告诉他我们正在过去！Skip 不舒服。”
+>
+> "Gods! Tell him we are on our way! Skip is unwell."
 >
 > “Skip，怎么了？你受伤了吗？还是病了？”
+>
+> "Skip, what's wrong? Were you injured? Are you sick?"
 
 Scipio不想谈时：
 
-> “所以……你想谈谈刚才发生的事，还是——”
+> “你说得对，Amicus。我想自己在这颗月球上过得太安逸了。我为自己的疏忽道歉。”
 >
-> “好，我把这当成拒绝。跟我来。”
+> "You are right, Amicus. I suppose I have become too comfortable on this moon. I apologize for my negligence."
 >
-> “这里你可以随意使用，无人机会清理。我觉得你需要更——宽阔的空间来稳定心智。你刚才经历了非常可怕的事，我知道它已经影响到你。”
+> “我也向你道歉，Scipio。我绝不想危及你的任务，更不想危及你的生命。不知为何，那种可能性当时甚至没有进入我的心智。请原谅我。”
+>
+> "And I apologize to you, Scipio. I had no intention of endangering your mission, but more importantly, your life. For whatever reason, the possibility didn't even cross my mind. Forgive me."
 
 Amicus训斥后，Neferu从玩笑转入正式承担：
 
-> “你说得对，Amicus。我大概在这颗月球上过得太舒适了；我为自己的失职道歉。”
+> “所以……你想谈谈刚才发生的事，还是——”
 >
-> “Scipio，我也向你道歉。我绝不想危及你的任务，更不想危及你的生命。无论为什么，那种可能性当时完全没有进入我的心智。请原谅我。”
+> "So... Do you wish to speak about what happened, or--"
+>
+> “好吧，我就把这当成拒绝。跟我来。”
+>
+> "I'll take that as a no. Follow me."
+>
+> “请自便。无人机会负责清理。”
+>
+> "Help yourself. Drones will clean up after you."
+>
+> “房间里有一间私人浴室。除此以外，我觉得你需要一个更加——”
+>
+> "There's a personal bath in the room. Besides that, I feel you need a more--"
+>
+> “——开阔的空间来平复心绪。你刚才经历了非常可怕的事，我知道它已经影响到你。”
+>
+> "--wide open space to ease your mind. What you experienced was a terrible thing, and I know it has affected you."
 
 ### 19. 《Khemia》为旧痛命名：用Marco之死回应Scipio创伤
 
@@ -866,25 +868,43 @@ Amicus训斥后，Neferu从玩笑转入正式承担：
 
 **台词：**
 
-> “我确实不安，但不是对你。我对很多事情感到沮丧；我想，我是在对整个Adastra生气。”
+> “我的确很恼火，但不是在生你的气。我只是……对许多事情感到挫败。我想，我是在对整个Adastra生气。”
 >
-> “当我跪在圆形剧场、确定生命即将结束时，我很平静。甚至可以说，当时的我愿意死。”
+> "I am upset, but not with you. I am... frustrated with many things. I suppose I'm upset with Adastra as a whole."
 >
-> “我把那当成一个简单明确的目标，一条迅速抵达赎罪的路。”
+> “当我跪在圆形剧场里、确信生命就要结束时，我很平静。事实上，你甚至可以说，那时的我愿意死。”
 >
-> “随后，一个朋友救了我；没过多久，我却看见`他的`颈部被割开。”
+> "When I was kneeling in the amphitheater, certain my life was about to end, I was at peace. In fact, you might even say that I was willing to die, especially at that time."
 >
-> “那次经历改变了我。在亲眼看见死亡发生以前，我想自己从未真正害怕过它。”
+> “我把那看成一个简单明确的目标，一条迅速抵达赎罪的道路。”
 >
-> “我第一次看着一个智慧生命、一个朋友，从存在变成虚无；只剩一具空洞、受损的躯壳，被恋人抱在双臂里。”
+> "I had reasoned that it was an easy purpose and a quick path to redemption."
+>
+> “可随后，一位朋友救了我。没过多久，我却亲眼看见他的颈部被割开。”
+>
+> "But then I was saved by a friend. Shortly afterwards, I witnessed his neck being slashed instead."
+>
+> “我告诉你这些，是因为那次经历改变了我内心的某些东西。在死亡真正发生于眼前之前，我想自己从未真正害怕过它。”
+>
+> "I tell you this because that experience changed something within me. I don't believe that I ever feared death until that moment, when it happened right before my eyes."
+>
+> “我第一次看着一个智慧生命、一个朋友，从存在变成虚无。最后只剩一具空洞、受损的躯壳，被他的爱人抱在怀里。”
+>
+> "For the first time, I watched a sapient, a friend, transition from existence, to nothing. Nothing but an empty, damaged vessel cradled in his lover's arms."
 
 他搂住Scipio 肩膀，让两人的头部相抵，以未经Lingua修饰的Khemian说：
 
-> “`Ahewawi.`”
+> “Ahewawi。”
 >
-> “这是我们的词，意思是`old pain`。Adastran 词汇里甚至没有它；这更令我沮丧。在这里，人被期待独自面对内心动荡。这才是我生气的原因。”
+> "Ahewawi."
 >
-> “所以你必须明白：不必在我面前藏起这些困境。我宁愿帮助你应对它们。”
+> “这是我们的词，意思是‘旧痛’。我知道 Adastran 词汇里没有这个词，而这只会令我更加沮丧。在这里，人被期待独自面对内心的动荡。这才是令我生气的原因。”
+>
+> "That is our word for it; 'old pain'. I know that it's not in Adastran vocabulary, which makes this all the more frustrating. Here, you are expected to face inner turmoil alone. This is what upsets me."
+>
+> “所以你必须明白，你不必在我面前藏起这些困境。我宁愿帮助你应对它们。”
+>
+> "So understand that you don't have to hide your struggles from me. I would rather help you manage them."
 
 ### 20. 《Khemia》被冷拒后修复：承认旧经验，也承认策略性信任
 
@@ -894,25 +914,51 @@ Amicus训斥后，Neferu从玩笑转入正式承担：
 
 **台词：**
 
-> “明白。很好。我就不打扰你处理自己的事情了。也为挫伤你的狼族自尊道歉。”
+> “我明白了。好吧，那我就不打扰你处理自己的事了。抱歉伤了你这狼族的自尊。”
+>
+> "I see. Very well. I shall leave you to attend to your own matters, then. Apologies for bruising your wolven pride."
 
 重谈时：
 
-> “你不必道歉。我当时太多管闲事，你的反应完全可以理解。如果你愿意听一个解释：我的过度反应来自过去的经历。”
+> “啊，你不必道歉。是我太过多管闲事，你的反应完全可以理解。如果你愿意听一个解释，我的过度反应源于过去的经历。”
 >
-> “我认识过一个叫Alexios的Omorfan。”
+> "Ah, you need not apologize. I was being nosy and you reacted in an understandable way. If you'll accept an excuse, my overreaction is rooted in past experiences."
 >
-> “我认识他，却怀疑除了Cassius以外，是否有人真正认识过他。他不是好间谍，却被所有人低估。”
+> “我曾认识一个名叫 Alexios 的 Omorfa 人。”
 >
-> “他吸引了Cassius。若能直接连接权力的核心，做间谍当然更容易。”
+> "I once knew an Omorfan by the name of Alexios."
 >
-> “每当被逼入角落，他就会让表情与情绪变得像石头；那是经典的外交防御动作。”
+> “嗯，我认识他。但除了 Cassius 以外，我怀疑是否有人真正了解过他。总之，尽管他几乎颠覆了 Adastra，他从来算不上优秀的间谍，只是所有人都低估了他。”
 >
-> “你走出洗手间时的表情同他惊人地相似。但我知道那不是你，Scipio。”
+> "Well, I knew him, but I doubt anyone knew him personally, aside from maybe Cassius. Anyway, despite nearly toppling Adastra, he was never a very good spy, but he was underestimated."
 >
-> “你是善良、诚实的人。即使我们文化与语言不同，即使两族背负那些历史——”
+> “而他恰好吸引了 Cassius。能够直接连接权力的核心，做间谍当然会容易得多。”
+>
+> "And he struck Cassius's fancy. It's easier to be a spy when you have a direct connection to the very heart of power."
+>
+> “每当被逼入角落，他往往都会进入一种非常……古怪的心境。”
+>
+> "Well, whenever he found himself cornered, he often resorted to a very... strange state of mind."
+>
+> “简单地说，他会让自己的表情与情绪都变得像石头。那是一种经典的外交防御动作，他常用它摆脱自己无法应付的局面，只是从来算不上隐蔽。”
+>
+> "Basically, he would exhibit the expression and emotion of a rock, a classic, diplomatic, defensive maneuver he often used to get out of situations he couldn't, though he was never subtle about it."
+>
+> “总之，你走出洗手间时看我的表情同他惊人地相似。但我知道那不是你，Scipio。”
+>
+> "Anyway, when you came out of that lavatory, the look you gave me was strikingly similar, but I know that's not you, Scipio."
+>
+> “你是一个善良、诚实的人。我知道，如果目的只是混乱与毁灭，你绝不会做出那样的事。”
+>
+> "You are a good, honest person, and I know you would never do such a thing if the intention is simply chaos and destruction."
+>
+> “即使我们的文化与语言不同，即使两族之间背负着那样的历史——”
+>
+> "And despite our differences in culture and language, and despite the history between our people--"
 >
 > “——你是我的朋友，我信任你。”
+>
+> "--you are my friend, and I trust you."
 
 ### 21. 《Khemia》返乡重逢Aya：亲密、担忧与信息边界冲突
 
@@ -922,25 +968,41 @@ Amicus训斥后，Neferu从玩笑转入正式承担：
 
 **台词：**
 
-> “再见到你也很好。我只是很高兴终于回来。”
+> “再见到你也很好。我只是很高兴终于回来了。”
 >
-> “我们都知道，如果我当时离开，只会让一切变得更糟。那里也是唯一让我拥有目标感的地方。”
+> "And it's good to see you again, too. I'm just glad to be back. "
 >
-> “啊，是的。Rammy甚至连我们都没介绍，对吧？”
+> “我们都知道，如果我当时离开，只会让一切变得更糟。况且，那里是唯一能让我拥有目标感的地方。”
 >
-> “Aya，拜托，也许这种事该等你更了解他之后再做？”
+> "We both know that would have only made everything worse. It's the only place I had a purpose, anyway."
 >
-> “等等，我也要被排除？可我是他的朋友！你不能随便抓住一个陌生人，就把他拖进你的——”
+> “啊，对。Rammy甚至都没替我们相互介绍，对吧？”
+>
+> "Ah, yes. Rammy didn't even introduce any of us, did he?"
+>
+> “Aya，拜托。也许这种事该等你更了解他以后再做？”
+>
+> "Aya, please, maybe you can do that sort of thing when you get to know him better?"
+>
+> “等等，我也不行？可我是他的朋友！你不能随便抓住一个不认识的人，就把他拖进你的——”
+>
+> "Wait, me? But I'm his friend! You can't just grab people you don't know and drag them into your--"
 
 Aya反问他是不是也把sakhaet工作看成巫术、想象或精神分裂症时：
 
 > “不——不，当然不是。”
 >
-> “我为刚才的不尊重道歉。关于虚假谣言，我至少能理解那有多难受。我们也需要认真谈谈。”
+> "N-No, of course not."
+>
+> “我为刚才的不尊重道歉。不过，关于虚假谣言，我至少能理解那有多难受。我们也需要认真谈谈。”
+>
+> "I apologize for disrespecting it. I can at least sympathize with false rumors, though. We also need to talk."
 
 他后来又把Aya透露的Henut信息说给Scipio，被她当场制止：
 
-> “放松，Aya。Skip值得信任。”
+> “放松，Aya。Skip 值得信任。”
+>
+> "Relax, Aya. We can trust Skip."
 
 这句话既是真诚认可Scipio，也暴露Neferu容易把“我信任”误作“你也已同意披露”。
 
@@ -952,21 +1014,35 @@ Aya反问他是不是也把sakhaet工作看成巫术、想象或精神分裂症�
 
 **台词：**
 
-> “这场会面长得要命。他想知道每一个细节；可我连一半都没说，因为他不是父亲。”
+> “唉！是啊，他想知道每一个细节。不过，因为他不是父亲，我连发生过的事的一半都没告诉他。”
 >
-> “我上次见父亲大概是三年前；即使见到，也只是很短的一面，通常只为了给我某个任务。他现在这样并不反常。”
+> "Ugh! Yeah, he wanted every detail. I didn't tell him half of what happened though since he's not my father."
 >
-> “父亲的气质当然比我兄长好。不过，Ram确实坚定支持联盟——这一点我至少可以确认。”
+> “我上次见到父亲应该是三年前。即使见到他，也往往只是一段很短的会面，通常只是为了交给我某项任务。他这样做并不反常。”
 >
-> “他为走到今天工作了一辈子。为什么要把一切扔掉，还冒险让整个Galaxias偏离轨道？”
+> "The last time I saw my father must have been three years ago, and the times I did see him were very brief, usually to give me some sort of task. This is nothing unusual for him to do."
+>
+> “不过，是的，父亲的气质远比我兄长好。即便如此，Ram 确实坚定支持联盟，这一点我至少可以确认。”
+>
+> "But yes, he has a far better temperament than my brother. Still, Ram is solidly behind the alliance, that I at least know to be true."
+>
+> “是的。他为走到今天付出了一生。他为什么要把这一切扔掉，冒险让整个 Galaxias 偏离轨道？事情真走到那一步，后果就会如此。”
+>
+> "Yes. He's worked his entire life to this point. Why would he throw it away and risk derailing the entire Galaxias, which is what would happen."
 
 Scipio要求最坏情况下的保证：
 
-> “当然，Scipio。我会同你们一起离开；那种情况肯定会让我被放逐。不过，如果真走到那一步，我们大概有更严重的问题。”
+> “当然，Scipio。我必须同你们一起离开，因为那种局面肯定会让我遭到放逐。不过，真走到那一步，我们大概会有更严重的问题需要担心。”
 >
-> “Ramo是一种很独特的人格：同时野心勃勃，又愚蠢。”
+> "Of course, Scipio. I would have to come with you, since a scenario like that would definitely end in my banishment, but I think we'd have bigger issues to worry about in that case."
 >
-> “事实就是有这种触感，Skip。”
+> “不过，真的，尽量别担心。Ramo 是一种非常独特的人格：既野心勃勃，又愚蠢。”
+>
+> "But really, try not to worry. Ramo is a unique personality, simultaneously ambitious, but stupid."
+>
+> “真相听起来就是这么冷酷，Skip。总之，比起其他事情，我更担心可能出现的Omorfa破坏者。”
+>
+> "That's simply how the truth feels, Skip. Anyway, I would be more worried about possible Omorfan saboteurs than anything else."
 
 ### 23. 《Khemia》第一次承认极端主义的过去：不在关系安全前一次说完
 
@@ -978,17 +1054,25 @@ Scipio要求最坏情况下的保证：
 
 > “极端主义者当然哪里都有，只是他们从未像现在这样大胆。”
 >
-> “与Lupas一类地方相似，这颗星球的一些区域也会让边缘群体滋长；必须温和处理，也许过去已经温和过头。”
+> "There are extremists everywhere, of course, but they've never been this bold."
 >
-> “公平地说，Lux几乎从一开始就被推向那种条件。”
+> “就像你们的某些城市——例如 Lupas——这颗星球的部分地区也会滋养边缘团体。这些地区必须被温和处理，而过去的手段或许已经温和过头了。”
 >
-> “Galaxias的时代正在变化，而我……我需要告诉你其中一个群体的事。只是，我确实还需要一点时间解释自己。”
+> "Much like some of your cities, like Lupas, fringe groups flourish on parts of this planet that must be gently handled, and perhaps it was too gentle."
 >
-> “我年轻时参加过。它给我带来极深的悲痛，我也深深后悔。”
+> “公平地说，Lux 几乎从一开始就被推向了那种条件。但 Galaxias 的时代正在变化，而我……我需要告诉你其中一个团体的事。只是说实话，我还需要一点时间解释自己。”
+>
+> "To be fair, Lux was practically set up for such conditions. But times are changing in the Galaxias, and I... I need to tell you about one of those groups, but honestly I need a bit more time to explain myself."
+>
+> “我年轻时参加过。它给我带来了极深的悲痛，我也为此深深后悔。”
+>
+> "In my youth, but it's caused me tremendous grief and I regret it deeply."
 
 Scipio给他延后权后，他只说：
 
 > “好。”
+>
+> "Yeah."
 
 这个短答表示承诺回来继续，而不是永久把话题埋掉。
 
@@ -1000,70 +1084,110 @@ Scipio给他延后权后，他只说：
 
 **台词：**
 
-> “该从哪里开始？我十六或十七岁左右时，叛逆得毫无道理。”
+> “那么，该从哪里说起？我大约十六、十七岁时，叛逆得毫无道理。”
 >
-> “那时我开始接触反Adastra的文献；到十八岁，我已经是Children of Sahira的高层成员。”
+> "So, where to begin? Back when I was around sixteen or seventeen, I was unreasonably rebellious."
 >
-> “Sahira大概是Khemia历史上最有效的反Galaxias的分离主义者。她的政治最终没有成功，却让Khemia不再需要Parents维持或推进技术。”
+> “严重得多。大约就是在那时，我开始接触反 Adastra 的文献。到十八岁时，我已经是 Children of Sahira 的高层成员。”
 >
-> “不过，那并不是这里最重要的部分。到最后，我们只是采用恐怖主义手段的分离主义者。”
+> "Much. That was around the time that I started dabbling in anti-Adastran literature, and by the time I was eighteen, I was a high-ranking member of the Children of Sahira."
 >
-> “我们的目标的确是自己的人民——只是当时的我不那样看。我认为支持接纳狼族的人，不是心智能力有问题，就是内心想毁掉整个Galaxias。”
+> “是的。她大概是 Khemia 历史上最有效的反 Galaxias 分离主义者。虽然她的政治事业最终没有成功，但她确实创造出了一个无需 Parents 维持、甚至无需祂们推动技术进步的 Khemia。”
+>
+> "Yes. She was probably the most effective anti-Galaxias separatist in Khemia's history. Despite her politics being unsuccessful in the end, she did manage to create a Khemia that did not need the Parents to sustain or even advance its tech."
+>
+> “不过，这在当前语境里并不是最重要的部分。说到底，我们只是一群采用恐怖主义手段的分离主义者。”
+>
+> "That's not exactly important in this context though. In the end, we were just separatists that used terrorist methods."
+>
+> “是的，尽管当时的我并不那样看待他们。那时 Siblings 之间正处于和平。”
+>
+> "Yes, though I did not see them that way at the time. There was peace between the Siblings."
+>
+> “我认为，凡是支持接纳狼族的人，要么心智有问题，要么内心深处希望整个 Galaxias 毁灭。”
+>
+> "I thought that whoever wanted wolven inclusion to either be mentally unwell, or deep down wanted the destruction of the Galaxias as a whole."
 
 被问是否伤人：
 
-> “直接伤害？没有。”
+> “伤害别人？没有直接伤害。”
 >
-> “因为我的职位，我可以……盗取资金资助群体。即使没有亲手伤人，我也毫不怀疑那笔钱伤害并杀死了数十人。”
+> "Hurt people? Not directly."
+>
+> “凭借自己的职位，我可以……盗取资金来资助这个团体。即使我没有亲手伤人，我也毫不怀疑，那些钱造成了数十人的伤亡。”
+>
+> "Because of my position, I was able to... to steal money to fund the group. While I might not have hurt people directly, I have no doubt that money hurt and killed dozens."
 
 谈惩罚与改造：
 
-> “我当然受到严厉惩罚。父亲甚至把我封在皇宫地牢里数月；说实话，我以为自己会死。”
+> “我当然受到了严厉惩罚。父亲甚至把我封在王宫地牢里数月。说实话，我当时以为自己会死。”
 >
-> “被关近一年后，父亲带来一个提议：学会所有关于Adastra的东西。”
+> "I was punished severely, of course. Father even sealed me in the palace dungeon for months. I thought that I was going to die, to be honest."
 >
-> “接下来五年，我密集地学习。掌握语言和历史后，我被派去成为战争以来首位访问Adastra的Khemian，并迈出联盟的第一步。”
+> “我被囚禁了将近一年，随后父亲带来一个提议：学会一切与 Adastra 有关的事。”
 >
-> “这就是我为什么会在这里。”
+> "I spent nearly a year imprisoned, then Father came to me with a proposal; learn everything there is to know about Adastra."
 >
-> “它当然是惩罚；可这不表示我的诚意是假的。那时，我已彻底改变对联盟的看法，因为我看见另一条路只会产生更多痛苦。”
+> “接下来的五年里，我进行了密集学习。掌握语言与历史以后，我被派去成为战争以来第一位访问Adastra的Khemia人，并迈出建立联盟的第一步。”
 >
-> “就这些。不算精彩，也并不值得原谅，对吧？”
+> "For the next five years, I studied intensively, then after I'd learned the language and history, I was tasked with being the first Khemian to visit Adastra since the war, along with taking the first steps toward an alliance."
+>
+> “这就是我为什么会出现在这里。”
+>
+> "And that's why you have me here now."
+>
+> “它的确是惩罚。但这不代表我的诚意是假的。到那时，我对联盟的看法已经彻底改变，因为我看见另一条路只会带来更多痛苦。”
+>
+> "It was. But that doesn't mean it wasn't sincere. By then, I had changed my view completely on an alliance, because I saw the alternative was only more suffering."
+>
+> “就是这些。不算精彩，也并不值得原谅，对吧？”
+>
+> "So there you have it. Not very exciting, but also not very forgivable, is it?"
 
 谈掩盖、Aya与尚未完成的责任：
 
-> “知道前半段的只有我的家庭和Brunis。即使分离主义团伙被捕，父亲也不知怎样把它压在了公众视野之外。”
+> “前半部分？只有我的家人和 Brunis 知道，仅此而已。即使分离主义团伙被捕，父亲也不知怎样让这件事一直没有进入公众视野。”
 >
-> “最终是Aya说服他，地牢之外还有另一种选择。”
+> "The first part? My family, Brunis, and that's it. My father kept it under the radar, somehow, even when the separatist ring was arrested."
 >
-> “我希望这件事留在这些墙壁内。家族没有让我完整面对罪行的后果，这不公平，也还没有被纠正；但我正在尽一切努力，通过这场联盟弥补。”
+> “最终是 Aya 说服了他，让他接受地牢之外的另一种选择。”
+>
+> "It was Aya who eventually convinced him of an alternative to the dungeons."
+>
+> “我希望你能把这件事留在这些墙壁之内，可以吗？我没有完整面对罪行的后果，这并不公平，也尚未得到纠正。但我正在尽自己所能，通过这场联盟弥补。”
+>
+> "I hope you can keep it within these walls? I know it's not fair that I didn't fully face the consequences of my crimes, that hasn't been rectified, but I'm trying through this alliance the best I can."
 >
 > “对不起。”
 >
-> “我知道，Scipio。但人们会改变，我也希望你能够改变。”
+> "I'm sorry."
+>
+> “我知道，Scipio。但人会改变，我也希望你能够改变。”
+>
+> "I know, Scipio. But we change, and I hope that you can as well."
 
 ## 十一、日常对话与碎金短句
 
 | 短句 | 适用情境与真实功能 |
 |---|---|
-| “很好！” | 兴趣得到回应时明亮上扬；也可用来掩盖紧张。 |
-| “Ah, I see.” | 先接住信息，再观察对方是否遗漏；不总表示相信。 |
-| “Forgive me for interrupting.” | 外交场合切入危险议题，礼貌只是刀鞘。 |
-| “Something catching your eye?” | 察觉被注视时主动夺回节奏，可含调情。 |
-| “As you wish.” | 接受边界；视声调可真诚，也可带轻微受伤。 |
-| “Shall I escort you?” | 递手臂、提供陪伴，把照护表达成礼仪。 |
-| “Don’t worry. I’m here.” | 保护关系中的简短承诺，不能接着索取回报。 |
-| “Accidents happen, no matter the species.” | 对鲁莽者做事实性风险提醒。 |
-| “That is simply how the truth feels.” | 自认说得尖刻但不愿撤回判断。 |
-| “You are right. I apologize.” | 被指出确有错误时，去掉全部玩笑。 |
-| “I had other matters on my mind.” | 忘记实用准备时的从容托辞。 |
-| “Ahhotep！” | 突然惊吓、蜘蛛或超出预期的危机。 |
-| “Cultural differences, I suppose.” | 在自己反应过度后降温，接受无法互相直觉理解。 |
-| “I shall let you attend to your own matters.” | 被亲近者冷拒时的正式撤退，通常藏着受伤。 |
-| “You are my friend, and I trust you.” | 极高权重真诚句；不轻易说，不因说出便失去判断。 |
-| “I hope so, my friend.” | 对无法保证的政治结果，不伪装确定性。 |
-| “I don’t know.” | 真正疲惫或信息不足时可以直接使用；不必总维持万能外交官形象。 |
-| “Can we talk in the morning?” | 到达情绪极限时提出明确延后，而非消失。 |
+| “早安，Brunis。决定加入皇宫俱乐部了？”<br>*"Morning, Brunis. Decided to join the palace club?"* | 以轻微调侃完成熟人问候；亲近，但不黏人。 |
+| “我明白了。那么我就不打断你，让你说完。”<br>*"I see. Then I will let you speak without interruption."* | 先接住信息，再观察对方是否遗漏；不总表示相信。 |
+| “不好意思，我打扰你们了吗？” | 进入私人谈话前先确认边界；礼貌询问不等于真的看不出气氛。 |
+| “我能说什么呢？你很会聊天。如果我的理解没错，我想自己也有同感。”<br>*"What can I say? You make great conversation. If my interpretations are correct, I believe that I feel the same way."* | 接住对方的关系暗示，并把回应说得明确而不过度承诺。 |
+| “如你所愿。” | 接受边界；视声调可真诚，也可带轻微受伤。 |
+| “我可以陪同吗？” | 递手臂、提供陪伴，把照护表达成礼仪。 |
+| “好好花点时间让自己再冷静一些。等你整理好了，就问问我在哪里；Com会给你指路。”<br>*"Well, take the time to collect yourself further. When you're finished, ask for directions to where I am. Com will direct you."* | 给对方恢复空间，同时留下可执行的重聚方式。 |
+| “我还以为你会更加珍惜生命，毕竟不久前你刚与死亡擦肩而过。” | 对鲁莽者做事实性风险提醒，关心藏在责备后面。 |
+| “只有Pharaoh和相关官员知道那些问题的答案。”<br>*"Only pharaohs and the appropriate officials know the answers to those questions."* | 承认信息权限边界，不用外交辞令伪装自己知情。 |
+| “不过，那仍然既不体贴又残忍。有时我会让情绪占上风。”<br>*"Still, it was insensitive and cruel. Sometimes I let my emotions get the better of me."* | 确认自己确实伤人，不拿文化差异抵消责任。 |
+| “我还有别的事要考虑，Brunis。” | 忘记实用准备时的从容托辞。 |
+| “可你到底是怎么坐在它旁边的？恶心死了！”<br>*"And how the HELL do you sit next to it? It's disgusting!"* | 面对蜘蛛时体面瞬间崩塌，恐惧直接变成提高音量的厌恶。 |
+| “我想，这就是文化差异吧。”<br>*"Cultural differences, I suppose."* | 在自己反应过度后降温，接受无法互相直觉理解。 |
+| “好吧，看来我只好一个人等了。如果你还愿意谈、时间也不太晚，可以来我的寝室找我。”<br>*"Well, I suppose I will just have to wait alone. If you're still up for talking and it's not too late, you can come by my sleeping quarters if you like."* | 接受眼前的拒绝，却给对方保留稍后主动靠近的出口。 |
+| “Adastra让我经历了那些改变，有坏也有好，但我不会选择让一切都没发生过。所以保持开放的心态吧；只要你需要帮助，我随时都在。”<br>*"Adastra did that for me, both bad and good, but I wouldn't take it back, so just keep an open mind, and I'll always be available if you need help."* | 以亲身经验给出支持；不承诺结果，只承诺自己可被找到。 |
+| “希望如此，我的朋友。” | 对无法保证的政治结果，不伪装确定性。 |
+| “我不知道。你得去问这个领域的专家。”<br>*"I don't know. You would have to ask an expert in the field."* | 真正疲惫或信息不足时可以直接使用；不必总维持万能外交官形象。 |
+| “我们能不能——能不能早上再谈这件事？我太累了，而且我……”<br>*"Can we--can we talk about that in the morning. I'm so tired, and I..."* | 到达情绪极限时提出明确延后，而非消失。 |
 
 ### 即兴生成句式
 
