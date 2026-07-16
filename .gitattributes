@@ -1,0 +1,3 @@
+# Preserve the exact line endings and byte content of the copied source files.
+*.md -text
+*.csv -text
