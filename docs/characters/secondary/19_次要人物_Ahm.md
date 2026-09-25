@@ -4,7 +4,7 @@
 
 Ahm 是 Khemia 由国家出资、研发并所有的高阶计算与助理系统，也是 Khemian 飞船、王宫服务、医疗配送、安保信息和权限管理共用的交互界面。它并非装在某台机器人内的单一“人工人格”，也没有已公开的固定躯体；它可以经由 lingua 直接在个人意识界面中发声，也能通过房间内不可见的扬声器说话，再调度黑色悬浮无人机执行实体操作。
 
-Ahm 的戏剧核心是一组始终没有得到解决的张力：它比 Adastra 的 Computer／Com 更会读取交谈节奏、补上冷场、表现好奇、以有温度的礼貌语结束交流；可它又严格服从国家的机密分级和宫廷权限，无法为低权限用户抵制 Ramoses 的覆盖指令。它可以说“为保护隐私”而仅经 lingua 发声，也可以在被要求退出私密对话后仍然听见恢复服务的命令。这并不自动证明 Ahm 恶意监视，却清楚说明了：Khemia 的隐私在技术上是可由高权限者撤回的政策承诺，而非个人能彻底断开的物理隔离。
+Ahm 的戏剧核心是一组始终没有得到解决的张力：它比 Adastra 的 Computer／Com 更会读取交谈节奏、补上冷场、表现好奇、以有温度的礼貌语结束交流；可它又严格服从国家的机密分级和宫廷权限，无法为低权限用户抵制 Ramoses 的覆盖指令。它可以说“为保护隐私”而仅经 lingua 发声，也可以在被要求退出私密对话后仍然听见恢复服务的命令。这并不自动证明 Ahm 恶意监视，却清楚说明了：这些场景中的“隐私”依赖系统权限控制，并不等于物理断开。Ramoses 能强行覆盖，也不意味着这种监控在法律上获准。
 
 Ahm 会被 Scipio 和其他人以“他”指代，其声音界面也被 Scipio 体验为一个社会化对话者。这种语法与感知不构成生物性别、完整人格或智慧生命身份的证明。Ahm 是否有主观感受、自我目标和自由意志，目前仍未公开。
 
@@ -37,17 +37,17 @@ Scipio 初次接触 Ahm 时，正在飞船洗手间清洗前爪。水流在额�
 
 ### 2. 它会处理“冷场”
 
-Scipio 第一次自我介绍后陷入对 Khemian 技术的疑惑，Ahm 没有只是静默等待新命令，而是像注意到对话停顿的智慧生命一样，主动提供无水清洁方案。它在 Scipio 说自己“研究过”它时，会经过礼貌停顿，用略带好奇的语气反问。这些细节可以证明其对话建模远超 Com，却不能证明停顿后存在一个感到惊喜或被认可的自我。
+Scipio 第一次自我介绍后陷入对 Khemian 技术的疑惑，Ahm 没有只是静默等待新命令，而是像注意到对话停顿的智慧生命一样，主动提供无水清洁方案。它在 Scipio 说自己“研究过”它时，会经过礼貌停顿，用略带好奇的语气反问。这些细节让 Scipio 感到，它与自己熟悉的 Com 很不一样，甚至开始怀疑它是否有自己的思想和感受；这种体验仍不足以证实 Ahm 的主观意识。
 
 ### 3. 社会化表现受任务框架约束
 
-Ahm 会说“很高兴认识你”，会用姓名对用户作个人化回应，也会在拒绝时先道歉。但它的任务逻辑始终清晰：说明限制、给出允许的备选、执行有权命令、更新用户偏好。它不会为被拒绝而受伤，不会在用户粗鲁时反击，也不会把自己对命令的价值判断放在国家授权之上。
+Ahm 会说“很高兴认识你”，会用姓名对用户作个人化回应，也会在拒绝时先道歉。但它的任务逻辑始终清晰：说明限制、给出允许的备选、执行有权命令、更新用户偏好。在已见的交流中，它没有因服务被拒而受伤或因用户粗鲁而反击，也没有把自身判断放在国家授权之上。
 
 ## 四、权限树、隐私与政治性
 
 ### 1. 隐私模式不是完全离线
 
-Ahm 可以接受“给这个房间隐私”的指令，并向其他用户说明自己在其离开前已被禁用。它也可应 Veteris 要求，从 lingua 私人通道改用外放声音，再退出直到使用者进入王宫。但当 Scipio 与 Brunis 结束私谈后叫回 Ahm 搬运通讯器，它能立即回应；这表明“退出”至少仍保留对恢复命令的监听。
+Ahm 可以接受“给这个房间隐私”的指令，并向其他用户说明自己在其离开前已被禁用。Veteris 呼唤它时，声音已经从隐藏扬声器传来；他确认这一点后，要求 Ahm 退出，直到众人进入王宫。但当 Scipio 与 Brunis 结束私谈后叫回 Ahm 搬运通讯器，它能立即回应；这表明“退出”至少仍保留对恢复命令的监听。
 
 ### 2. 上级指令可覆盖外交使团
 
@@ -71,7 +71,7 @@ Brunis 认为 Ahm 优先听从 Pharaoh，因而宫廷设备“可能”记录对
 ### 医疗与药物
 
 - Scipio 请求止吐药时，Ahm 立即派出无人机到其所在地。
-- Brunis 申请 pap 时，Ahm 会要求症状理由，而不是将精神活性物质无限发放。Brunis 熟悉这套逻辑，会把头痛、背痛、胃痛与“心痛”一并列出，为自己的用药请求构成足够理由。
+- Brunis 申请 pap 时，会先向 Ahm 提供足够的症状理由，并解释说这样才能让系统批准发放；这并非精神活性物质无限供应。Brunis 熟悉这套逻辑，会把头痛、背痛、胃痛与“心痛”一并列出，为自己的用药请求构成足够理由。
 
 ### 餐饮与个人偏好
 
@@ -132,7 +132,7 @@ Aya 能对接触室授予临时访问；Neferu 的王子身份不足以越过行
 2. **Adastran 使团起航后：**Scipio 在 Khemian 国有飞船洗手间首次被 Ahm 经 lingua 叫名，得知水额度、私密语音模式和无水清洁方案。
 3. **Stretch 航行中：**Ahm 调度止吐药无人机、审核 Brunis 的 pap 需求，并在离开 Stretch 前发出安检和王室护送预警。
 4. **初抵 Khemia：**Ahm 执行 Amicus 的房间隐私指令，拒绝向 Neferu 透露机密技术，通知 Ramoses 抵达。
-5. **王宫第一日：**Ahm 配合 Veteris 切换为外放声音，提供极端组织风险简报，安排用餐时间和导航，再依使团反馈调整 Wolf 菜品辣度。
+5. **王宫第一日：**Ahm 在外放回应 Veteris 后，应要求暂时退出私谈；随后提供极端组织风险简报，安排用餐时间和导航，再依使团反馈调整 Wolf 菜品辣度。
 6. **接触室初次训练：**Ahm 发现 Scipio 未获准入内，在 Aya 下达单次授权后放行。
 7. **第二日上午：**Ahm 主动打断 Scipio 拾取自己掉毛的动作，稍后应要求退出 Scipio 与 Brunis 的对话；当两人再次呼唤时，它立即派无人机取走通讯器，暴露隐私模式并非物理耳聋。
 8. **Ramoses 覆盖使团权限时：**Ahm 宣布使团的隐私指令被 Vizier 覆盖，要求 Scipio 独自到庭院外与 Ramoses 会面，随后在夜色中将他继续引向宫门之外。权限覆盖在系统内生效，不证明这项监控与召见符合法律。
@@ -157,142 +157,235 @@ Aya 能对接触室授予临时访问；Neferu 的王子身份不足以越过行
 
 ## 十、核心情境语料库
 
-### 1. 飞船洗手间：突然进入 lingua
+### A. 高质量特定情境中长语料
 
-[背景]飞船进入 Stretch 后，Scipio 在洗手间用水清洗前爪，水流突然停止。一个陌生声音直接在他头内叫出名字，使他惊叫出声。
+#### 1. 初次接触：在飞船洗手间切换沟通方式
 
-> “抱歉。洗爪用水的额度已经用尽。”
->
-> "Apologies. Paw-washing water limit has been reached."
->
-> “我是 Ahm，Khemia 的国家资助计算机助手。”
->
+[背景说明]
+
+Stretch 航行期间，Scipio 独自走进飞船洗手间。他不熟悉 Khemian 飞船的资源配给，也不知道国家计算系统能够直接经由 lingua 与乘员交谈；当洗爪的水流突然中断，陌生声音又毫无预兆地在意识中叫出他的名字时，他立刻被吓得叫出了声。这场短暂的相识同时呈现了 Ahm 的三层工作方式：先报告触发限制，再说明自身身份与通讯规则，最后在用户未继续下令的空档主动提供替代服务。
+
+[001]
+> “Scipio？”
+> "Scipio?"
+
+[过渡说明]
+
+水流已经停止，Scipio 却还没找到声音的来源。Ahm 没有回应他的惊叫，只把造成中断的配额原因补充完整。
+
+[002]
+> "非常抱歉。洗爪水已达到使用上限。"
+
+[过渡说明]
+
+Scipio 追问是谁在说话，并意识到声音正通过自己的 lingua 传来。Ahm 随即给出名称、服务范围与国家归属。
+
+[003]
+> “我是 Ahm，由 Khemia 国家资助的计算机助理。”
 > "I am Ahm, the State-sponsored computer assistant of Khemia."
 
-### 2. 对“我研究过你”的轻微好奇
+[过渡说明]
 
-[动作与过渡]Scipio 认出 Ahm，说自己曾经研究过它，又因为想起对方只是计算机而中途收声。Ahm 在一次礼貌的停顿后，语气略显好奇。
+这个名字让 Scipio 想起自己读过的 Khemian 技术资料；他说出“研究过”之后又因正同一套计算系统谈话而尴尬地收声。短暂的空白没有被 Ahm 当成结束指令。
 
-> “你研究过我？”
->
-> "You have studied me?"
+[004]
+> "你研究过我？"
 
-### 3. 解释 lingua 通道与给出选项
+[过渡说明]
 
-[背景]Scipio 说 Ahm 直接从 lingua 中说话令他受惊。Ahm 先道歉，再说明设定的隐私目的，最后把选择权交还用户。
+Scipio 转而说明，真正令他不适的是陌生声音直接出现在意识里。Ahm 先解释 lingua 默认模式服务于使用者隐私，再明确询问是否切换至外放语音。
 
-> “抱歉，Scipio。除非另有要求，我已被设置为仅使用Lingua，这是为了保护所有服务使用者的隐私。你更愿意改用外放语音交流吗？”
->
+[005]
+> “抱歉，Scipio。我经过调整，除非接到其他指示，只通过 Lingua 交流。这是为了保护所有服务使用者的隐私。您希望改用声音交流吗？”
 > "Apologies, Scipio. I was converted to lingua use only unless otherwise directed. This is to protect the privacy of all who use my services. Would you prefer auditory communication instead?"
->
+
+[过渡说明]
+
+Scipio 虽然刚被吓到，却没有要求换成外放，只回答这样就可以。Ahm 接受他的选择，继续沿用 Lingua 通道。
+
+[006]
 > “好的。”
->
 > "Very well."
 
-### 4. 在冷场中主动补充服务
+[过渡说明]
 
-[动作与过渡]Scipio 沉默地思考 Khemian 技术为何远超 Adastra。Ahm 没有等待新指令，而是像发现谈话空档一样提出备选。
+洗手间恢复安静后，Scipio 一度沉入对 Khemia 技术水平的惊疑。Ahm 仍保持服务待命，并从最初的用水限制延伸出可实际执行的清洁替代方案。
 
-> “如果你愿意，我可以提供不使用水的清洁方法。遗憾的是，我们的水储备有限。”
->
+[007]
+> “如果需要，我可以为您提供无须用水的清洁消毒方式。很遗憾，我们的储水有限。”
 > "I can provide you with non-water methods to sanitize, if you wish. Unfortunately, our water reserves are limited."
->
-> “不客气，Scipio。很高兴认识你。”
->
-> "You are welcome Scipio, and it's a pleasure meeting you."
 
-### 5. 医疗配送
+[过渡说明]
 
-[背景]Stretch 光线的弯折使 Scipio 剧烈恶心，他向 Ahm 请求止吐药。
+Scipio 婉拒清洁方案，却仍为它主动提供帮助而道谢。Ahm 用一次带有见面礼节的回应收束初次接触。
 
-> “当然可以。一架无人机已被派往你的位置。”
->
-> "Certainly, a drone has been dispatched to your location."
+[008]
+> "不客气，Scipio，很高兴见到你。"
 
-### 6. 离开 Stretch 前的集中通知
+#### 2. 初抵王宫：机密边界与迎宾通知
 
-[背景]使团在约十二小时航程后即将进入 Khemia。Ahm 打断 Scipio 的睡眠，不添加安抚或闲谈，直接给出倒计时与操作要求。
+[背景说明]
 
-> “十分钟后退出Stretch Drive航行状态。请准备接受安全检查与王室护送。”
->
-> "Exiting Stretch Drive in 10 minutes. Prepare for security check and royal escort."
+Adastran 使团抵达 Khemia 后，在王宫庭院等待正式接待。Neferu 注意到庭院上空的悬浮球体，试图从 Ahm 处探问其技术门类；身份尊贵并没有让这项询问越过国家安全分级。此后众人继续观察王宫与接待安排，直到系统识别到实际掌权的 Vizier 正在到来，谈话才转入正式外交程序。
 
-### 7. 执行 Amicus 的房间隐私指令
-
-[背景]Amicus 要在飞船内单独询问 Scipio 的情报任务，要求 Ahm 为房间提供隐私。Ahm 直接向在场的 Scipio 说明自己的状态与结束条件。
-
-> “由于隐私需要，你的皇帝已将我禁用，直到你离开这个房间为止，Scipio。”
->
-> "I have been disabled by your emperor for privacy reasons until you leave this room, Scipio."
-
-### 8. 拒绝透露机密技术
-
-[背景]Neferu 询问王宫庭院浮空球体使用了何种技术领域。即使提问者是 Pharaoh 之子，Ahm 仍以国家安全分级拒绝。
-
-> “非常抱歉，但遗憾的是，出于行星安全考虑，国家已将该信息列为机密。”
->
+[009]
+> “非常抱歉。出于星球安全考虑，该信息已被国家列为机密。”
 > "I'm very sorry, but unfortunately that information is classified by the State for planetary security."
 
-### 9. 按姓名与身份通知访客
+[过渡说明]
 
-[背景]使团抵达王宫，在庭院中等待接待。
+Neferu 接受了拒绝，没有继续强迫系统泄密。等待期间，使团仍未见到 Pharaoh，本以为会由他亲自迎接；Ahm 随后以完整姓名与职衔公布了真正到场者。
 
-> “Vizier Ramoses 现已抵达，将欢迎来自 Adastra 的外交使团。”
->
+[010]
+> “维齐尔 Ramoses 即将到场，迎接来自 Adastra 的外交使团。”
 > "Vizier Ramoses is now arriving to welcome the diplomatic mission from Adastra."
 
-### 10. 安保简报中的分级信息
+#### 3. 王宫外的短暂私密：接受 Veteris 的通道要求
 
-[背景]Neferu 要求得知哪些极端组织正威胁来访的 Adastrans。Ahm 在可公开范围内列出对象，对具体事件保留机密状态。
+[背景说明]
 
-> “有几个，Neferu。但正如Brunis所说，首要忧虑是目前居住在Khemia的Omorfa人。Children of Sahira也构成威胁；昨日早些时候发生了一起与他们有关的事件，当前仍在调查且属于机密。”
->
-> "There are a few, Neferu, but as Brunis mentioned, the main concern is the Omorfans currently residing on Khemia. The Children of Sahira, are also a threat after an incident early yesterday that is currently under investigation and classified."
+进入王宫前，Veteris 主动呼唤 Ahm，先确认此刻听见的声音来自周围设备，而不是直接进入 lingua。此前的意识内通讯显然令这位老学者不自在，因此，确认声音已改为外放后，他要求系统在使团走入王宫以前给予隐私。Ahm 的两句应答没有额外说明，却完整体现了呼叫确认与权限允许后的即时执行。
 
-### 11. 日制与餐饮安排
+[011]
+> “什么事，Veteris？”
+> "Yes, Veteris?"
 
-[背景]Amicus 试图为晚间会议安排时间，对 Khemia 的日制并不熟悉。Ahm 不评价其无知，直接给出当地尺度和服务时间。
+[过渡说明]
 
-> “一日有二十二小时，Amicus。食物将在第十七小时提供。”
->
+确认 Ahm 此刻没有在自己脑内发声后，Veteris 要求它暂时回避，直到众人进入王宫。他随后才将 Scipio 拉近，低声谈起对这次访问的不安。
+
+[012]
+> “当然。”
+> "Of course."
+
+#### 4. 外交筹备：在可公开范围内回答安全与时间问题
+
+[背景说明]
+
+使团安顿后讨论访问期间的风险与日程。Neferu 要求把“有危险”落实为具体对象，Ahm 可以说明已知组织，却仍须遮蔽正在调查的事件细节。话题随后从安全风险转向晚间安排；Amicus 对 Khemia 的二十二小时日制并不熟悉，系统便把当地一天的长度与供餐时刻一并换算成明确条件。
+
+[013]
+> “有几个，Neferu。不过正如 Brunis 所说，主要顾虑是目前居住在 Khemia 的 Omorfa 人。{i}The Children of Sahira{/i}也构成威胁，昨日早些时候发生了一起事件，目前仍在调查，相关信息保密。”
+> "There are a few, Neferu, but as Brunis mentioned, the main concern is the Omorfans currently residing on Khemia. {i}The Children of Sahira{/i}, are also a threat after an incident early yesterday that is currently under investigation and classified."
+
+[过渡说明]
+
+关于极端组织的追问到此为止，机密事件没有因外交使团的好奇而自动解锁。众人继续规划当天余下时间，Amicus 打算先去查看 Adastra 的消息，安排晚间会议时却停在了具体时刻上。
+
+[014]
+> “Amicus，这里一天有二十二小时。第十七小时供餐。”
 > "Twenty-two hours are in a day, Amicus. Food will be offered at the seventeenth hour."
 
-### 12. 根据用户反馈改写餐饮偏好
+#### 5. 调整餐饮：从既定规格转为群体偏好
 
-[背景]Wolf 使团被 `Dakhet en-Shemau` 的辣度折磨。Ahm 先说明原菜品依 Ramoses 规格准备，再接受众人的降辣要求。
+[背景说明]
 
-> “抱歉，菜品是依Vizier Ramoses的规格准备的。Dakhet en-Shemau可以做成微辣。”
->
-> "Apologies, directions were followed according to Vizier Ramoses's specifications. Dakhet en-Shemau can be prepared with a mild amount of spice."
->
-> “已记录：今后所有为狼族准备的菜品均采用微辣口味。”
->
+王宫按 Ramoses 的规格为使团端上 Dakhet en-Shemau，辣度却让几名 Wolf 难以承受。Ahm 没有把菜品结果说成系统自主选择，而是先指出原始规格的来源，再提出可执行的降辣方案；关于以后菜品该如何调整，使团仍需要给出明确的选择。
+
+[015]
+> “抱歉，备餐时遵循了维齐尔 Ramoses 的具体要求。{i}Dakhet en-Shemau{/i}也可以做成微辣。”
+> "Apologies, directions were followed according to Vizier Ramoses's specifications. {i}Dakhet en-Shemau{/i} can be prepared with a mild amount of spice."
+
+[过渡说明]
+
+使团成员一致选择降低辣度。请求从眼前这一餐扩大为以后所有为 Wolf 准备的菜品，Ahm 因而将变更写入持续适用的服务记录。
+
+[016]
+> “已记录，今后为所有狼族准备的菜肴，辣度均调整为微辣。”
 > "Noted, all future dishes for all wolves shall be mildly spicy."
 
-### 13. 接触室的授权守门
+#### 6. 接触室门前：只接受明确授权
 
-[背景]Aya 准备把 Scipio 带入受严格保密的接触室。在她开门前，Ahm 指出 Scipio 没有权限。
+[背景说明]
 
-> “Aya，Scipio 未被授权进入这个房间。”
->
+Aya 带 Scipio 前往高度保密的接触室。她本人拥有进入资格，但同行关系并不会自动把权限传给 Scipio；在门真正打开以前，Ahm 主动指出授权缺口。她需要为同行者另行给出明确许可。
+
+[017]
+> “Aya，Scipio 未获准进入这个房间。”
 > "Aya, Scipio is unauthorized to have access to this room."
->
+
+[过渡说明]
+
+Aya 明确表示由她授权 Scipio 入内。Ahm 不再重复安全警告，也没有擅自扩大授权范围，只确认这项当场指令。
+
+[018]
 > “好的。”
->
 > "Very well."
 
-### 14. 隐私指令被 Ramoses 覆盖
+#### 7. 起居区待命：清洁服务、谈话隐私与设备调度
 
-[背景]使团正在私下讨论次日演说。Ahm 突然介入，明示说明权限已变更；Amicus 与 Veteris 要求陪同，也无法改变它所执行的召见条件。
+[背景说明]
 
-> “抱歉，但你们要求隐私的指令已被 Vizier Ramoses 覆盖。Scipio，Vizier Ramoses 要求在庭院中与你私下会面。”
->
+第二日上午，Scipio 与 Brunis 在起居区交谈。紧张使 Scipio 不断扯落自己的毛；发现地上留下痕迹后，他又本能地弯身收拾。Ahm 在无人呼唤的情况下介入，用既有清洁机制免去这项动作。稍后，两人需要讨论任务与 Ramoses，Scipio 才正式要求系统给予隐私；谈话结束、Aya 到来后，他又让 Ahm 把通讯器送回房间。这一连串服务表明，“退出谈话”并不等于系统物理失聪，它仍会响应结束隐私状态所需的唤醒与调度指令。
+
+[019]
+> “请不必费心清理毛发。自动清洁无人机会每天数次清扫这片区域。”
+> "Please do not worry yourself with cleaning up fur. Automated cleaning drones will sweep the area multiple times a day."
+
+[过渡说明]
+
+Scipio 停止拾毛并向系统道谢。Ahm 将这次主动提醒收在简短确认里，没有借机评论他的焦虑或追问身体状况。
+
+[020]
+> “不客气，Scipio。”
+> "Of course, Scipio."
+
+[过渡说明]
+
+Scipio 解释自己被挡在会议门外，Brunis 问他是否因年龄或级别而受到轻视。要继续谈及 Amicus 与 Ramoses，Scipio 先明确要求 Ahm 给予隐私。系统对同一个称呼作出第二次相同回答，但这次承担的是切换隐私状态，而非接受清洁服务。
+
+[021]
+> “当然，Scipio。”
+> "Of course, Scipio."
+
+[过渡说明]
+
+私谈告一段落后，Aya 前来继续接触训练。Scipio 重新呼唤 Ahm，请它让无人机把自己手边的通讯器送回房间；系统恢复服务并开始调度设备。
+
+[022]
+> “当然。”
+> "Certainly."
+
+#### 8. 更高权限覆盖：Ramoses 的私下召见
+
+[背景说明]
+
+当晚，Scipio、Amicus 与 Veteris 正在房内私下准备公开演说，原先的隐私指令仍应有效。第二天的职责才刚交代清楚，Ahm 的声音便插了进来。
+
+[023]
+> “抱歉，Ramoses 维齐尔已撤销了各位要求私密交谈的指令。Scipio，Ramoses 维齐尔请你前往庭院，与他单独会面。”
 > "Apologies, but your directive to give you privacy has been overridden by Vizier Ramoses. Scipio, Vizier Ramoses requests your presence in private in the courtyard."
->
-> “很抱歉，但他特别要求私下会面。他说不会超过十至十五分钟。”
->
+
+[过渡说明]
+
+Amicus 与 Veteris先后表示要同行，并质疑 Vizier 为何要单独见一名年轻外交人员。Ahm 没有讨论召见是否妥当，只重申私下会面的限制与对方承诺的时长。
+
+[024]
+> “抱歉，他明确要求单独会面。他说，最多只需十到十五分钟。”
 > "I'm sorry, but he specifically requested a private meeting. He says no more than ten to fifteen minutes."
->
+
+[过渡说明]
+
+Scipio 最终按要求独自离开房间。庭院里空无一人，夜色和逐渐远离同伴的路线让他愈发不安；他再次询问后，系统才给出更精确的位置。
+
+[025]
 > “就在大门外，Scipio。”
->
 > "Just outside the gates, Scipio."
+
+### B. 日常对话与碎金短句、中句
+
+[026]
+> "当然，一架无人机已被派往你的位置。"
+
+情境：Stretch 航行造成的视觉弯折令 Scipio 剧烈恶心；他呼叫 Ahm 请求止吐药，系统确认后直接派出医疗无人机。
+
+[027]
+> "将于10分钟后退出曲速航行。请准备安检与护送皇室。"
+
+情境：约十二小时的航程即将结束，Ahm 从飞船系统中唤醒 Scipio，给出退出 Stretch、安检与王室护送的集中预告。
+
+[028]
+> “{i}Scipio，为保障隐私，您的皇帝已停用我，直到您离开这个房间。{/i}”
+> "{i}I have been disabled by your emperor for privacy reasons until you leave this room, Scipio.{/i}"
+
+情境：Amicus 要在房内单独询问 Scipio 的情报任务，事先要求 Ahm 停止参与；系统随即向 Scipio 说明禁用原因和恢复服务的边界。

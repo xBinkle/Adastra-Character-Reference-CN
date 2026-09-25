@@ -2,9 +2,9 @@
 
 ## 一、人物总纲
 
-Scipio 的母亲是他最稳定、最不需要通过学业、阶级、男性规范或外交表现换取的安全依恋对象。她的姓名、年龄、职业、精确物种、毛色、社会阶层和当前公共生活都未公开。直至 Khemia 使命第二日，她只有一则署名“母亲”的文字消息属于可完整验证的本人语料。视频通话中的具体话语未被复述，只可确定她语气略带责备，却并不显得特别忧虑或生气。
+Scipio 的母亲是他最稳定、最不需要通过学业、阶级、男性规范或外交表现换取的安全依恋对象。她的姓名、年龄、职业、精确物种、毛色、社会阶层和当前公共生活都未公开。直至 Khemia 使命第二日，她留下了一则署名“母亲”的文字消息，以及视频接通时的一句问候。她在屏幕那端唤儿子“Skip”，问他是否还好、是不是睡着了；语气略带责备，却并不显得特别忧虑或生气。
 
-她的人物力量来自一系列可触摸的日常而非戏剧性宣言：住在 Lux 边缘的小住所；总在 Vita 升起前醒来；房间里有浓重的 oliban 气味；在厨房桌边揉面，为儿子做他最喜欢的面包卷；手腕上戴着手链；以“Skippy”呼唤已经长大成人、正在为皇帝执行外交任务的 Scipio。她与儿子每日保持文字联系，每周进行一次通讯器视觉通讯。Scipio 在经历刺杀与无人机分解刺客的创伤之夜忘记发送日常消息，她便主动询问他是否早睡、是否被工作压得太紧，以“我全部的爱”结尾。
+她的人物力量来自一系列可触摸的日常而非戏剧性宣言：住在 Lux 边缘的小住所；总在 Vita 升起前醒来；房间里有浓重的 oliban 气味；在厨房桌边揉面，为儿子做他最喜欢的面包卷；手腕上戴着手链；以“Skippy”呼唤已经长大成人、正在为皇帝执行外交任务的 Scipio。她与儿子每日保持文字联系，每周进行一次通讯器视觉通讯。Scipio 在遭遇刺杀的那天没有按时发送日常消息，她便主动询问他是否早睡、是否被工作压得太紧，以爱意结尾。这封消息在他睡着、刺杀尚未发生时就已发来，是他事后才读到的。
 
 这段关系的温暖不是没有历史代价的童话。Scipio 的父亲曾对 Scipio 与母亲都很残酷，尤其对母亲更为恶劣；他后来离开家庭并一去不返。Scipio 当时年纪很小，对父亲没有形成深厚依恋，并直接说父亲离开后“只有我和母亲，一切很平静”。母亲因而不只是慈爱形象，也是一个与儿子一同穿过家庭恐惧、在施暴者离开后重新建立安静日常的存续者。
 
@@ -18,7 +18,7 @@ Scipio 并不在她面前保持外交官或传统成年男性的完整面具。�
 
 - 她的真名未公开，只能以母亲、Scipio 的母亲等关系称谓标识。
 - 她的精确物种未被单独描述。不得自行添加 Wolf 毛色、耳尾、眼色或与 Scipio 相似的外貌。
-- 她的可验证本人台词只有一则文字消息。视频通话中不得补写她“必然”说过什么。
+- 她的本人原声包括一则文字消息及署名，以及视频接通后关切儿子的一句问候；通话其余具体内容没有保留。
 - 她在 Scipio 跨层探索中被看见眼睛发红、刚哭过。The Leaves 借此猜测她“也许也承受 ahewawi”，这不是诊断或她本人确认。
 - 她是否知道 Clay District 刺杀、Scipio 的情报任务、天赋、Aya 和 The Leaves，均未公开。
 - 她对 Neferu 的态度未公开；不得默认她已知道、支持或反对两人的亲密关系。
@@ -42,7 +42,7 @@ Scipio 并不在她面前保持外交官或传统成年男性的完整面具。�
 | 日常节律 | 总在 Vita 升起前起床；会在厨房揉面、做 Scipio 喜欢的面包卷 |
 | 家庭感官锚 | oliban 气味、温暖居所、厨房桌、面团、面包卷 |
 | 与 Scipio 的通讯 | 每日文字消息；通常每周一次通讯器视觉通讯 |
-| 对 Scipio 的昵称 | Skippy |
+| 对 Scipio 的昵称 | 文字消息中为 Skippy；视频问候中为 Skip |
 | 已知语气 | 温暖、关切；能以略带责备的声音询问儿子，但不显得愤怒或惊慌 |
 | 健康状态 | 未公开；红眼与吸鼻子只能确定她在一次跨层观察中似乎刚哭过 |
 | 当前状态 | 仍居住 Lux 外围；Scipio 在 Khemia 任务中想方设法与她提前联络 |
@@ -73,7 +73,7 @@ Scipio 在意识空间中找到她时，她正坐在厨房桌旁揉面，准备�
 
 ### 2. 她会责备，却不以惊慌夺走 Scipio 的表达空间
 
-通讯器连通后，她的声音略带责备，但听起来并不过分忧虑或恼怒。这种语气反而使 Scipio 无法继续强撑：他原本已重建的心理堡垒崩塌，张嘴只能发出呜咽，眼泪浸湿面颊毛发。具体通话内容没有保留，因此不能写她如何询问刺杀、是否安慰或是否要求他回家。可以确定的是，她的出现本身就足以使儿子返回一个可以寻求照护的状态。
+通讯器连通后，她的声音略带责备，但听起来并不过分忧虑或恼怒。这种语气反而使 Scipio 无法继续强撑：他原本已重建的心理堡垒崩塌，张嘴只能发出呜咽，眼泪浸湿面颊毛发。视频中保留的问候仍在关心他是否平安、是否睡着；随后的详细交流没有留下，无法知道她如何得知经过、是否要求他回家。可以确定的是，她的出现本身就足以使儿子返回一个可以寻求照护的状态。
 
 ### 3. 家暴后的“平静”是关系核心
 
@@ -81,17 +81,17 @@ Scipio 对父亲的记忆不是失去慈父的哀伤，而是那个人对自己�
 
 ### 4. 她的担忧并不因未对儿子说出就不存在
 
-Scipio 在 Khemia 跨层观察时看见她刚哭过，而她之前的文字消息和通讯器通话又并未以强烈惊慌语气向儿子施压。这至少显示，她可以在担忧的同时不要求 Scipio 立即放弃职责来调节她的情绪。但哭泣原因不明，不应进一步宣布她是“为了不让 Scipio 内疚而独自承受”。
+Scipio 在 Khemia 跨层观察时看见她刚哭过，而她之前的文字消息和通讯器通话又并未以强烈惊慌语气向儿子施压。前一晚的通话中，她没有显出强烈惊慌；另一次独处时的眼泪，则提醒人不能把她理解成永远没有悲伤的人。但哭泣原因不明，不应进一步宣布她是“为了不让 Scipio 内疚而独自承受”。
 
 ## 五、语言与沟通风格
 
 ### 可确定的语言特征
 
-- **昵称：**将 Scipio 称为 **Skippy**。这个名称不管他已取得何种外交身份，都把他连回家庭。
+- **昵称：**文字里称他 **Skippy**，视频接通时则唤 **Skip**。这个名称不管他已取得何种外交身份，都把他连回家庭。
 - **关心方式：**先确认他是否平安，再为未回复寻找无恶意的解释，如“是否早睡”“是否工作太紧”。
 - **要求强度：**“有空时请回复”，不是责令当场证明孝顺。
 - **情感结尾：**直接使用“我全部的爱”。她不以讽刺、英雄式激励或强调男性坚强来包装关心。
-- **口头语气：**可以略带责备／责备，但当前没有足够口头台词提取高频词、长短句偏好或反问习惯。
+- **口头语气：**略带责备，先唤昵称、关心是否平安，再问是不是睡着了；只有这一句口头问候，尚不足以归纳高频口癖。
 
 ### 细小交流对 Scipio 的实际作用
 
@@ -126,7 +126,7 @@ Neferu 承认 Scipio 的 ahewawi，并说自己愿意帮他管理这些时，Sci
 3. **成长与教育期：**母亲始终是 Scipio 的稳定安全对象。家中形成了 oliban、清晨、面包卷和小住所组成的稳定日常。
 4. **Cato’s Riots 之后：**Scipio 出现 ahewawi、解离、梦境与现实边界混淆。母亲成为除正念导师外他可坦白心理弱点的人。
 5. **使团准备期：**母子维持每日消息与每周视频通讯。Scipio 无论多忙都把按时联系视为义务。
-6. **Clay District 刺杀当夜：**Scipio 因创伤和奔波忘记发送日常消息。母亲主动询问他是否早睡，请他有空回复。
+6. **Clay District 刺杀当夜：**Scipio 当天没有按时发消息；他在刺杀发生前睡着的那段时间里，母亲已发来问候，请他有空回复。事后回到皇宫，他才突然想起联络义务，读到了这封未读消息。
 7. **提前通讯器通话：**原定每周视频通讯还有两日，Scipio 因思念与恐惧提前发起连线。母亲数秒内接听，她的脸和略带责备的声音使他立即哭泣失语。
 8. **通话后当夜：**Scipio 做了关于死亡、Amalgamation 与母亲终将加入其中的剧烈噩梦。母亲成为 The Leaves 类声音用来攻击他死亡恐惧的核心形象。
 9. **次日：**Scipio 表示，如果不是为 Adastra 服务，自己会立即回家长久拥抱母亲；又说与她哭过后，自己比往常更容易落泪。
@@ -147,158 +147,145 @@ Neferu 承认 Scipio 的 ahewawi，并说自己愿意帮他管理这些时，Sci
 - 不创作她的真名、职业、年龄、毛色或家族出身。
 - 不让她已知道 Scipio 的秘密情报工作、天赋或 The Leaves，也不让她本人拥有跨层能力。
 - 不把 The Leaves 所说的“她也许也有 ahewawi”当成真实诊断。
-- 不把视频通话中略去的内容补写成她的原话；可以写她略带责备的语气和 Scipio 的哭泣，不能写具体句子。
+- 视频通话可使用她已经保留的开场问候；后续略去的交流不补写成游戏原话。
 - 不将她理想化为从不悲伤、从不需要别人照顾的完美母亲。她在跨层画面中确实刚哭过，只是原因未明。
 - 不预写她对 Neferu 的关系认可、对 Khemia 移民的选择或对前伴侣的当下态度。
 
 ## 九、核心情境与角色扮演语料库
 
-> 她的本人完整语料只有第 4 组的文字消息。其余为与她直接相关的 Scipio 叙述或他人语句，不得改写成她本人开口说过。
+### A. 高质量特定情境中长语料
 
-### 1. 像母亲一样督促吃饭的 Veteris
+#### 1. 未等到每日报平安：先替儿子的沉默寻找温和解释
+
+[背景说明]
+
+Scipio 与母亲平时保持每日文字报平安、每周一次视觉通讯的节奏。使团尚未离开 Adastra；他从 Clay District 的刺杀中生还，回到皇宫后，才想起自己当天没有按时发消息。Lux 的时间比 Adastra 早几个小时，母亲又总在 Vita 升起前起床，通讯器里果然已经有了她的问候。消息发来的时候，他还在睡觉，袭击尚未发生。
+
+[001]
+> {i}Skippy，希望你一切都好。是早早睡下了吗？我想，他们一定让你忙得够呛。有空了记得回我。妈妈爱你！{/i}
+> {i}Skippy, I hope you are well. Did you fall asleep early? I imagine they must be working you quite hard. Please respond when you can. All my love!{/i}
+
+[002]
+> {i}——母亲。{/i}
+> {i}-Mother.{/i}
+
+### 关联情境：Scipio 的记忆、观察与他人对母亲形象的利用
+
+#### 1. 像母亲一样督促吃饭的 Veteris
 
 [背景]使团出发前，Scipio 在 Varro’s University 拒绝早午餐，Veteris 坚持他必须更好地照顾自己。这种语气短暂像极了母亲，反而让 Scipio 安心。
 
-> “对，送来吧。你既然即将成为外交官，就得开始更好地照顾自己，这也包括规律进食。”
->
+> “要，送过来吧。你就要成为外交官了，得开始多照顾自己，按时吃饭也是其中一项。”
 > "Yes, bring it. You need to begin taking care of yourself more now that you are going to be a diplomat, and that involves eating regularly."
 
 [反应]Scipio 觉得 Veteris 有一瞬间像母亲，立即放松下来，因为如果导师准备将他踢出使命，就不会这样管他吃饭。
 
-### 2. 心理弱点的两个安全对象
+#### 2. 心理弱点的两个安全对象
 
 [背景]Scipio 在职位心理审查中几次接近崩溃，如今经历创伤后不确定自己能否再通过一次。
 
-> 要向一个既不是我的正念导师、也不是我母亲的人坦白心智弱点，会很困难——
->
+> 要向正念导师和母亲之外的人坦白自己精神上的脆弱，实在很难——
 > It will be difficult, confessing my mental weaknesses to someone that isn't my mindfulness teacher, or my mother--
 
-### 3. 忘记每日消息后的恐慌
+#### 3. 忘记每日消息后的恐慌
 
 [背景]Scipio 突然想起自己没有按时向母亲报平安，立即要求 Com 找通讯器。他读到她的未读消息后，想到如果刺杀中自己没有生还，便会因一次忘记而没有留下最后道别。
 
-> 我猛地睁开眼睛，意识到自己忘了给她发送每日消息。
+> 我猛地睁开双眼，意识到自己忘记给她发送每日信息。
 >
-> My eyes fly open as I realize I've forgotten to send my daily message to her.
->
-> Scipio的心念：“如果我没能活下来，又因为自己的健忘而从未给她发出最后一条消息呢？”
->
-> *"What if I hadn't survived and never sent her a final message because of my forgetfulness?"*
+> Scipio的心念：要是因为健忘跟死亡，我没能给她留下最后的信息该怎么办？
 
-### 4. 唯一可完整确认的本人文字消息
-
-[背景]她在 Lux 总是早于 Vita 升起醒来。Scipio 没有按时报平安后，她先主动发信，为他的沉默提供“早睡”或“工作繁重”的温和解释。
-
-> Skippy，希望你一切安好。你是不是很早就睡了？他们一定让你忙得够呛。有空就回复我。永远爱你！
->
-> Skippy, I hope you are well. Did you fall asleep early? I imagine they must be working you quite hard. Please respond when you can. All my love!
->
-> ——母亲。
->
-> -Mother.
-
-### 5. 提前两日发起通讯器通话
+#### 4. 提前两日发起通讯器通话
 
 [背景]母子通常每周只进行一次视觉通讯，原定日期还有两日。Scipio 因为忘记报平安，也因为想念她，提前按下连线。
 
-[动作与反应]她在数秒内接听。画面先是白色布料，然后是手链，最后是她的脸。她的声音略带责备，却没有显得太过担忧或生气。具体台词未保留。
-> 我们每周只用一次通讯器，可约定的日子还要再等两天；因为我没按时发送消息，也因为我想念母亲……
+Scipio把思念化成一个提前拨出的视讯请求。
+> 我们每周只使用一次，而上一次已经是两天前的事了。出于我没能及时发送发信息，以及对母亲的思念...
 >
-> We only use it once weekly, but that day is two days away, and because I missed sending my message on time, and because I miss Mother...
->
-> 我按下那个像箭头一样的图标，仿佛它正指向她所在的方向——数千公里之外。
->
+> 我按下那个形似箭头的图标，仿佛它正指向几千公里外她所在的方向。
 > I push the icon resembling an arrowhead, as if pointing in the direction of where she is, thousands of kilometers away.
 >
-> 她几秒内便接通了；起初我只看见白色布料，接着是手链，最后才是母亲的脸。
->
-> She answers within seconds, and at first, all I see is white fabric, then a bracelet, then my mother's face.
->
-> 她听起来没有太过担忧或生气，可不知为何，那略带责备的声音让我难以开口。
->
-> She doesn't sound too worried or upset, but her chiding voice makes it difficult to speak, for some reason.
+> 她在几秒钟内就应答了，一开始我看到的是白色的布料，然后是一条手链，最后才是我母亲的脸。
 
-### 6. 心理堡垒在母亲面前倒塌
+屏幕那端，母亲已经认出了他：
+
+> "Skip！你还好吗？你是睡着了对吧？"
+
+熟悉的声音略带责备，却没有惊慌。Scipio听见这句平常的问候，反而难以回应。
+
+> 听起来并没有太多的担心与不安，但不知为何，她责备的声音使我难以开口。
+
+#### 5. 心理堡垒在母亲面前倒塌
 
 [背景]Scipio 本想像正常成年外交官一样回复，却在看见母亲后失去所有控制。
 
-> 如果我完全诚实，我愿意放弃使命，只为了再和她在一起，回到我们温暖的住所，回到空气中满是oliban气味的地方。
+> 如果完全说实话，只要能再陪在她身边，回到温暖的家，闻着别墅里满满的{i}乳香{/i}，我宁愿放弃这次任务。
+> If I were to be completely honest, I'd give up my mission just to be with her again, to be in the warmth of our villa, with the smell of {i}oliban{/i} thick in the air.
 >
-> If I were to be completely honest, I'd give up my mission just to be with her again, to be in the warmth of our villa, with the smell of oliban thick in the air.
->
-> 我张开嘴，发出的却只有一声呜咽；眼泪涌出，浸透了脸颊上的毛发。
->
+
+母亲又问他是否安好，是否刚洗过澡；见他的鬃毛到处翘着，她还说，真希望这是一扇能伸手过去的门，好替他理整齐。这份寻常的关切终于击溃了他勉强重建的心防。
+
+> 我张开嘴，却只发出一声呜咽。眼泪涌了上来，浸湿了脸颊上的毛。
 > I open my mouth, but all that comes out is a sob as the tears well up and soak into the fur on my cheeks.
 
-[动作]他张开嘴，发出的却只有呜咽；眼泪涌出，浸透脸颊的毛发。
+[动作]维持了一整夜的心理防线就这样散了；他终于不用继续在母亲面前装作若无其事。
 
-### 7. Amalgamation 噩梦对母亲的利用
+#### 6. Amalgamation 噩梦对母亲的利用
 
 [背景]通话后，Scipio 梦见自己死去并融入 Amalgamation。枯叶声知道他会本能地向母亲求救，便把“日后她也会死”变成恐吓。
 
-> 我没有嘴，也发不出声音，却仍乞求她安慰我、拯救我，仿佛自己真的还是一只幼崽。
->
+> 我没有嘴，也发不出声音，却仍在哀求她安慰我，求她救我，仿佛自己真成了一只幼崽。
 > I beg without a mouth or voice for her comfort, for her to save me, like I am truly a pup.
 >
-> 她终会与你相会，Scipio，可你要怎样在数十亿意识中找到她？不过至少，她的痛苦会同你的痛苦融为一体。
->
-> "She will join you in due time, Scipio, but how will you ever find her amongst the billions? But at least your suffering will become one with hers."
+> “{i}总有一天，她也会来陪你，Scipio。可在那几十亿个灵魂中，你又怎么找得到她？不过，至少你们的痛苦会融为一体。{/i}”
+> "{i}She will join you in due time, Scipio, but how will you ever find her amongst the billions? But at least your suffering will become one with hers.{/i}"
 
-### 8. 如果没有职责，就立即回家
+#### 7. 如果没有职责，就立即回家
 
 [背景]刺杀次日，Scipio 在王宫水池边试图处理噩梦与解离。
 
-> 如果我现在不是在为Adastra服务，我就会回到Lux外围的家，比以往任何一次都更久地拥抱母亲。
->
+> 如果我现在不是在为 Adastra 效力，我一定会回到 Lux 郊外的家，把母亲抱得比以往任何一次都久。
 > If I weren't serving Adastra right now, I'd go back home, to the outskirts of Lux, and hug my mother longer than I ever have before.
 
-### 9. 父亲离开后的平静
+#### 8. 父亲离开后的平静
 
 [背景]Khemia 第一日夜，Neferu 以玩笑问 Scipio 是否像在等自己父亲降落。Scipio 说自己只会等到一场坠机，随后第一次向 Neferu 透露家庭史。
 
-> “他曾经残酷地对待我，尤其是我的母亲，后来便离开，再也没有回来。不过，那其实是件好事。只剩我和母亲之后，家里很平静。”
->
+> “他对我很狠，对我母亲更狠。后来他走了，再也没回来。不过那是好事。只剩我和母亲，日子反倒安宁了。”
 > "He was cruel to me and especially my mother before leaving and never coming back. But it was a good thing. It was peaceful with just me and my mother."
 
-### 10. 跨层状态中的家庭画面
+#### 9. 跨层状态中的家庭画面
 
 [背景]Aya 首次引导 Scipio 进入跨层空间。他几乎本能地知道要去哪里，立即到达 Lux 外围的家。
 
 [画面]母亲坐在厨房桌边揉面，正准备 Scipio 最喜欢的面包卷；他几乎能闻到 oliban。她的眼睛发红，吸鼻子的样子显示她刚哭过。他想伸手，却被心智屏障挡住。
-> 我来到Lux，并立刻找到了她位于城郊的小屋。
->
+> 我到了 Lux，立刻就找到了她在城郊的小屋。
 > I'm in Lux, and I find her small cottage on the outskirts immediately.
 >
-> 母亲正坐在厨房桌边揉面，做着我最喜欢的面包卷。
->
+> 母亲坐在厨房桌边揉面，做着我最爱吃的面包卷。
 > My mother is sitting at the kitchen table, kneading dough, making the bread rolls I love so much.
 >
-> 我几乎能闻到空气中的oliban气味。
+> 我几乎能闻到空气中的{i}乳香{/i}味。
+> I can almost smell the {i}oliban{/i} in the air.
 >
-> I can almost smell the oliban in the air.
->
-> 但她双眼发红；她吸鼻子的样子告诉我，她刚刚哭过。
->
+> 但她的眼睛红着，吸鼻子的样子让我知道，她刚刚哭过。
 > But her eyes are red, and the way she sniffs tells me she'd been crying.
 >
-> 我的胸口实实在在地疼起来；我想伸手触碰她，可她周围同样存在一道屏障。
->
+> 我的胸口真的疼了起来。我想伸手触碰她，可她周围也有一道屏障。
 > It hurts my chest physically, and I want to reach out to her, but there's a barrier around her, too.
 
-### 11. The Leaves 对母亲悲伤的歪曲利用
+#### 10. The Leaves 对母亲悲伤的歪曲利用
 
 [背景]Scipio 看见母亲哭过后，The Leaves 立即利用信息空白裂解他的信任。
 
-> “这甚至未必与你有关，Scipio。也许她同样背负着ahewawi？”
->
-> "It may not even be about you, Scipio. Maybe she carries ahewawi too?"
+> “{i}也许根本不是因为你呢，Scipio。说不定她也背负着{i}ahewawi{/i}？”
+> "{i}It may not even be about you, Scipio. Maybe she carries {i}ahewawi{/i} too?"
 
 [边界]这句话属于 The Leaves，不是母亲的自白，不足以建立她的精神病史。
 
-### 12. 母亲是离开 Adastra 时无法割断的牵挂
+#### 11. 母亲是离开 Adastra 时无法割断的牵挂
 
 [背景]Khemia 第二日，Scipio 对 Adastra 的认同正在疏离，又知道 Khemia 承诺接纳逃离 Wolven 压迫的任何生物。
 
-> 事实上，如果我不需要为母亲担心，我大概已经会问Neferu，自己能否在这里寻求庇护，即使我还没见过王宫以外的Khemia。
->
+> 事实上，要不是还牵挂着母亲，我大概已经去问 Neferu，能不能在这里寻求庇护了，尽管我连皇宫外面都还没去过。
 > In fact, if I didn't have Mother to worry about, I'd probably ask Neferu about seeking asylum here, despite not having seen more than the palace.

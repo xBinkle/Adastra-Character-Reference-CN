@@ -4,11 +4,11 @@
 
 The Leaves 是近十年间侵入多个 Sibling 跨层面传统的未知意识现象，也是 Scipio 的天赋、ahewawi 与自由意志危机中最危险的对抗者。它没有稳定肉身、公开姓名或单一声音；“The Leaves”只是有天赋的群体因其最稳定的听觉特征——成千上万片干枯叶片彼此摩擦般的低语——而采用的临时称呼。Khemia、Hindo、Omorfa 与 Taharka 的同类沟通者都遭遇过它，现存记录中没有已知 sakhaet 真正向其屈服。
 
-它的危险不来自简单的恐吓，而来自一套精密的心理侵入逻辑：先读取或贴近对象最深的创伤、羞耻、恐惧和愿望；再把对象原本就拥有的思想放大成看似来自“更诚实自我”的声音；随后用恐怖景象击穿抵抗，用安慰、解脱、用途、真相或关系作为交换条件；最终让对象产生真正的 **欲望**，主动同意为它行动。纯粹强制不足以完成支配。被害者必须在某一刻真实地想要它所提供的结果，因此 The Leaves 不断把命令包装成对象自己的选择。
+它的危险不来自简单的恐吓，而来自一套精密的心理侵入逻辑：先读取或贴近对象最深的创伤、羞耻、恐惧和愿望；再把对象原本就拥有的思想放大成看似来自“更诚实自我”的声音；随后用恐怖景象击穿抵抗，用安慰、解脱、用途、真相或关系作为交换条件；最终让对象产生真正的 **欲望**，主动同意为它行动。据 Aya 对已知案例的总结，它似乎需要对象真正想要顺从，而不是单凭强制完成支配。因此，它不断把命令包装成对象自己的选择。
 
 对 Scipio，它选择的切口不是单一怕死，而是一整组彼此咬合的矛盾：他因Cato暴乱产生的 ahewawi；对自己“精神不健全”的羞耻；对狼族、低教育阶层和Khemia人的偏见与怨恨；对 Parents 以自主性为名操控生命的怀疑；对 Amalgamation 会抹去个体的恐惧；对母亲的依恋；对成为有用之人、完成职责后获得安静死亡的渴望；以及他受命接近并利用 Neferu 后产生的自我厌恶。The Leaves 不需要凭空制造这些内容，只需把它们排列成一条结论：生命带来腐败与背叛，彻底不存在才是完美和平，而 Scipio 可以借服从它帮助所有与自己相似的人。
 
-The Leaves 与 The Other 的表现高度重合：两者都会利用宿主心智塑造私人形貌，也都出现干叶声、死亡恐惧与反 Amalgamation叙事；Marco遇到的 Meera形 The Other在伪装崩裂后同样发出枯叶般杂音。只有The Leaves被明确说明需要对象产生真实欲望并主动执行，The Other是否受同一种“自愿同意”机制约束仍不清楚。二者尚未被任何掌握完整信息的权威正式认定为同一存在。最严谨的定位是：**The Leaves 是已被四种天赋传统独立记录的未知现象；它很可能与 The Other 或其残余相关，但当前仍须保留分类边界。**
+The Leaves 与 The Other 的表现高度重合：两者都会利用宿主心智塑造私人形貌，也都出现干叶声、死亡恐惧与反 Amalgamation叙事；Marco遇到的 Meera形 The Other在伪装崩裂后同样发出枯叶般杂音。只有The Leaves被明确说明需要对象产生真实欲望并主动执行，The Other是否受同一种“自愿同意”机制约束仍不清楚。二者尚未被任何掌握完整信息的权威正式认定为同一存在。最严谨的定位是：**据 Aya 所述，The Leaves 是四种天赋传统都遭遇过的未知现象；它与 The Other 或其残余的关联尚未查明。**
 
 ## 二、存在身份与已知常数
 
@@ -17,11 +17,11 @@ The Leaves 与 The Other 的表现高度重合：两者都会利用宿主心智�
 | 稳定称呼 | The Leaves |
 | 名称性质 | 观察性临时称谓，来自干枯叶片摩擦般的声音；不是其自报真名 |
 | 存在类别 | 未知跨层面意识现象或实体；是否为单一人格未定 |
-| 活动历史 | 至少近十年持续出现 |
+| 活动历史 | 近十年已有多次遭遇记录；最初出现时间未明 |
 | 已知受影响文明 | Khemia、Hindo、Omorfa、Taharka；四者均保留 sakhaet 或同类传统 |
 | 已知重点对象 | Scipio；其他受影响者身份大多受誓约和隐私保护 |
 | 稳定能力 | 读取或利用深层欲望、创伤与疑虑；制造声音、形貌、梦境与感官恐怖；模仿可信人物；诱导同意 |
-| 稳定限制 | 不能只靠强迫完成支配；需要对象产生真实欲望；无法进入 Parents 所在层面 |
+| 稳定限制 | 按 Aya 的经验，似乎需要对象真正想要顺从；她明确表示它无法进入 Parents 所在层面 |
 | 与 The Other 关系 | 特征高度重合，尚未正式确认同一 |
 | 与 Meera形意识关系 | Khemia航程中两者先后出现且边界不明；不能确认相同，也不能确认完全独立 |
 
@@ -57,7 +57,7 @@ The Leaves 不从完全陌生的谎言开始。它先抓住对象无法公开承
 
 ### 2. 把思想来源混淆
 
-它让自己的话听起来像 Scipio 的内在独白，例如把 Clay District居民称作无知、无心的渣滓。随后出现的、身份未定的Meera形意识又反问Scipio是否并不赞同；这段反问不能直接归给The Leaves，却进一步加深了思想来源的混乱。Scipio无法区分：这是自己的潜意识、ahewawi造成的侵入念头、天赋接收到的外来信息，还是某种更高真相。来源越模糊，羞耻与自我怀疑越强。
+它插入 Scipio 原有的内心独白和回忆，使他自己的阴暗念头与外来声音相互纠缠。把暴乱者骂作无脑、无知的渣滓，原本是他在关于 Spurius 的回忆中对 Gaius 说过的话，不能一并算成叶声灌输。随后出现的、身份未定的Meera形意识又反问Scipio是否并不赞同；这段反问不能直接归给The Leaves，却进一步加深了思想来源的混乱。Scipio无法区分：这是自己的潜意识、ahewawi造成的侵入念头、天赋接收到的外来信息，还是某种更高真相。来源越模糊，羞耻与自我怀疑越强。
 
 ### 3. 先恐怖化，再提供唯一出口
 
@@ -73,11 +73,11 @@ Scipio在虚假Amalgamation中呼唤母亲后，The Leaves 不直接许诺团聚
 
 ### 6. 伪装成帮助者
 
-它会说“你很安全”“先听我们说完”“我们只是帮助、警告和建议”，会模仿Aya的引导语、表情和关怀形式。它不急于要求最终服从，而先把真正导师说成潜在绑架者：Aya为何把未经开发的知识交给狼族？她真的会训练完便让Scipio返回Adastra吗？一旦信任关系被削弱，对象便失去锚定和外部校验，The Leaves成为唯一解释者。
+它会说“你很安全”“先听我们说完”，也会模仿 Aya 的引导语、表情和关怀形式。它不急于要求最终服从，而先把真正导师说成潜在绑架者：Aya为何把未经开发的知识交给狼族？她真的会训练完便让Scipio返回Adastra吗？一旦信任关系被削弱，对象便失去锚定和外部校验，The Leaves成为唯一解释者。
 
 ### 7. 最终目标：真实想要，而非机械服从
 
-它需要受害者真的产生欲望。Scipio在梦中喊出“我愿意做任何事”后，它才开始谈替代可能；在训练中，它引导他主动想象“释放”“痛苦溶解并重组为中性”。控制不是夺走全部意识，而是把目标推到会亲自完成下一步的状态。这也是其限制：对象承认欲望、保留怀疑、呼唤可信同伴并拒绝把痛苦当作行动理由，就能阻断最后同意。
+按 Aya 的观察，它似乎需要受害者真的产生顺从意愿。Scipio在梦中喊出“我愿意做任何事”后，它才开始谈替代可能；在训练中，它引导他主动想象“释放”“痛苦溶解并重组为中性”。控制不是夺走全部意识，而是把目标推到会亲自完成下一步的状态。Scipio 曾在呼喊真正的 Aya 后结束一次侵入，却还没有查明它最终索取的具体行动；一次脱身不等于已经掌握彻底阻断它的方法。
 
 ## 五、语言与沟通风格
 
@@ -106,7 +106,7 @@ Scipio在虚假Amalgamation中呼唤母亲后，The Leaves 不直接许诺团聚
 
 The Leaves 是否拥有普通人格意义上的欲望，尚不能确定。其稳定行为目标是让有天赋者主动为它行动，并把生命、差异与关系推向中性化或消失。它反复把“没有生命的宇宙”描述为完美和平，把痛苦溶解、重组为中性状态视作正确方向。这可能是其真实目的，也可能只是最适合诱导Scipio的叙事；不能仅凭对一个对象的话确定宇宙级最终目标。
 
-它似乎畏惧或无法进入Parent所在层面。Aya确认只要真正抵达Parents所在层面，它便没有力量。这种边界可能来自存在层级不兼容，也可能来自Parents在该层拥有排斥能力。The Leaves 因而竭力在对象“向上”之前把其引向旁侧、下沉或熟悉形貌，利用恐惧令其偏离正确的门。
+它无法进入 Parents 所在层面的说法来自 Aya。她明确告诉 Scipio，只要真正抵达Parents所在层面，它便没有力量。这种边界可能来自存在层级不兼容，也可能来自Parents在该层拥有排斥能力。The Leaves 因而竭力在对象“向上”之前把其引向旁侧、下沉或熟悉形貌，利用恐惧令其偏离正确的门。
 
 它对信任关系具有结构性敌意。母亲、Neferu、Aya、Khemia人、狼族和Parents都会被它改写成终将伤害对象的力量。关系既是其攻击材料，也是抵抗它的锚；只要对象仍能呼唤真正Aya、承认自己需要帮助并接受他人的独立判断，它便无法垄断现实。
 
@@ -144,7 +144,7 @@ The Leaves 利用Parents的真实伦理矛盾削弱信任：它们宣称尊重�
 
 ### 1. 四种传统中的近十年异常
 
-Khemia、Hindo、Omorfa与Taharka的有天赋者传统在近十年分别记录到相似现象。每位对象看见的形貌不同，共同点是干叶声、私人诱惑、对真实欲望的要求以及对跨层面训练的干扰。Aya的前任任职超过一百年，仍把它视为自己面对过最困难、最令人不安的异常之一。
+据 Aya 所述，Khemia、Hindo、Omorfa 与 Taharka 的有天赋者传统，在近十年都遭遇过相似现象。每位对象看见的形貌不同，共同点是干叶声、私人诱惑、对真实欲望的要求以及对跨层面训练的干扰。Aya的前任任职超过一百年，仍把它视为自己面对过最困难、最令人不安的异常之一。
 
 ### 2. Varro大学高度疑似的清醒接触
 
@@ -156,7 +156,7 @@ Scipio在Cato暴乱三年后回到大学冥想。两道较清楚的远距声音�
 
 ### 4. Stretch中的主动越界
 
-Scipio在Stretch航行时冥想，层面边界变薄。他再次听见The Leaves，进入没有身体和意义的虚无；它宣称不存在是真正和平，生命不可信，并用Parents的自主性矛盾与Scipio对Neferu的秘密任务施压。随后Meera形意识出现，叶声消失，Aya又在离开前提供Khemian口令。三种声音的关系未被解决。
+Scipio 在 Stretch 航行时冥想，层面边界变薄。Brunis 搬箱时的巨响将他惊醒，刺杀记忆骤然复发；他再次听见 The Leaves，转而抓住先前牵引意识的力量，进入没有身体和意义的虚无；它宣称不存在是真正和平，生命不可信，并用Parents的自主性矛盾与Scipio对Neferu的秘密任务施压。随后Meera形意识出现，叶声消失，Aya又在离开前提供Khemian口令。三种声音的关系未被解决。
 
 ### 5. 接触室首次训练中的伪装
 
@@ -168,181 +168,307 @@ Scipio顺利通过门，先感到Neferu与远在Lux的母亲。The Leaves借母�
 
 ## 九、沉浸式RP语料库
 
-The Leaves 的每次话语都应贴合对象真实裂缝。以下是其对Scipio的已知表达模式，按时间线排列。
+### A. 高质量特定情境中长语料
 
-### 1. 大学旧址｜高度疑似的先期接触
+#### 1. Varro 大学旧址：从旁观意识中插入创伤切口
 
-Scipio以“空间已经离开过去地点”安抚自己，Antonia雕像却像转头跟随。声纹、复数自称与创伤切口都高度指向The Leaves，但此时尚未获得正式名称；枯叶般声音从空廊某处擦过：
+[背景说明]
 
-> 它跟着他。
->
-> "It follows him."
->
-> 我们见证过这一切……我们看见你因他们而流血……
->
-> "We witnessed it... We saw you bleed because of them..."
+使团启程前，Scipio 在曾遭 Cato 暴乱袭击的大学里冥想。他试图用“宇宙中的位置每一刻都在变化”把今日校园与三年前的受难地点分离，却不断被建筑、长椅和 Antonia 雕像仍然存在的事实拖回过去。最初，他听见两道彼此交谈的意识声，其中一句谈到某种东西仍跟随着他；随后出现的第三道声音在质感与意图上都明显不同，像风吹枯叶般从空廊擦过，直接把“见证”与他曾经流血的经历扣在一起。前一句的来源仍不能与叶声合并，只能视作叶声出现前、另有归属未定的意识语境。
 
-### 2. 刺杀后的梦｜重新定义死亡
+[关联意识声]
+> “{i}它跟着他。{/i}”
+> "{i}It follows him.{/i}"
 
-无人机波动在梦中穿过Scipio的肉体，痛苦被拉长。叶声贴近：
+[过渡说明]
 
-> 你当然应该恐惧。死亡是一件非常、非常可怕的事。
->
-> "As you should be. Death is a terrible, terrible thing."
+这段交谈使 Scipio 的专注开始瓦解。他以触摸冰凉大理石进行 grounding，又思考建筑是否会吸收曾在其中发生的一切；就在建筑课教师关于“结构拥有身份”的记忆尚未走完时，第三道声音第一次清晰越过他的自我解释。
 
-### 3. 伪造Amalgamation｜把共同意识变成共同受刑
+[001]
+> “{cps=22}{i}我们亲眼见过……{w=0.3}我们看见你因他们而流血……{/i}”
+> "{cps=22}{i}We witnessed it... {w=0.3}We saw you bleed because of them...{/i}"
 
-> Amalgamation不过是一片痛苦的海。就连你也知道，它是不自然的。
->
-> "The Amalgamation is nothing but an ocean of suffering. Even you know that it's unnatural, Scipio."
->
-> 不，Scipio。真相比那糟得多得多。
->
-> "No, Scipio. It's far, far worse than that."
+[过渡说明]
 
-### 4. 扭曲主观时间｜让数分钟看似永恒
+Scipio 立刻睁眼，毛发竖起、呼吸停顿，空廊里只剩近似风吹落叶的余响。他明确感觉这声音不同于先前两道意识声，并把方向定位到 Antonia 雕像附近；Veteris 的突然到来中断了接触。
 
-Scipio以为自己已经受刑数小时，意识即将崩溃：
+#### 2. 刺杀后的梦境：先把死亡变成永恒受刑，再垄断出口
 
-> 可是，Scipio，才过了几分钟。看见了吗？它这么快就能击垮你。
->
-> "But Scipio, it's only been minutes. See how quickly it breaks you?"
+[背景说明]
 
-### 5. 利用母亲｜摧毁最安全的依恋
+在 Clay District 遭遇刺杀的当晚，Scipio 回到皇宫，向母亲通话后才在 Neferu 房内的小床上沉沉睡去。梦里，刺客再次举刀，无人机就在其身后开火，而这一次 Scipio 也处在射击路径上。前所未有的剧痛穿透身体，他以为自己真的与刺客一同死去；枯叶般的声音就在这种恐惧中响起。
 
-> 她终会与你相会，Scipio，可你要怎样在数十亿意识中找到她？不过至少，她的痛苦会同你的痛苦融为一体。
->
-> "She will join you in due time, Scipio, but how will you ever find her amongst the billions? But at least your suffering will become one with hers."
+[002]
+> “{i}你当然应该害怕。死亡是很可怕、很可怕的事。{/i}”
+> "{i}As you should be. Death is a terrible, terrible thing.{/i}"
 
-### 6. 等待对象主动求助｜只说一个转折词
+[过渡说明]
 
-Scipio已经请求任何办法、表示自己什么都愿意做。它终于放出钩子：
+Scipio 想到自己死后至少会进入 Amalgamation，试图用共同意识与重逢安慰自己。叶声立刻夺走这条退路，把融合描述成无边的共同疼痛。
 
-> 除非……
->
-> "Unless..."
+[003]
+> “{i}Amalgamation 不过是一片苦海。就连你也知道，那是违背自然的，Scipio。{/i}”
+> "{i}The Amalgamation is nothing but an ocean of suffering. Even you know that it's unnatural, Scipio.{/i}"
 
-### 7. 提供“其他可能”｜把服从包装成逃生
+[过渡说明]
 
-> 还有别的可能，Scipio。
->
-> "There are other possibilities, Scipio."
->
-> 我们知道你真正想要什么，也知道你应得什么：变得有用，履行职责，然后自然地死去，让所有痛苦与你一同终结。
->
-> "We know what you truly want, what you truly deserve: To become useful, to fulfill your duties, and then to die, naturally, with all the pain dying with you."
+叶声对安息的否定，让 Scipio 想起过去十年一直藏着的担忧与怀疑。他开始害怕，这些疑虑也许一直有道理；回答随即追了过来。
 
-### 8. 航程冥想｜把ahewawi宣判为永久身份
+[004]
+> “{i}不，Scipio。那远比你想的还要可怕。”
+> "{i}No, Scipio. It's far, far worse than that."
 
-刺客血腥气味在记忆里回返，Scipio肌肉锁紧：
+[过渡说明]
 
-> 这份ahewawi会永远留在你身上，不是吗？
->
-> "The ahewawi is going to stay with you forever, isn't it?"
+疼痛与灼烧仿佛持续了数小时，Scipio 的意识已接近崩溃。叶声却声称才过了几分钟，用这句话继续击打他的抵抗；Scipio 无从核实外界真正过去了多久。
 
-### 9. 虚无诱惑｜把不存在称为真正和平
+[005]
+> “{i}可 Scipio，这才过了几分钟。看见了吗？你这么快就撑不住了。{/i}”
+> "{i}But Scipio, it's only been minutes. See how quickly it breaks you?{/i}"
 
-> 这才是真正的和平，Scipio。死亡甚至更好，因为那时你根本不存在。
->
-> "This is what true peace is like, Scipio, but death is even better, because you don't exist at all."
->
-> 想象一个没有生命的宇宙。那该有多么平静。
->
-> "Imagine a universe without life. How peaceful things would be then."
->
-> 这是唯一能够实现的完美状态。
->
-> It's the only perfect state that can be achieved.
+[过渡说明]
 
-### 10. 全面否定关系｜用历史仇恨证明生命不可信
+Scipio 在意识里呼唤母亲，像幼崽一样求她安慰自己、救自己出去。叶声不否定重逢，而是把亿万意识的规模与母亲的痛苦一同嵌入这个愿望。
 
-> 智慧生命——无论是你还是任何别人——都不值得信任。记得那些愚蠢狼族如何对待你吗？记得Khemia人如何对待狼族吗？记得Neferu如何对待你吗？
->
-> "Sapients, you or anyone else, cannot be trusted. Remember how the cretin wolves treated you? Remember how the Khemians treat the wolves? Remember how Neferu treats you?"
+[006]
+> “{i}总有一天，她也会来陪你，Scipio。可在那几十亿个灵魂中，你又怎么找得到她？不过，至少你们的痛苦会融为一体。{/i}”
+> "{i}She will join you in due time, Scipio, but how will you ever find her amongst the billions? But at least your suffering will become one with hers.{/i}"
 
-### 11. 揭露秘密任务｜让羞耻成为结盟理由
+[过渡说明]
 
-> 你还记得自己真正来这里做什么吗？记得你正在如何对待Neferu吗？
->
-> "And do you remember your true purpose here, how you are treating Neferu?"
+Scipio 只能反复拒绝、哀求。叶声留下一句未完成的转折，把是否存在出口的问题吊在半空。
 
-### 12. 借Parents的伦理矛盾建立可信度
+[007]
+> “{i}除非……{/i}”
+> "{i}Unless...{/i}"
 
-> 更重要的是，记得Parents如何以“自主性”为名对待智慧生命吗？你们之中有谁真正拥有选择？
->
-> "More importantly, remember how the Parents treat sapients, in the name of 'agency', and yet what choice do any of you have?"
+[过渡说明]
 
-### 13. 制造救世感｜把自我毁灭抬高成普遍帮助
+当求助完全由 Scipio 主动说出后，他才感觉自己从灼烧的深海里上升。叶声把出口称为“其他可能”，却仍不交代执行方式。
 
-> 你能帮助所有与你相似的人；推而广之，你能帮助所有智慧生命。
->
-> "You can help those like you, and by extension, all other sapients."
->
-> 你可以。
->
-> "You can."
+[008]
+> “{i}还有别的可能，Scipio。{/i}”
+> "{i}There are other possibilities, Scipio.{/i}"
 
-### 14. 天赋训练中接近母亲｜先用温和问题打开裂缝
+[过渡说明]
 
-Scipio看见母亲独自在Lux哭泣，叶声以近似关心的语调插入：
+Scipio 紧紧抓住这点可能，心里只剩一个念头：什么都好，只要不是眼前这种无尽折磨。它顺着这份渴求，换上了仿佛懂得他一生所求的口吻。
 
-> “这甚至未必与你有关，Scipio。也许她同样背负着ahewawi？”
->
-> "It may not even be about you, Scipio. Maybe she carries ahewawi too?"
+[009]
+> “{i}我们知道你真正想要什么，真正应该得到什么：成为有用的人，尽完自己的职责，然后自然而然地死去，让所有痛苦也随你一同消亡。{/i}”
+> "{i}We know what you truly want, what you truly deserve: To become useful, to fulfill your duties, and then to die, naturally, with all the pain dying with you.{/i}"
 
-### 15. 破坏Aya信任｜用“安全”包装孤立
+[过渡说明]
 
-> “你很安全，Scipio。在作决定前，先听我们说完。你为什么信任她？她为什么要把如此重要、尚未开发的知识交给狼族？”
->
-> "You're safe, Scipio. Just hear us out before you make a decision. Why do you trust her? Why would she give such important, untapped knowledge to the wolves?"
+“有用”正好击中 Scipio 以职责证明自身价值的欲望。他在心里应了“当然”，那个词随后被拉长、拆散，回荡在另一道清晰的雌性声音介入之前。这里保留的是梦中回应的碎片。
 
-### 16. 把训练描绘成拘禁前奏
+[010]
+[关联心声]
+> “有{i}用{/i}{i}……{/i}{i}……{/i}”
+> "U{i}s{/i}e{i}f{/i}u{i}l{/i}..."
 
-> “你真以为她会训练你，然后就让你离开，回到Adastra？”
->
-> "You expect she'll train you then just let you leave, back to Adastra?"
->
-> “Khemia人和银河里的所有人都憎恨Adastra——也就是说，他们憎恨你。睁开眼睛。”
->
-> "The Khemians along with everyone in the galaxy hates Adastra, which means they hate you. Open your eyes."
+#### 3. 与 Neferu 冲突后的清醒侵入：改写敌意的对象
 
-### 17. 用伪Aya挑战现实感
+[背景说明]
 
-假Aya在精神空间中悬浮，笑容固定，嘴唇不动：
+赴 Khemia 的 Stretch 航行才开始不到一小时，Scipio 与 Neferu 的互动便因文化傲慢和防卫心理变得尖锐。独处时，他一面反驳把 Wolf 视为野蛮种族的偏见，一面又承认 Wolf 历史与当代政治确有暴力和自负；这种自我辩护尚未稳定，叶声便复用大学旧址的“我们见证过”，把此前泛指的伤害者替换为刚刚令他受伤的 Neferu，Neferu 刚才那句“狼族的自尊”也在这段内心争论中回响，牵动着他的羞耻与族群防御。
 
-> “我看见你，Scipio。我真正地看见你。”
->
-> "I see you, Scipio. I see you."
->
-> “我看见你的动机、你的挣扎。我知道你在做什么。”
->
+[011]
+> “{i}我们亲眼见过……我们看见你因他而流血……也许，他还想看你流更多的血？{/i}”
+> "{i}We witnessed it... We saw you bleed because of him... Perhaps he wishes to see you bleed even more?{/i}"
+
+[过渡说明]
+
+Scipio 强行把思路拉回 Khemia 自身的傲慢，并将 Neferu 视为明显例子。Neferu 刚才的讥讽随后又在脑中浮现，与外来声音和自己的反驳搅在一起；这两词没有另行标明发声者。
+
+[012]
+[脑内回响]
+> “{i}狼族的自尊……{/i}”
+> "{i}Wolven pride...{/i}"
+
+#### 4. Stretch 冥想：从永久创伤推向无生命的“完美”
+
+[背景说明]
+
+飞船进入 Stretch 后，Scipio 再次冥想。他试着只留在当下，让念头像穿过透明窗户一样自行离去，Gaius 与 Spurius 的旧事却不断浮现。就在意识仿佛被向上牵引时，Brunis 搬动的箱子落下，巨响将他惊醒。刺客的血与内脏气味重返感官，身体僵住，梦里听过的声音此刻竟像真的贴着耳边响起。
+
+[013]
+> “{i}这{/i}{i}ahewawi{/i}{i}会缠着你一辈子，对不对？{/i}”
+> "{i}The{/i} {i}ahewawi{/i} {i}is going to stay with you forever, isn't it?{/i}"
+
+[过渡说明]
+
+Scipio 仿佛又回到了包间中的刺杀现场。他抓住先前向上牵引意识的力量，作为此刻唯一想得到的逃路；Brunis 的惊呼已经远得无法理解，一阵遥远震动之后，身体感觉消失了。
+
+[014]
+> “{i}这才是真正的平静，Scipio。不过，死亡还要更好，因为那时，你就彻底不存在了。{/i}”
+> "{i}This is what true peace is like, Scipio, but death is even better, because you don't exist at all.{/i}"
+
+[过渡说明]
+
+当死亡后的“不存在”被说成比眼下的平静更好，叶声把尺度扩大到整个宇宙，不再只谈 Scipio 的个人解脱。
+
+[015]
+> “{i}想想一个没有生命的宇宙，那该有多么平静。{/i}”
+> "{i}Imagine a universe without life. How peaceful things would be then.{/i}"
+
+[016]
+[意识中的判断]
+> {i}那是唯一能够达到的完美状态。{/i}
+> {i}It's the only perfect state that can be achieved.{/i}.
+
+[过渡说明]
+
+“唯一完美状态”的判断在 Scipio 意识中浮现后，叶声又开始调用他记忆中的背叛、偏见与权力压迫：暴乱中的 Wolf、敌视 Wolf 的 Khemian，以及与他关系正在恶化的 Neferu。
+
+[017]
+> “{i}智慧生命，无论是你还是别人，都不值得信任。还记得那些蠢狼怎么对待你吗？还记得 Khemia 人怎么对待狼族吗？还记得 Neferu 怎么对待你吗？{/i}”
+> "{i}Sapients, you or anyone else, cannot be trusted. Remember how the cretin wolves treated you? Remember how the Khemians treat the wolves? Remember how Neferu treats you?{/i}"
+
+[过渡说明]
+
+它随即揭开 Scipio 此行搜集情报、利用 Neferu 的秘密任务，使“别人不可信”反过来变成“他自己同样在欺骗别人”。
+
+[018]
+> “{i}还有，你记得自己来到这里的真正目的，记得自己又是怎么对待 Neferu 的吗？{/i}”
+> "{i}And do you remember your true purpose here, how you are treating Neferu?{/i}"
+
+[过渡说明]
+
+Scipio 对自己的欺骗同样厌恶。叶声却不让指责停在他身上，又把 Parents 宣称的自主性拿来与他们的安排对照，继续追问他究竟有多少选择。
+
+[019]
+> “{i}更重要的是，记得 Parents 打着‘自主性’的旗号，是怎样对待智慧生命的吗？可你们又有谁真有选择？{/i}”
+> "{i}More importantly, remember how the Parents treat sapients, in the name of 'agency', and yet what choice do any of you have?{/i}"
+
+[过渡说明]
+
+在关系、职责和信仰都被重新解释为伤害之后，叶声把原本针对 Scipio 的死亡诱惑提升为一项普遍使命；短句重复不再提供新信息，只强化“你有能力做到”的行动感。
+
+[020]
+> “{i}你可以帮助和你一样的人，进而帮助所有其他智慧生命。{/i}”
+> "{i}You can help those like you, and by extension, all other sapients.{/i}"
+
+[过渡说明]
+
+Scipio 在心里回应：如果自己能做到，他当然愿意。叶声立刻咬住了这个尚有保留的愿望。
+
+[021]
+> “{i}你可以。{/i}”
+> "{i}You can.{/i}"
+
+[过渡说明]
+
+Scipio 一度觉得窒息或永远漂流都可以接受，直到 Meera 形意识以完全不同的低沉雌声打断。叶声随之退去，尚未向他交付所谓“帮助所有智慧生命”的具体行动。
+
+#### 5. 接触室训练：伪装成 Aya，引导 Scipio 主动释放自身
+
+[背景说明]
+
+Aya 首次带 Scipio 进入接触室训练，让他沿精神联系观察他人。Scipio 看见母亲在 Lux 独自揉面，红着眼睛，像是刚哭过。他想伸手触碰，却被屏障挡住，便打算向 Amicus 请求提前给 Adastra 传讯。一个熟悉的声音随后插进了这份牵挂。
+
+[022]
+> “{i}也许根本不是因为你呢，Scipio。说不定她也背负着{i}ahewawi{/i}？”
+> "{i}It may not even be about you, Scipio. Maybe she carries {i}ahewawi{/i} too?"
+
+[过渡说明]
+
+Scipio 想呼叫真正的 Aya，枯叶般的复数声音随即完整返回。它先保证安全，随后把导师的善意重写成一项不合常理、必然另有所图的投资。
+
+[023]
+> “{i}你很安全，Scipio。先听我们说完，再做决定。你为什么信任她？她为什么要把这么重要、尚未开发的知识交给狼族？{/i}”
+> "{i}You're safe, Scipio. Just hear us out before you make a decision. Why do you trust her? Why would she give such important, untapped knowledge to the wolves?{/i}"
+
+[024]
+> “{i}你以为她会教会你，然后就放你离开，让你回 Adastra？{/i}”
+> "{i}You expect she'll train you then just let you leave, back to Adastra?{/i}"
+
+[过渡说明]
+
+Scipio 坚持自己信任 Aya。叶声便将攻击范围扩大到 Khemia 与整个银河，利用各族对 Adastra 的敌意让这种私人信任显得幼稚。
+
+[025]
+> “{i}Khemia 人，还有银河系里的所有人，都憎恨 Adastra。这就意味着他们也憎恨你。睁开眼睛。{/i}”
+> "{i}The Khemians along with everyone in the galaxy hates Adastra, which means they hate you. Open your eyes.{/i}"
+
+[过渡说明]
+
+Scipio 不明白“睁开眼睛”是比喻还是命令。叶声冷淡地澄清字面含义，迫使他把注意力转向被篡改的视觉空间。
+
+[026]
+> “{i}就是字面上的意思。睁开眼睛。{/i}”
+> "{i}Literally. Open them.{/i}"
+
+[过渡说明]
+
+他睁眼后看见 Aya 以不可能的姿势悬浮，像在嘲弄冥想本身。叶声先替这种景象下达“不自然”的判断，再借用 Aya 清晰的外在声线继续说话。
+
+[027]
+> “{i}这不合自然。{/i}”
+> "{i}It's unnatural.{/i}"
+
+[028]
+> “我看见你了，Scipio。我{i}看透{/i}你了。”
+> "I see you, Scipio. I {i}see{/i} you."
+
+[过渡说明]
+
+Scipio 被“看透”里的重音逼得后缩，再次闭眼；当他从眼缝窥看时，声音又响了，伪 Aya 的嘴唇却没有动。
+
+[029]
+> “我看得见你的动机，你的挣扎。我知道你在做什么。”
 > "I see your motives, your struggles. I know what you're doing."
 
-### 18. 把痛苦说成不可逆判决
+[过渡说明]
 
-> “痛苦不可能被消除。”
->
-> "Pain can't be undone."
+那声音冰冷、愤怒，满是指责，脸上却仍挂着不变的笑。熟悉的面孔没有带来安慰，反而让接下来的断言更刺痛他。
 
-### 19. 引导主动自我消解｜把命令伪装成冥想练习
+[030]
+> “{i}痛苦{/i}是{i}抹不掉{/i}的。”
+> "{i}Pain{/i} can't {i}be{/i} undone."
 
-Scipio确认眼前不是Aya，却找不到出口。叶声采用平静指导语：
+[过渡说明]
 
-> “想象释放。想象所有痛苦离开你、溶解、重新排列成中性的东西——万物本该如此。”
->
-> Think of release, think of all the pain leaving you, dissolving, reorganizing itself into something neutral, as all things should be.
->
-> 深入观察，理解其中意义。恐惧与疼痛是死亡的自然部分；可在那之后……
->
-> "Look deeply, and try to understand the meaning. Fear and pain are a natural part of death, but after..."
+Scipio终于确认眼前不是 Aya，也不再身处真实房间，却仍被困在其中。他拼命回想 Aya 曾教过自己什么，新的声音却用“释放痛苦”的措辞接了进来，让解脱的念头朝消除主体本身的方向滑去。
 
-### 20. 剧痛顶点｜催促对象把屈服当作结束
+[031]
+> {i}想着解脱，想着所有痛苦离你而去，消散，再重新组合，变得不苦不乐；万物本就该如此。{/i}
+> {i}Think of release, think of all the pain leaving you, dissolving, reorganizing itself into something neutral, as all things should be.{/i}
 
-Scipio的心肺在意识中痉挛，他呼喊Aya却只听见叶声：
+[过渡说明]
 
-> 就是这样，Scipio。然后，一切都会结束。
->
-> "That's it, Scipio, then it's over."
+它要求 Scipio 更深入地观察死亡，把恐惧和疼痛称为通往“之后”的自然步骤，却故意不说那个“之后”究竟是什么。
+
+[032]
+> “{i}往深处看，试着理解其中的意义。恐惧和痛苦原本就是死亡的一部分，可在那之后……{/i}”
+> "{i}Look deeply, and try to understand the meaning. Fear and pain are a natural part of death, but after...{/i}"
+
+[过渡说明]
+
+Scipio 到处寻找能让自己弄懂这一切的线索，随即被从内向外的剧痛击中，心肺仿佛同时痉挛。他惨叫出声，叶声却仍把继续承受描绘成结束前的最后一步。
+
+[033]
+> “{i}就是这样，Scipio，接下来就结束了。{/i}”
+> "{i}That's it, Scipio, then it's over.{/i}"
+
+[过渡说明]
+
+Scipio 这才拼命呼喊 Aya，反复求救，说自己被困住了。真正的 Aya 随即叫出他的名字，把他唤回身体；他蜷在地上，满身汗水与泪水。这次侵入没有显示他已同意对方尚未公开的最终要求。
+
+### B. 日常对话与碎金短句、中句
+
+[034]
+> “{i}我们亲眼见过……{/i}”
+> "{i}We witnessed it...{/i}"
+
+情境：宫中简报谈到地球 avia pox 危机，Amicus愤怒质问 Parents 为何让那位人类看起来像生物武器；Scipio脑中随即重现大学旧址的叶声片段，并因认出枯叶般余响而主动转移思路。
+
+[035]
+[关联心声，发声者未明]
+> “{i}事情从来都不照你想的那样发展，是不是？{/i}”
+> "{i}Nothing ever works out like you think, does it?{/i}"
+
+情境：第二次训练中，Scipio 已从 Parents 的视角退回身体，左侧头部剧痛，Aya 还未醒来。这句反问夹在他的咒骂与等待之间，像又一次落空后的冷嘲；原文没有确认发声者，因此也不能用它证明 The Leaves 曾追入 Parents 所在层面。
 
 ## 十、沉浸式扮演操作手册
 

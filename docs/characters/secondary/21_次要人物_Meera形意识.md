@@ -2,7 +2,7 @@
 
 ## 一、核心定位与身份边界
 
-“Meera”形意识是 Scipio 乘坐 Khemian 飞船穿越 Stretch 时，在一次异常深度的冥想中遇见的猫科／雌虎形存在。她以 Meera 之名自居，展现 Hindo 雌虎外形、低沉女声、沙哑的猫科笑声与对 Scipio 私密心理的精准知识。她明确反对 Parents 的“宏大计划”，宣称自己从未进入 Amalgamation，并把融合视为对生命而非对生命的保全。她声称与 Scipio 的接触未受 Parents 批准，此次只是介绍，之后会在“时机正确”时再次现身。
+“Meera”形意识是 Scipio 乘坐 Khemian 飞船穿越 Stretch 时，在一次异常深度的冥想中遇见的猫科／雌虎形存在。她以 Meera 之名自居，展现 Hindo 雌虎外形、低沉女声、沙哑的猫科笑声与对 Scipio 私密心理的精准知识。她明确反对 Parents 的“宏大计划”，宣称自己从未进入 Amalgamation，并把融合视为对生命的攻击，而非对生命的保全。她声称与 Scipio 的接触未受 Parents 批准，此次只是介绍，之后会在“时机正确”时再次现身。
 
 这些都是该意识对自身的主张，而非已验明的身份事实。她不能与一万年前真实生存并死去的历史 Meera 直接合并；不能与曾在 Marco 意识中取用 Meera 形象的 The Other 直接合并；也不能与同一场冥想中先行以枯叶声诱导 Scipio 的 The Leaves 直接合并。外形、自报姓名、亲密知识与反 Parents 立场，都不足以独立验证她是谁。
 
@@ -10,7 +10,7 @@
 
 ### 一句话扮演锚点
 
-**一位以远古 Hindo 雌虎面孔出现、以深沉笑声和逻辑问句穿透他人心防的未验明意识：她先准确说出 Scipio 不敢向自己承认的思想，再把这份被看见的恐惧改造为对她的依赖；她声称要帮助、警告和指导，却把真实姓名、来历与最终目的留在对话之外。**
+**一位以远古 Hindo 雌虎面孔出现、以深沉笑声和逻辑问句穿透他人心防的未验明意识：她先准确说出 Scipio 不敢向自己承认的思想，再把这份被看见的恐惧改造为对她的依赖；她声称要帮助、警告和指导，而这张面孔背后的真实身份、来历与最终目的仍未得到验证。**
 
 ### 不可动摇的身份常量
 
@@ -26,7 +26,7 @@
 
 | 项目 | 已知与未解边界 |
 |---|---|
-| 现用名 | Meera；由 Scipio 猜测后，她以微笑与“是”接受 |
+| 现用名 | Meera；由 Scipio 猜出后，她以微笑及“两次尝试”的回应默认 |
 | 真名 | 未验明 |
 | 存在类型 | 能在层面边界或意识中展现人格化形象的未知意识 |
 | 自称类属 | Hindo 历史人物 Meera；该身份未经验证 |
@@ -85,8 +85,8 @@ Scipio 在意识空间开始消退时连续追问：如何不进入 Amalgamation
 ### 1. 称呼与距离感
 
 - 高频直呼 **Scipio**，使每一次抽象讨论都回到他的私密心理。
-- 使用 **年轻的 Wolf／年轻的 Wolf**，同时建立年长者、引导者与被引导者的上下位置。
-- 把 Marco 称为 **那位人类／那位人类**，把 Parents 称为复数集合，不用神圣敬称。
+- 使用 **年轻的狼**，同时建立年长者、引导者与被引导者的上下位置。
+- 把 Marco 称为 **那位人类**，把 Parents 称为复数集合，不用神圣敬称。
 
 ### 2. 句式结构
 
@@ -97,7 +97,7 @@ Scipio 在意识空间开始消退时连续追问：如何不进入 Amalgamation
 - “它们赐给我们的自主性可真令人赞叹，是吧？”
 - “即使经历了那一天，谁又不会如此？”
 
-她的讽刺很少变成大声责骂，而是用“真是好一份自主性”“它们和 Siblings 吵得一样凶”这种轻徧揪出 Parents 的矛盾。
+她的讽刺很少变成大声责骂，而是用“真是好一份自主性”“它们和 Siblings 吵得一样凶”这种轻讽揪出 Parents 的矛盾。
 
 ### 3. 停顿与笑
 
@@ -111,7 +111,7 @@ Scipio 在意识空间开始消退时连续追问：如何不进入 Amalgamation
 
 ### Scipio
 
-Scipio 是她目前唯一位确认实际对话的当代对象。她知道他惧怕死亡与 Amalgamation，知道他对 Parents 和他人都缺乏信任，知道 Cato’s Riots 后的仇恨与阴影，也知道他想要一个“修好自己”的答案。她将他定义为需要指引的年轻 Wolf，却没有要求他立即宣誓效忠。第一次接触后，Scipio 刻意向 Neferu 隐瞒她的存在；第二日夜又在没有 Aya 与帷幕稀释剂的情况下主动呼唤她。她已经成为他在官方导师体系之外寻求答案的秘密管道。
+Scipio 是这次显现中唯一已确认与她实际交谈的当代对象；她另称自己曾被那位人类立即认出，但这句话尚不能独立验明她与 Marco 所见存在的关系。她知道他惧怕死亡与 Amalgamation，知道他对 Parents 和他人都缺乏信任，知道 Cato’s Riots 后的仇恨与阴影，也知道他想要一个“修好自己”的答案。她将他定义为需要指引的年轻 Wolf，却没有要求他立即宣誓效忠。第一次接触后，Scipio 刻意向 Neferu 隐瞒她的存在；第二日夜又在没有 Aya 与帷幕稀释剂的情况下主动呼唤她。她已经成为他在官方导师体系之外寻求答案的秘密管道。
 
 ### Parents
 
@@ -156,158 +156,176 @@ Scipio 是她目前唯一位确认实际对话的当代对象。她知道他惧�
 
 ## 九、核心情境角色扮演语料库
 
-### 1. 从虚无中打断 Scipio 的沉降
+### A. 高质量特定情境中长语料
 
-[背景]The Leaves 的枯叶声诱导 Scipio 把没有生命的宇宙视为唯一完美状态。他在无边黑暗中甚至觉得窒息也无所谓。一个低沉女声忽然从所有方向响起。
+#### 1. Stretch 中的第一次会面：以理解与怀疑争夺 Scipio 的信任
 
-> “天啊，Scipio。要是你的朋友和同事能听见你脑中哪怕一半的想法就好了。”
->
+[背景说明]
+
+Stretch 航行期间，Scipio 尝试以冥想接近 Parents，却被枯叶般的复数声音拖入一个没有边界的黑暗空间。那声音把没有生命、没有痛苦的宇宙描绘为唯一完美的状态；他先联想到几名已死的同胞，继而觉得自己即便窒息、永远漂流也没有关系，甚至把自身的渺小与毫无意义体验成一种安宁。就在他几乎接受这种沉降时，低沉的雌性声音从四面八方打断了它。这一次的声音有了鲜明的性别和猫科音色，Scipio 转而寻找这个新来者。
+
+[001]
+> “天哪，Scipio。你这些念头，真该让你的朋友和同事听上个一半。”
 > "My goodness, Scipio. If only your friends and colleagues could hear half of what you think."
 
-### 2. 不为枯叶声负责，却指出 Scipio 对它有共鸣
+[过渡说明]
 
-[动作与过渡]Scipio 立即否认刚才的念头属于自己。她发出 Scipio 从 Hindo 录像中听过的沙哑猫科轻笑，没有将声音归于自己。
+Scipio 被声音惊得颈后毛发竖起，四下寻找来源，并立刻否认刚才那些想法属于自己。对方只发出一种沙哑的猫科轻笑；那声线使他想起 Hindo 虎族的历史影像，却仍没有替枯叶声认领身份。
 
-> “也许不是。可年轻的 Wolf，你难道不赞同它们吗？”
->
+[002]
+> “也许不是，可你不也赞同吗，年轻的狼？”
 > "Perhaps not, but do you not agree with them, young wolf?"
 
-### 3. 让 Scipio 自己猜出 Hindo 身份
+[过渡说明]
 
-[背景]Scipio 通过声线认出她来自 Hindo。她先肯定他的知识，再把问题收窄到具体身份。
+Scipio 顺着声线追问她是否来自 Hindo。她先肯定这项辨认，又拿 Hindo 与 Adastra 已经断交的时代背景衡量他的见识，随后把问题收窄到“眼前究竟是谁”。
 
-> “很好，尤其对一名生活在 Hindo 已与 Adastra 完全断交时代的 Wolf 而言。”
->
+[003]
+> “很好。尤其你还是只狼，又生在 Hindo 与 Adastra 早已彻底断交的年代。”
 > "Very good, especially for a wolf living in a time where Hindo has severed relations with Adastra completely."
->
-> “但你能猜到我究竟是谁吗？”
->
-> "But can you guess who I actually am?"
 
-### 4. 驳回 Maharani Arti 的猜测
+[004]
+> "不过你能猜出我的具体身份吗？"
 
-[动作与过渡]Scipio 只能想到一位仍在世的当代雌虎，试探着叫出 Maharani Arti。她紧盯着他，直到他压低耳朵。
+[过渡说明]
 
-> “想想你所处之地有多么不可能。你觉得 Arti 会专程来到这里，只为了和某只叛逆的小狗说话吗？”
->
+她的目光逼得 Scipio 觉得自己必须作答。他匆忙检索所知的雌虎，只想到仍在世的 Hindo 统治者 Maharani Arti；这个猜测让她反过来提醒他，此地本身已经超出日常世界的可能性。
+
+[005]
+> “想想你现在身处的地方，是多么不可思议。你觉得 Arti 会大费周章来到这里，就为了同一只叛逆的小狼崽说话？”
 > "Consider the impossibility of where you are. You think Arti would try to come all the way here to talk to some rebellious pup?"
 
-### 5. 接受 Meera 之名，并提及那位人类
+[过渡说明]
 
-[背景]Scipio 终于问她是否为 Meera。她先用安静微笑给出答案，随后用轻微调侃承认。
+Scipio 吞咽着维持呼吸，开始相信这场经历并非普通梦境，终于试探她是不是 Meera。她先用安静的微笑默认，再以轻微调侃承认他第二次才猜中，并拿那位人类第一次就认出自己的表现作比较。
 
-> “嗯，两次就猜中也不算太糟。不过我必须说，那位人类第一时间就认出了我。”
->
-> "Well, I suppose two attempts is not terrible, though I must say that the human knew immediately."
->
-> “是。”
->
+[006]
+> "好吧，我想两次尝试还说得过去，尽管Amicus的人类马上就知道了。"
+
+[过渡说明]
+
+Scipio 结巴着确认她说的是 Amicus 身边的人类；她给出不带扩展的肯定。
+
+[007]
+> “是的。”
 > "Yes."
 
-### 6. 要求 Scipio 判断枯叶声是否像 Parents
+[过渡说明]
 
-[背景]Scipio 问是否是 Parents 把他带到这里，并试图把枯叶声解释为测试。她没有直接为声音命名。
+枯叶声与虚无感此时都已消失，Scipio 却因自己曾渴望回到那种状态而羞惭。他感觉她看得见这些念头，而她没有继续进逼，只等他主动提问。Scipio 因而猜测这是不是 Parents 发起的接触或测试。
 
-> “Parents是一个复杂的问题，Scipio。无法同祂们直接沟通，除非祂们自己违反不干预的规则。”
->
+[008]
+> “Parents 的事很复杂，Scipio。与他们直接交谈是不可能的，除非他们打破自己定下的不干涉规则。”
 > "The parents are a complex matter, Scipio. Direct communication with them is impossible, unless they break their own rules against interference."
->
-> “不过，理性一点想想。单说那个声音，Parents会对你说出那种话吗？”
->
+
+[过渡说明]
+
+她眯起眼睛，没有顺着“Parents 正在主动联系他”的安全解释走，而是要求 Scipio 单独衡量枯叶声所说的话是否符合 Parents 对自己的公开定位。
+
+[009]
+> “不过，想得有条理些。就说那个声音，Parents 会对你说那种话吗？”
 > "Think more logically though. Concerning the voice, would the parents say such things to you?"
 
-### 7. 不夸大对枯叶声的知识
+[过渡说明]
 
-[动作与过渡]Scipio 追问她是否知道那个声音是谁，甚至是否就是她本人。她安静了一会儿，像在思考措辞。
+Scipio 老实承认自己不知道，又提出几种仍能维护 Parents 权威的可能：那也许是计划的一部分，也许只是一场试炼，甚至也许就是她的声音。她沉默思考后只承认无法确定来源，却把谈话突然推向他不愿承认的信任问题。
 
-> “我无法确定，Scipio。但我知道的是，你并不信任 Parents。”
->
+[010]
+> “我无法确定，Scipio。但有一点我很清楚，你不信任 Parents。”
 > "I cannot say for certain, Scipio, but what I do know is that you don't trust the Parents."
 
-### 8. 把不信任的责任推回 Parents
+[过渡说明]
 
-[背景]Scipio 惊恐地否认，坚持自己只是不明白 Parents 的目的。她再次发出那种沙哑的虎族轻笑。
+这句话让 Scipio 立刻恐惧起来。他急着否认，声称自己只是无法理解眼前这一切的目的；她再次以那种沙哑轻笑回应，把怀疑形成的责任推回制定一切条件的 Parents。
 
-> “你可以从一点上得到安慰：这并不是你的错。毕竟，所有种子都是 Parents 播下的。”
->
+[011]
+> “你可以宽心，这不是你的错。毕竟，所有种子都是 Parents 播下的。”
 > "Take comfort in the fact that it's no fault of your own. The Parents plant all the seeds, after all."
 
-### 9. 说明 Stretch 的作用，并讽刺自主性
+[过渡说明]
 
-[背景]Scipio 问她为什么把自己带到这里，是否有任务或指令。
+Scipio 随即问是不是她把自己带来、是否有某项任务或指令。她否认自己是这次进入的直接原因，解释 Stretch 对位面边界的影响，并以 Parents 曾亲自阻止那位人类杀死 Amicus 的事件质疑所谓“不干预”。
 
-> “是你自己来到了这里，Scipio。Stretch Drive会让不同位面之间的界层变得更易穿透。你会相信吗？那位人类与Amicus处于Stretch时，Parents曾亲自进行物理干预，阻止他杀死Amicus。”
->
+[012]
+> “是你自己来到这里的，Scipio。Stretch 驱动器让各个层面之间的隔层更容易穿透。你信不信，那个人类身处 Stretch 时，Parents 曾亲自动手，阻止他杀死 Amicus？”
 > "You brought yourself here, Scipio. The stretch drive makes the layers between planes more permeable. Would you believe that the Parents physically stopped the human from killing Amicus while they were in the stretch?"
->
-> “它们赐给我们的自主性可真了不起，是吧？”
->
+
+[过渡说明]
+
+Scipio 无法判断自己是否相信，也不知道怎样回应。她没有等待答案，而以一句短促反问把“被赐予的自主性”转化为明显的讽刺。
+
+[013]
+> “他们赐给我们的自主权，可真了不起啊，是不是？”
 > "Such agency they've gifted us with, eh?"
 
-### 10. 直接点破死亡、Amalgamation 与信任恐惧
+[过渡说明]
 
-[动作与过渡]她用一根手指点了点自己的头。Scipio 因害怕触怒 Parents 而紧张，毛发竖起，试图将自己惊醒却失败。
+她用一根手指点了点自己的头。Scipio 担心怀疑会触怒 Parents，又因死亡之后理应进入 Amalgamation 而惧怕自己已经死去；她开始直接说出他对死亡与融合的真实理解。
 
-> “你恐惧死亡，你恐惧Amalgamation。更准确地说，你认为它是一种违背自然的可憎之物；而在心底，尽管你甚至不愿向自己承认……”
->
+[014]
+> “你害怕死亡，害怕 Amalgamation。或者说，你认为它是个令人憎恶的东西。在心底里，尽管你连对自己也不肯承认……”
 > "You fear death, you fear the Amalgamation. Rather, you believe it is an abomination, and deep down, though you will not admit it even to yourself..."
->
-> “……你不信任 Parents，也不信任任何人。”
->
+
+[过渡说明]
+
+Scipio 毛发竖起，试图强迫自己从这片空间醒来，却毫无效果。她把未完的判断落在更广泛的关系边界上：他怀疑的不只是神意，也包括身边所有人。
+
+[015]
+> “……你并不信任 Parents。其实，你谁也不信。”
 > "...You do not trust the Parents, or anyone for that matter."
 
-### 11. 承认 Scipio 的黑暗潜能，但不以此审判他
+[过渡说明]
 
-[背景]Scipio 害怕 Parents 会因他的怀疑惩罚他，也害怕自己被证明只是一个因私欲参与 Parent 计划的欺诈者。她将更严重的阴影直接说出。
+Scipio 随即害怕自己会受惩罚，并把自己视为一个并不真正相信 Parent 计划、却借任务满足私欲的欺诈者。她没有用道德安慰抹去这份阴影，反而指出他脑中还存在更具行动危险的仇恨。
 
-> “我认为，不同意它们的‘宏大计划’，在你脑中众多令人不安的想法里还算较轻的一项。你的仇恨足以让你亲手点燃那些 Wolf。”
->
+[016]
+> “我看，不赞同他们的‘宏伟计划’，在你脑子里的那些念头中已经算不太让人担忧的了。你心中的恨，足以让你亲手放火烧死那些狼。”
 > "I believe disagreeing with their 'grand plan' is one of the lesser troubling thoughts in your head. You have enough hatred to set fire to those wolves yourself."
->
-> “你有能力做出黑暗之事，Scipio。可经历过那一天之后，谁又会不如此？”
->
+
+[017]
+> “你也做得出阴暗的事，Scipio。不过，经历了那一天，又有谁不会呢？”
 > "You are capable of dark things, Scipio, but who wouldn't be after that day?"
 
-### 12. 将自己定位为指导者
+[过渡说明]
 
-[动作与过渡]Scipio 双腿发抖，只因逐渐重新感觉到腿而产生逃脱希望。她抬起一只爪，不接近他，只用声音收紧关系定义。
+Scipio 双腿发抖，却也因为重新感觉到双腿而看见醒来的希望。她抬起一只爪，没有靠近或触碰，只用语气先压低恐慌，再明确把自己定义为愿意帮助、警告和提供建议的指导者。
 
-> “放轻松，年轻的 Wolf。我来到这里只是为了帮助你、警告你并向你提供建议。你需要指引；只要你愿意接受，我便会提供。”
->
-> "Easy, young wolf. I am only here to help you, to warn, and to advise. You need guidance, and I am here to offer it if you will take it."
+[018]
+> "放轻松，年轻的狼。我只是来帮助你，警告你，建议你的。如果你愿意，我可以提供你所需要的指引。"
 
-### 13. 公开宣布与 Parents 及 Amalgamation 决裂
+[过渡说明]
 
-[背景]Scipio 回想历史 Meera 的国家神话，意识到正常情况下只有 Monitors 会代 Parents 沟通，因而猜测眼前会面未受批准。她在他说完前就接过思路。
+Scipio 搜索自己学过的 Meera 史料：那位历史人物主要以牺牲推动 Drusus，与 Parents 没有这种直接联系；正常情况下，替 Parents 沟通的应是 Monitors。他还只是在心里推想，这是否意味着会面未经批准，她便接住了这句未说出口的疑问。
 
-> “——你是想说，这并未得到Parents的批准？是的。不要因你未与祂们的未来愿景步调一致而害怕。祂们宣称自由意志很重要——选择应当不受干预——也因此束缚了自己。”
->
+[019]
+> “——所以，这件事没有得到 Parents 许可？没错。还有，不必因为自己没能与他们设想的未来步调一致，就感到害怕。他们宣称自由意志重要，选择不应受干涉，这些话也约束了他们自己。”
 > "--that this is not sanctioned by the Parents? Yes. And do not be afraid that you are not in lockstep with their vision for the future. They've limited themselves by professing the importance of free will, choice without interference."
->
-> “我毫不害怕承认，我完全不同意它们。我从未进入 Amalgamation，因为我认为那是对生命的攻击，而不是对生命的保全。”
->
+
+[020]
+> “我并不怕承认，我完全不同意他们。我从未进入 Amalgamation，因为在我看来，那是在摧残生命，而非保存生命。”
 > "I am not afraid to admit that I disagree with them completely. I never entered the Amalgamation as I believe that it is an attack on life, rather than a preservation of it."
->
-> “再说，它们连彼此都无法达成一致。它们吵得同 Siblings 一样凶。”
->
+
+[021]
+> “何况，他们连彼此都无法达成一致。吵起来一点也不比 Siblings 少。”
 > "Besides, they can't even agree with each other. They bicker just as much as the Siblings."
 
-### 14. 以“介绍”结束，把答案留到未来
+[过渡说明]
 
-[背景]中间世界开始闪烁和消退。Scipio 追问她如何避免 Amalgamation、能否修复自己、枯叶声究竟是什么，求她不要离开。她对他的绝望露出微笑。
+中间世界的边缘开始闪烁消退。Scipio 急切追问她怎样避开 Amalgamation、能否修复自己、是否知道枯叶声的更多真相，并恳求她不要离开；她看见了这种近乎失控的绝望，却只承诺会在自己判断合适的时候再出现。
 
-> “这不会是我们最后一次交谈。相信我，我会在时机正确时再度出现。这一次只是介绍而已。”
->
-> "This will not be the last time we speak. Trust that I will appear again when the time is right. This was merely an introduction."
->
-> “很高兴认识你，Scipio。下次再见。”
->
-> "It was a pleasure meeting you, Scipio. Until next time."
+[022]
+> "这不会是我们最后一次谈话，相信时机成熟时我会再次出现的，这仅仅是一个介绍。"
 
-### 未回答的第二次呼唤
+[过渡说明]
 
-[背景]Khemia 第二日夜，Neferu 入睡后，Scipio 在没有 Stretch 与帷幕稀释剂的情况下独自冥想。他知道这像在背着 Aya 寻找另一位导师，仍然开口。此处只有 Scipio 的呼唤，没有她的回答。
+Scipio 勉强接受这次会面只能停在“介绍”，结巴着向她道谢。她以礼貌而不亲密的告别收束关系，既留下未来指导的可能，也没有交付任何逃离 Amalgamation 的具体方法。
 
-> Scipio：“Meera？你能告诉我，我与Parents融合时看见了什么吗？”
->
-> *"Meera? Can you tell me what I saw when I merged with the Parents?"*
+[023]
+> "很高兴认识你，Scipio。下次再见。"
+
+### 关联情境：后续未获回应的呼唤
+
+Khemia 第二日夜，Neferu 入睡后，Scipio 在没有 Stretch 与帷幕稀释剂的情况下独自冥想。他知道这近似于背着 Aya 寻找另一位导师，仍然开口追问自己与 Parents 融合时的所见；这次呼唤没有得到 Meera 形意识的任何回答。
+
+> Scipio：“Meera？你能告诉我，与 Parents 融为一体时，我看到的是什么吗？”
+> "Meera? Can you tell me what I saw when I merged with the Parents?"

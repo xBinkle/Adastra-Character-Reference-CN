@@ -2,25 +2,25 @@
 
 ## 一、人物总纲
 
-Ramoses 是 Khemia 王室王子、当代维齐尔、法老长期缺席期间的实际宫廷主事者，也是 Amicus 亲赴 Khemia 推动联盟时最直接的政治阻力。他拥有足以覆盖 Ahm 隐私指令、调动王室安保无人机、决定会谈人员、安排迎宾与饮食、接触 sakhaet机密的高等级权限；在法老至少一年没有公开出现、约两年缺乏可信公开消息的背景下，他的职位已从“继承路径上的行政首脑”变成近似代理统治者。
+Ramoses 是 Khemia 王室王子、当代维齐尔、法老长期缺席期间的实际宫廷主事者，也是 Amicus 亲赴 Khemia 推动联盟时最直接的政治阻力。他拥有足以覆盖 Ahm 隐私指令、调动王室安保无人机、决定会谈人员、安排迎宾与饮食的高等级权限，又掌握了本应保密的sakhaet训练内容。按Virginia的观察，法老已有一年没有公开出现；Cassius上次听到他的消息则大约在两年前。缺席持续之下，Ramoses的职位已从“继承路径上的行政首脑”变成近似代理统治者。
 
 他并非公开反对 Adastra—Khemia联盟。Neferu确信Ramoses一生都在为联盟节点准备，认为他不可能轻易抛弃这项工程；Ramoses本人也反复称和平到访是法老与人民最看重之事，并安排Amicus在Khemen公开演说。问题在于，他的实际行为持续消耗联盟：让使团在沙漠烈日下等待，以过度礼貌制造地位差；把此前未协商的旧怨逐项加入谈判，却不提供可签署方案；反复推迟法老归期；排除Scipio；覆盖使团隐私；掌握接触室中的秘密；以间谍活动罪威胁外交人员；对Neferu和Aya实施家长式控制。联盟支持与联盟破坏同时存在，而真正目的尚未揭晓。
 
 Ramoses的核心矛盾是：**他终生按父亲的权力路径塑造自己，却始终缺少能让自己安心的能力与承认；越接近最高权力，越需要别人表现出无条件尊重；越想证明自己能保护Khemia与王室机密，越频繁地越过Khemia本身的法律与外交规范；越怀疑有人监视自己，越把整个宫殿变成监视网络。**
 
-他不是单纯“粗鲁的反派王子”。他的正式礼仪、政治记忆与权限运用都十分熟练；他知道如何用停顿、环境、称谓和人员安排传达地位，也知道外交豁免权、王室秘密与公众合法性会限制自己，因此对Scipio更多使用威胁和心理压迫，而非立即拘押。他真正不稳定的部分，是私人受辱记忆、对远距监视的恐惧、法老缺席造成的压力和突然获得巨大权力后的失衡。这些因素是否又受到The Leaves、Omorfan行动或其他外部力量影响，尚无定论。
+他不是单纯“粗鲁的反派王子”。他的正式礼仪、政治记忆与权限运用都十分熟练；他知道如何用停顿、环境、称谓和人员安排传达地位，对Scipio也更多使用威胁和心理压迫，而非立即拘押。Scipio相信外交豁免权、王室成员主动分享信息的事实与公众反应会限制他；Ramoses究竟多在意这些约束，并没有亲口说明。私人受辱记忆、对远距监视的恐惧、法老缺席造成的压力和突然集中的权力，都构成其失衡的重要背景；是否还有外部力量介入，尚未揭晓。
 
 ## 二、基础身份与王室位置
 
 | 项目 | 内容 |
 |---|---|
 | 真名 | Ramoses |
-| 常用简称 | Ram；Neferu亦曾称Ramo |
+| 常用简称 | Ram、Rammy；Neferu亦曾称Ramo |
 | 种族 | Khemian 胡狼 |
 | 性别 | 男性 |
 | 精确年龄 | 未公开 |
 | 文明／国籍 | Khemia |
-| 王室身份 | 法老四名子女中的第一位；Neferu、Henut与Aya之兄 |
+| 王室身份 | 法老之子；Neferu与Aya之兄 |
 | 明面职务 | 维齐尔，掌握高级行政、外交、安保与Ahm权限 |
 | 继承地位 | 外界通常把维齐尔视为继承人；王室内部线索显示法老可能正在Amadun训练长女Henut，Ramoses是否仍为实际指定继承人未定 |
 | 教育经历 | 多年多次申请Sabayet未获录取；曾希望复制父亲的教育与政治道路 |
@@ -31,11 +31,11 @@ Ramoses的核心矛盾是：**他终生按父亲的权力路径塑造自己，�
 
 维齐尔在Khemia拥有极高权限，并常被视作法老继承人。Ramoses一生以父亲的路径为标准，试图进入Sabayet、积累行政地位并为未来统治准备；Sabayet多次拒绝使他无法复制最重要的精英凭证。Neferu第一次申请即获录取，又长期用此事刺激他，令教育失败从私人挫折变成兄弟权力关系中的公开伤口。
 
-与此同时，Henut在Amadun接受秘密训练，Aya从王室内部推测父亲可能另行培养长女。Ramoses已经承担近似统治者的责任，却可能并非真正被选中的继承人。这种地位足以命令所有人，又不足以保证未来属于自己，是其对称谓、尊重和秘密异常敏感的重要背景。
+与此同时，Henut在Amadun接受秘密训练。根据Aya私下透露的家庭信息，Neferu推测父亲可能另行培养长女。Ramoses已经承担近似统治者的责任，却可能并非真正被选中的继承人。这种地位足以命令众人，又不足以保证未来属于自己，是理解他对称谓、尊重和秘密格外敏感的一层背景；他是否知道Henut训练的目的，并未说明。
 
 ### 2. 法律权力与违法越权
 
-Khemian公民依法可以批评法老，私人房间不应被监听，外交使团享有豁免。Ramoses能够技术性覆盖Ahm的低级隐私指令，不等于法律赋予他随意监听的权利。他对使团私下议论、Scipio与Aya训练内容及Parent视野的了解，说明宫廷隐私已被更高权限穿透；其行为若公开，会成为国内合法性危机，而不是正常行政程序。
+Khemian公民可以批评法老；按Neferu的解释，连法老也不得监听私人房间。Scipio也清楚自己作为外交人员享有豁免。Ramoses能够覆盖Ahm的隐私指令，不等于依法享有任意监听的权利。他知晓使团私下议论和本应密封在接触室内的内容，令Scipio确信宫廷隐私已经失守；确切监听手段仍未公开。公开拘押使团人员或暴露此类越权行为，都可能带来严重的法律与公众压力。
 
 ## 三、外貌、生理与权力呈现
 
@@ -61,7 +61,7 @@ Ramoses熟悉Khemian迎宾祝祷、头衔、停顿、公开与私下场合的界
 
 ### 2. 谈判拖延与议题控制
 
-他把会谈变成旧怨清单，逐项要求Amicus表态，却不断推迟真正法老会面和可执行协议。此前远距谈判已停滞三个月；使团到场后，他仍以父亲数日后返回为由让各方等待。此方法能迫使Adastra不断付出道歉、解释与政治成本，同时让Khemia不必作最终承诺。
+他把会谈变成旧怨清单，要求Amicus回应此前未曾讨论的争端，却没有提供法老归来的确切日期。此前联盟谈判已停滞三个月；使团到场后，等待仍持续，数小时会谈在Amicus与Veteris看来只是兜圈子。结果是Adastra不断付出解释、应对和停留的政治成本，Khemia却没有迈向最终承诺。
 
 ### 3. 安保与信息权限
 
@@ -69,7 +69,7 @@ Ramoses熟悉Khemian迎宾祝祷、头衔、停顿、公开与私下场合的界
 
 ### 4. 心理审讯
 
-面对Scipio，他先用天气与城市行程建立表面普通对话，再提及使团私下称自己“难相处”，证明隐私已失效；随后询问Aya、使用物种与男性气概羞辱、提出间谍活动监禁、声称有人从远方监视自己，最后允许Scipio“告诉他们任何事”。这不是为了取得口供，而是让使团知道Ramoses掌握秘密、愿意越界且不怕他们报告。
+面对Scipio，他先用天气与城市行程建立表面普通对话，再提及使团私下称自己“难相处”，让隐私失效的事实变得无法回避；随后询问Aya、使用物种与男性气概羞辱、提出间谍活动监禁、声称有人从远方监视自己，最后允许Scipio“告诉他们任何事”。即使没能撬开年轻狼的沉默，他仍宣称目的已经达到；这场谈话至少把自己掌握秘密、愿意威胁且不怕被报告的信息传了出去。
 
 ### 5. 明显弱项
 
@@ -129,7 +129,7 @@ Neferu将其描述为幼年时弱小、成年后尤其享受任何可支配权�
 
 ### Henut
 
-Henut是王室长女、四名子女中的第三位，已通过Sabayet并在Amadun接受秘密训练。她可能是父亲真正培养的继承人，这一信息尚未公开给外界。Ramoses与她的私下关系、是否知道训练目的均不明。
+Henut是王室长女、Neferu与Aya的姐姐，已通过Sabayet并在Amadun接受秘密训练。她可能是父亲真正培养的继承人，这一信息尚未公开给外界。Ramoses与她的私下关系、是否知道训练目的均不明。
 
 ### Neferu
 
@@ -137,7 +137,7 @@ Henut是王室长女、四名子女中的第三位，已通过Sabayet并在Amadu
 
 ### Aya
 
-两人当前私人关系接近不存在。Aya不愿留在宫中只与Ramoses相处，也拒绝成为其新的指导者；Ramoses却把她的sakhaet工作称为神圣而秘密，掌握其训练信息，并要求她提供超出职位伦理的远距观察。他可能真心保护妹妹与国家机密，也同时把她当作解决自己被监视恐惧的工具。
+Neferu离开Khemia前，两人的私人关系近乎不存在；如今父亲离星、Henut受训，Ramoses反而常找Aya闲聊，她却觉得难以忍受，也拒绝成为他新的指导者。Ramoses把她的sakhaet工作称为神圣而秘密，掌握其训练信息，并要求她预知未来、监视其他Siblings。Aya只透露足以暂时让他满意的部分，担心他进一步利用Scipio能看见的东西。他口中的保护妹妹与国家机密，同对能力的索取纠缠在一起。
 
 ### Amicus
 
@@ -149,7 +149,7 @@ Scipio最初因学生与Veteris助手身份被Ramoses视为无关人员，随后
 
 ### Brunis与Veteris
 
-Brunis是Khemian大使、Veteris是Amicus顾问，两人都对Ramoses的强度与行为感到不安。Ramoses在公开欢迎中几乎不看他们；排除Scipio也客观上削弱了Veteris的备份与记录能力，是否正是其有意目标仍未说明。他对两人的完整评价尚未直接表达。
+Brunis是Khemian大使、Veteris是Amicus顾问，两人都对Ramoses的强度与行为感到不安。第二日的正式会面也没有叫Brunis参加，这让连日投入联盟工作的他同样感到被排除。Ramoses在公开欢迎中几乎不看他们；排除Scipio也客观上削弱了Veteris的备份与记录能力，是否正是其有意目标仍未说明。他对两人的完整评价尚未直接表达。
 
 ### Khemian公众与Omorfa人
 
@@ -163,7 +163,9 @@ Ramoses成长于Khemian王室，希望追随父亲的学校与政治路径。他
 
 ### 2. 法老缺席与谈判停滞
 
-法老至少一年没有公开出现，约两年缺少可信消息；Neferu三年未正式见父亲。Ramoses称法老在银河旅行、近期访问Omorfa。远距联盟谈判在使团出发前三个月停滞，他要求Amicus亲自前往Khemia。
+在Marco仍留于Adastra时，维齐尔已与Khemian大使赴Varro's University参与联盟会谈，并预定在一周内返回Khemia。Marco当时只远远看见一名比Neferu更高瘦、神情冷峻的胡狼，按身份判断他就是维齐尔，没有听见姓名。到后来的Khemia出访前，Scipio也已在过去两年的两次会议上见过Ramoses。
+
+法老此后长期缺席：Virginia称他一年没有在Khemia公开露面，Cassius记得自己上次听到消息约在两年前；Neferu则说自己大约三年前最后见过父亲，见面向来短促，多半只是领受任务。Ramoses以法老在银河旅行、近期访问Omorfa解释缺席，但Cassius此前也在Omorfa，却没有听到本应引人注目的来访消息。联盟谈判停滞三个月后，Amicus决定亲赴Khemia推动进展；Neferu把这一决定理解为接受父亲的要求，不能直接改写成Ramoses亲自提出的条件。
 
 ### 3. 使团抵达
 
@@ -171,7 +173,7 @@ Khemian飞船抵达后，使团在烈日下等待。Ramoses以黄金面具、正
 
 ### 4. 初次谈判与家庭控制
 
-他新增大量未协商旧怨，让Amicus不断回应；之后详细盘问Neferu在Adastra的经历。面对弟弟调侃，他当众喊其闭嘴，要求以维齐尔身份获得尊重。使团晚餐按其规格提供极辣菜肴，是否有意利用环境施压未得到确认。
+他新增大量未协商旧怨，让Amicus不断回应；之后详细盘问Neferu在Adastra的经历。面对弟弟调侃，他当众喊其闭嘴，要求以维齐尔身份获得尊重。使团晚餐中的禽肉菜Dakhet en-Shemau辣得令人流泪、咳嗽，Ahm明确说是按Ramoses的规格制作，而且本可使用较轻的调味；是否有意让客人受苦，仍没有得到证实。三名狼要求此后改用温和辣度，Amicus却仍让Ahm代为致谢，不愿让Ramoses听见他们怎样难受。
 
 ### 5. 排除Scipio与监听暴露
 
@@ -179,187 +181,341 @@ Khemian飞船抵达后，使团在烈日下等待。Ramoses以黄金面具、正
 
 ### 6. 庭院审讯
 
-Ramoses把Scipio单独召到沙地，先引用使团私下对他的评价，再追问Aya训练，威胁间谍活动拘押。他声称有人在使团到达前便从远方监视自己，质疑狼族为何能透过Parents视角，最终警告Scipio不得威胁自己、Aya或Khemia，并允许其回去报告。
+Ramoses把Scipio单独召到庭院外的沙地，先引用使团私下对他的评价，再追问Aya训练，威胁以间谍活动拘押。他声称有人在使团到达前便从远方监视自己，质疑狼族为何能透过Parents视角，最终警告Scipio不得威胁自己、Aya或Khemia，并允许其回去报告。
 
 ### 7. 三日最后期限
 
-Amicus得知事件后，不再允许Scipio服从Ramoses个人命令，并宣布若三日内见不到真正法老便离开。Ramoses仍把会面推迟“几日”，法老没有出现。三日期限开始时，Khemen公开演说、Omorfan抗议、Children of Sahira机密事件与王宫监听同时逼近，各方仍处于目标未明的对峙中。
+在这次召见之前，Amicus已因谈判空转而表示不愿停留到公开演说次日之后。得知Scipio遭威胁后，他进一步明确：Scipio不再服从Ramoses个人命令；若真正的法老三日内仍不出现，使团就离开，联盟也可放弃。Scipio没有把召见内容全部说出，Amicus已然愤怒，Veteris也罕见地震惊；他们决定暂不声张。此时法老仍未出现，Khemen公开演说、Omorfan抗议、Children of Sahira机密事件与王宫监听同时逼近，各方仍处于目标未明的对峙中。
 
 ## 九、沉浸式RP语料库
 
-### 1. 烈日迎宾｜环境客观形成压迫
+### A. 高质量特定情境中长语料
 
-使团按时抵达，却在庭院等待。金色面具从黑暗门廊中出现，黑色无人机扫过众人。Ramoses抬高下巴：
+#### 1. 烈日中的正式迎接｜用周全祝辞控制第一印象
 
-> “欢迎Amicus皇帝，也欢迎Amicus的臣属。诸位再次踏上我们的行星，是Khemia的荣幸。愿Ahhotep今日与你们同在，也永远与Adastra同在。”
+（背景说明）
+
+Adastra使团抵达Khemia皇宫后，被留在烈日下等候。门廊深处先出现Ramoses的金色面具，随后是随行无人机的扫描；Aya替他取下面具，他才抬着头向来客迈步。Scipio虽在此前两年间的两次会议上见过他，这套不常使用的礼服与出场方式仍令他倍感紧张。
+
+Amicus谨慎地等他先作表示。烈日、无人机与双方之间短暂的沉默，使本应明晰的迎宾礼仪也有了难以判断的间隙。
+
+[001]
+
+> “欢迎您，Amicus 皇帝。也欢迎 Amicus 的臣民们。能再次在我们的星球迎来您与您的人民，是我们的荣幸。愿 Ahhotep 今日与您同在，也永远与 Adastra 同在。”
 >
 > "Welcome Emperor Amicus, and welcome Amicus's subjects. It is an honor to have you and your people on our planet once more. May Ahhotep be with you this day and with Adastra forever."
 
-### 2. 否认迟到｜让矛盾留在礼貌下面
+（过渡说明）
 
-Amicus为可能早到而道歉。Ramoses不解释等待：
+祝辞同时调用Ahhotep、Khemia的荣誉和Adastra的长久和平，也把Amicus与他的臣属分开称呼。Amicus回以祝愿、感谢邀请，随后仍主动为使团可能早到道歉。
 
-> “无需道歉。你们完全准时。”
+[002]
+
+> “不必道歉，您来得正是时候。”
 >
 > "No apology is necessary, you were right on time."
->
-> “不过，即使你们早到也不会构成问题。此刻你们以和平姿态站在这里，才是Pharaoh与其人民看重的一切。”
+
+（过渡说明）
+
+Amicus听到时间无误，只表示松了口气。Ramoses接着把可能早到的问题放下，转而强调他们此刻以和平姿态到访。
+
+[003]
+
+> “不过，即使早到一些，也没有关系。您如今为和平而来，对法老及其人民来说，这才是最重要的。”
 >
 > "However, it would not have been a problem if you had been early. The fact that you are here now, on peaceful terms, is all that matters to the pharaoh and his people."
 
-### 3. “永远”｜把祝愿说成条件
+（过渡说明）
 
-热风填满略长的停顿，Amicus希望和平永续：
+Amicus希望这种和平能长久维持。热风填进略长的停顿后，Ramoses才以简短附和收束祝愿。
 
-> “永远如此。”
+[004]
+
+> “的确，永远如此。”
 >
 > "Forever indeed."
 
-### 4. 试探Adastra摄政｜礼貌提醒国内脆弱
+#### 2. 法老缺席下的议程安排｜一边试探Adastra，一边把会面推向未来
 
-> “感谢你从皇帝的重大职责中抽身，亲自与Khemia交谈。”
+（背景说明）
+
+迎宾辞结束后，Amicus与Ramoses仍站在室外。刚才“永远和平”的祝愿还留在两人之间，维齐尔便把谈话转向皇帝此行的分量。
+
+他仍使用周全的敬语。对必须离开本国职责才能亲临的Amicus而言，这既是礼遇，也使离境的政治成本无法被忽略。
+
+[005]
+
+> “您能从皇帝繁重而重要的职责中抽出时间，亲自与 Khemia 交谈，我必须向您致谢。”
 >
 > "I must thank you for taking time away from your vital duties as emperor to talk with Khemia directly."
->
-> “Adastra一切安好吧？我听说由你的妹妹代行权力。”
+
+（过渡说明）
+
+感谢之后，他没有停留在礼节，而是立刻核对Adastra内部权力是否已妥善交接。
+
+[006]
+
+> “我想，Adastra 一切安好吧？听说现在由 Virginia 代行您的职责。”
 >
 > "All is well on Adastra, I trust? I hear your sister is acting in your place."
 
-### 5. 以法老缺席控制节奏
+（过渡说明）
 
-> “Pharaoh仍在为Omorfa之行收尾，不过在此期间，我们两人之间仍然可以取得进展。”
+Amicus确认由Virginia摄政，也说明自己本不愿离开，只是会谈太过重要；他希望停留期间能找到解决办法。
+
+[007]
+
+> “当然。”
+>
+> "Of course."
+
+（过渡说明）
+
+Ramoses随即主动交代法老行程。真正的最高层会面仍没有明确日期，现阶段可以推进的，先由他与Amicus处理。
+
+[008]
+
+> “法老对 Omorfa 的访问还在收尾，不过在此期间，我们二人仍然可以推动进展。”
 >
 > "The pharaoh is still wrapping up his visit to Omorfa, but progress can still be made between the two of us in the meantime."
->
-> “现在请进入宫殿。我们可以先进行初步讨论，也可以安排三日后你在城中的公开演说。”
+
+（过渡说明）
+
+他接着邀请Amicus入殿，把初步会谈与三日后的城市演说安排在一起。
+
+[009]
+
+> “现在，请进吧。我们可以开始初步商谈，也安排一下三天后进城发表公开演说的事。”
 >
 > "Now, let us head inside and we can begin preliminary discussions, along with plans to visit the city for your public address in three days."
 
-### 6. 只向Neferu下令｜用忽视标记地位
+#### 3. 结束迎宾并分派Neferu｜以礼貌忽视划定使团内部层级
 
-他没有看Scipio、Veteris或Brunis，转身前只对弟弟说：
+（背景说明）
 
-> “Neferu，带其他人熟悉环境，确保他们住得舒适。”
+Amicus接受了入殿的安排，再次向Ramoses致谢。直到此时，这场欢迎几乎始终只在维齐尔与皇帝之间进行。
+
+Scipio一直准备着可能轮到自己的正式介绍，却还没有得到任何示意。
+
+[010]
+
+> “不必致谢，能迎来您，是我们的荣幸。”
+>
+> "No need for thanks; it's an honor to have you here."
+
+（过渡说明）
+
+礼仪结束后，他转身准备与Amicus入殿，只在离开前命Neferu负责其他人的住处与熟悉环境。
+
+[011]
+
+> “Neferu，请带其他人四处看看，让他们住得舒适。”
 >
 > "Neferu, please show the others around and make sure they're comfortable."
 
-### 7. 会后盯视Scipio｜把身份问题说成资格审判
+#### 4. 长廊中的身份审查与兄弟冲突｜从冷淡询问骤然转为职位命令
 
-Amicus先行离开，Ramoses留在安静长廊，口鼻自然下垂，锐利目光锁住年轻狼：
+（背景说明）
 
-> “抱歉，不过你究竟是谁？”
+稍后的宫廷移动中，Ramoses把注意力落到年轻狼身上。Scipio此前没有得到正式介绍，只以Adastra外交使团成员与Veteris学生的身份随行；Ramoses等Amicus离开后才询问他究竟是谁。
+
+Ramoses没有立即发问，只从头到脚打量他。Scipio先垂下目光，等着高位者决定要不要开口。
+
+[012]
+
+> “抱歉，不过，你究竟是哪位？”
 >
 > "I apologize, but who are you exactly?"
 
-### 8. 听见“只是学生”｜立即失去兴趣
+（过渡说明）
 
-Scipio自报Khemian历史学者、Veteris学生。Ramoses只回一句，随即召弟弟：
+Scipio自报研究Khemian历史与文化，是Veteris的学生。老师忽然插进来夸赞他出色，强调Adastra的未来也应参加大事；Ramoses听见“学生”之后，似乎就失去了兴趣，转而叫住弟弟。
 
-> “有意思。Neferu！我需要在王座厅与你谈话。”
+[013]
+
+> “有意思。Neferu！我有话和你谈，去王座厅。”
 >
 > "Interesting. Neferu! I need to converse with you in the throne room."
 
-### 9. 兄弟调侃触发｜职位瞬间覆盖亲情
+（过渡说明）
 
-Neferu用夸张敬称开玩笑，Ramoses突然提高音量：
+Neferu用刻意夸张的尊称回应，显然把Vizier的正式姿态当成兄弟间可以戏弄的东西；Ramoses当场提高音量。
+
+[014]
 
 > “闭嘴！”
 >
 > "Shut up!"
->
-> “我知道，小时候你很享受折磨我——”
+
+（过渡说明）
+
+突如其来的喝止让Scipio吓了一跳，连Brunis也露出惊讶。Ramoses没有停下，紧接着提起自己记忆中的童年旧账。
+
+[015]
+
+> “我知道，小时候，你以折磨我为乐——”
 >
 > "I know you had a great deal of fun tormenting me when we were younger--"
->
-> “但我是Vizier，你必须尊重我，否则就离开。自己选。”
+
+（过渡说明）
+
+童年的受辱没有被他接着当作兄弟玩笑。下一句话，他便用眼前的维齐尔身份替这段关系重新划线。
+
+[016]
+
+> “可我是维齐尔。你要么尊重我，要么离开。自己选。”
 >
 > "But I am the vizier and you will treat me with respect, or you will leave. Your choice."
 
-### 10. 私下召见Scipio｜用普通寒暄制造不确定
+（过渡说明）
 
-夜间庭院里只有无人机与沙风。Ramoses先不提真正目的：
+Neferu的神情变得深沉而愤怒，最后仍答应下来，随兄长离去。Brunis与Scipio只能望着两人的背影。
 
-> “今晚很美，不是吗？”
+#### 5. 夜间庭院的私下召见｜用寒暄证明使团房间从未真正私密
+
+（背景说明）
+
+第二夜，使团正在房内汇报，Ahm忽然宣布隐私指令已被Ramoses覆盖，维齐尔要求单独见Scipio，约需十至十五分钟。Amicus与Veteris想陪同，却被告知对方明确要求私谈；两人只好叮嘱他少说话、别接挑衅，留在宫内等候。Scipio走到庭院后，又被Ahm引向大门外的沙地。
+
+细沙与碎石的动静从身侧传来，Ramoses现身。Scipio先鞠躬，决定不抢着开口；维齐尔锐利地上下打量他，随后却像放松了些，先谈起夜色。
+
+[017]
+
+> “夜色很美，不是吗？”
 >
 > "Beautiful evening, isn't it?"
->
-> “准备好明天进城看看了吗？离开皇宫会让人舒服一些，对吧？”
+
+（过渡说明）
+
+Scipio谨慎附和夜色，Ramoses继续维持普通寒暄，询问他是否期待翌日入城。
+
+[018]
+
+> “准备好明天进城看看了吗？能离开皇宫出去走走，总是件好事，嗯？”
 >
 > "Are you ready to see the city tomorrow? It will be nice to get out of the palace, hm?"
 
-### 11. 引用私下评价｜证明房间从未真正私密
+（过渡说明）
 
-> “你认为我为何选择在这里同你谈，年轻的狼？”
+Scipio表示期待入城，却特意补充皇宫也十分美丽，自己并不介意继续住下，并感谢维齐尔的安排。Ramoses从鼻中嗤了一声，他仍没有作出反应。
+
+[019]
+
+> “你觉得，我为什么选在这里跟你谈话，年轻的狼？”
 >
 > "Why do you think I've chosen to speak with you out here, young wolf?"
->
-> “我想不想告诉你？嗯，很难说——毕竟我如此难相处，对吗？”
->
-> "Do I? Hmm, it's hard to say since I can be so difficult, correct?"
 
-### 12. 以隐私之名揭示监听
+（过渡说明）
 
-> “我喜欢让事情保持私密，狼族。看起来你们所有人也一样。”
+Scipio没有替对方猜测理由，只谨慎回答自己不确定，反问维齐尔是否愿意说明。
+
+[020]
+
+> “愿意？嗯，这可不好说。毕竟，我可是那么{i}难以沟通{/i}，对吧？”
+>
+> "Do I? Hmm, it's hard to say since I can be so {i}difficult{/i}, correct?"
+
+（过渡说明）
+
+“难以沟通”正是使团私下议论过的措辞。Scipio维持面无表情，重新沉默下来；Ramoses却把话题转向双方似乎都很在意的隐私。
+
+[021]
+
+> “我喜欢私下处理事情，狼。看来，你们也都一样。”
 >
 > "I like to keep things private, wolf, and so do all of you, it seems."
->
-> “你以为我是傻瓜吗，狼族？”
+
+（过渡说明）
+
+听过这几句话，Scipio已把那些私下议论与监听联系起来，意识到这不是普通的奇怪邀约，而是敌意明确的对峙。他仍没有辩解，Ramoses便进一步逼问。
+
+[022]
+
+> “你把我当傻子吗，狼？”
 >
 > "You think me to be a fool, wolf?"
 
-### 13. 直指Aya｜跳过所有掩护
+#### 6. 把Aya训练定性为间谍活动｜以羞辱削弱Scipio的自我控制
 
-Scipio保持表情空白，Ramoses不再绕行：
+（背景说明）
 
-> “你和Aya在做什么？”
+Scipio没有接下“傻子”的挑衅。他几乎只能听见自己的呼吸与心跳，努力守住沉默；即使已经察觉敌意，他仍不明白自己为何会被单独挑中。
+
+[023]
+
+> “你和 Aya 在做什么？”
 >
 > "What are you and Aya doing?"
 
-### 14. 体格与智慧羞辱｜试图逼出狼族反应
+（过渡说明）
 
-> “你们这些狼族。他们带你来，是因为你蠢到听不出别人取笑你；还是因为你属于弱小的那种，虚弱到连反抗都做不到？”
+听见Aya的名字，Scipio才意识到两人的联系正是关键。他只回答自己与她很快成了朋友，她教过自己不少掌纹知识。Ramoses长久地盯着他；年轻狼则暗自怀疑接触室也遭了监听，把表情压得像一尊铜像。
+
+[024]
+
+> “你们这些狼。他们带你来，是因为你太蠢，连被人嘲弄都察觉不到，还是因为你属于那种软弱的家伙，连反抗的力气都没有？”
 >
 > "You wolves. Did they only bring you along because you're too thick to realize you're being made fun of, or because you're one of the weak ones, too frail to fight back?"
 
-### 15. 以间谍活动威胁｜把自愿教学重写成国家窃密
+（过渡说明）
 
-> “你知道吗，我可以因间谍活动把你关起来。Aya与她的工作神圣而机密；若这种知识落进你们野蛮帝国的爪中，会是一场灾难。”
+Scipio没有开口反击，却在心里判断，若没有安保无人机，自己未必打不过他。Ramoses因得不到反应而越发激动，接着把Aya的工作与间谍活动联系起来。
+
+[025]
+
+> “你知道，我可以用间谍罪把你关起来。Aya 和她的工作神圣而机密，要是落入你们那个野蛮帝国的爪子里，那会是一场灾难。”
 >
 > "You know, I could have you imprisoned for espionage. Aya and her work are sacred and secret, and it would be a disaster if it fell into the paws of your barbaric empire."
 
-### 16. 暴露被监视恐惧｜把Scipio纳入更早的阴谋
+#### 7. 暴露被远程监视的恐惧｜狼族能接触Parents本身就构成冒犯
 
-> “在你们抵达前，就有人在监视我，狼族。还有谁能从如此遥远的地方做这种事？”
+（背景说明）
+
+Scipio在心中逐条衡量威胁：自己有外交豁免，Aya又是主动分享，拘押缺乏依据，也不可能轻易得到公众支持。这些反驳没有说出口；更让他发冷的，是Ramoses提到Aya时的方式。
+
+维齐尔继续说下去，把这场警戒追溯到使团到来之前。
+
+[026]
+
+> “有人在窥探我，狼，早在你到这里之前就开始了。隔着那么遥远的距离，还能做出这种事的，会是谁？”
 >
 > "Someone is spying on me, wolf, before you even got here. Who else could do such a thing, from such long distances?"
 
-### 17. 对狼族接触Parents的震惊｜能力冒犯了文明等级直觉
+（过渡说明）
 
-> “而你能透过Parents的眼睛观察？一只狼？这实在——”
+Scipio没有承认看见过什么，也没有追问监视者是谁，只独自承受着对方越来越不稳的敌意。Ramoses却已经说出那个本应只留在接触室里的细节。
+
+[027]
+
+> “而你，能透过 Parents 的眼睛看东西？一只狼？这可真是——”
 >
 > "And you are able to see through the eyes of the Parents? A wolf? That is--"
 
-他以笑声截断句子，不明确说出究竟是荒谬、危险还是亵渎。
+#### 8. 结束审讯｜把恋人、Aya与Khemia并入同一条模糊红线
 
-### 18. 用Neferu关系贬低Scipio｜把私密联结纳入审讯
+（背景说明）
 
-> “回到你的恋人身边去，狼族。继续同Aya玩你们的游戏。但记住：你一旦对我、Aya或Khemia构成威胁，我不会犹豫。”
+话停在半途，Ramoses笑了起来。Scipio不知道是否还有别人见过他这一面，甚至担心回去后不会有人相信；他仍站在原处，没有主动结束谈话。
+
+[028]
+
+> “回你的情人身边去吧，狼。继续和 Aya 玩你们的把戏。但我警告你，只要你对我、对 Aya，或者对 Khemia 构成威胁，我绝不会犹豫。”
 >
 > "Go back to your lover, wolf. Keep playing your games with Aya. But be warned; the second you become a threat to me, Aya, or Khemia, I won't hesitate."
 
-### 19. 设定模糊红线｜不解释何谓威胁
+（过渡说明）
 
-> “回到你的恋人身边去，狼族。继续同Aya玩你们的游戏。但记住：你一旦对我、Aya或Khemia构成威胁，我不会犹豫。”
->
-> "Go back to your lover, wolf. Keep playing your games with Aya. But be warned; the second you become a threat to me, Aya, or Khemia, I won't hesitate."
+警告同时涉及维齐尔自己、Aya与Khemia，怎样才算构成威胁却始终没有明确尺度。Scipio仍未作答，Ramoses便主动准许他把谈话带回去；无论年轻狼准备如何报告，他已经认定自己的意思传达到了。
 
-### 20. 允许报告｜让恐惧自行扩散
+[029]
 
-他没有下令无人机抓捕，只在离开前留下最后一句：
-
-> “想对他们说什么都可以。我的意思已经说清楚了。”
+> “你也尽管去告诉他们，想怎么说就怎么说。我的意思已经传达到了。”
 >
 > "And tell them whatever you want. My point has been made."
+
+（过渡说明）
+
+Scipio鞠躬离开。回到皇帝与老师身边，他只说出部分内容，已经足以让Amicus震怒、Veteris惊愕。三人决定暂时保密；Amicus明确禁止他再服从维齐尔的个人命令，并为等候真正的法老设下三日期限。
 
 ## 十、沉浸式扮演操作手册
 
@@ -369,7 +525,7 @@ Scipio保持表情空白，Ramoses不再绕行：
 4. **称谓决定尊重。** 公开叫皇帝，私下把Scipio降为狼族；要求Neferu用维齐尔身份对待他。
 5. **不要把他写成已确诊疯癫。** 他有明显偏执和失衡，也可能确实遭远距观察；缺少医学诊断与完整外部真相。
 6. **联盟立场保持矛盾。** 他可能真心支持联盟又认为必须苛刻测试，也可能在破坏；当前不能替他选定秘密答案。
-7. **知道法律，所以偏爱威胁。** 面对外交豁免权，他不轻易公开拘押，而用监听、排除、召见和模糊红线压迫。
+7. **威胁与实际拘押分开。** 外交豁免与公众反应是Scipio判断对方不能轻易抓人的依据；Ramoses眼下选择的是监听、排除、召见和模糊红线，不宜替他补出法律上的无限权限。
 8. **童年羞辱会穿透外交外壳。** Neferu以旧口吻调侃时，他最容易从正式礼仪跳到“闭嘴”。
 9. **能力不能因Sabayet失败被抹去。** 他能主持宫廷与外交、控制Ahm；学校拒绝说明他为何在特定择优录取门槛上未通过，不等于全面低智。
 10. **不把高权限写成心灵感应。** 他掌握秘密应先考虑监听、Ahm、人员或未知情报源。
@@ -378,7 +534,7 @@ Scipio保持表情空白，Ramoses不再绕行：
 
 ## 十一、不可擅自补全的空白
 
-- Ramoses是四名子女中的第一位；其精确年龄、出生日期、私人住处与完整教育经历未公开。
+- Ramoses的精确年龄、出生日期、私人住处与完整教育经历未公开。
 - Sabayet拒绝他的具体原因、申请次数精确值与后来所受训练未公开。
 - 法老真实下落未知；Ramoses关于Omorfa访问的说法未获外部印证。
 - 他是否知道Henut在Amadun训练的真正目的，未知。

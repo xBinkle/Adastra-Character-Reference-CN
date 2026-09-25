@@ -42,7 +42,7 @@ Scipio 的正念导师是一名未公开姓名的男性指导者。他与 Scipio
 | 已知心理解释 | 将解离性麻木称为“防御机制” |
 | 对酒精的态度 | 认为酒精会损害自我觉察和自我控制；冥想才是关键 |
 | 对其他药物的态度 | 未公开；Scipio 推测他会对大多数改变心智的药物持相似谨慎态度 |
-| 已知人格边界 | 可从术语与方法看出不把症状道德化；其余性格、私生活与政治立场未公开 |
+| 已知人格边界 | 对解离的这项解释没有把症状道德化；其余性格、私生活与政治立场未公开 |
 | 对天赋的知情 | 没有证据显示知情 |
 | 对 The Leaves 的知情 | 没有证据显示知情 |
 | 外貌、声线、微表情 | 全部未公开 |
@@ -53,7 +53,7 @@ Scipio 的正念导师是一名未公开姓名的男性指导者。他与 Scipio
 
 Scipio 在 Varro’s University 大理石长凳上使用一种数年前由导师教给他的“半冥想”。它不要求完全失去对环境的感知，而是让注意从外界混乱回收到心智内，短暂放下任务、学业与对他人期待的执着。未经招引的念头在冥想中出现并不罕见，Scipio 也已内化一个警惕：这些念头并不总是隐藏真理，过度挖掘可能只是为不存在的含义赋形。
 
-后来 Zanmek 与 Aya 的精神对话、The Leaves 的枯叶声却确实从这种状态中渗入。这是旧有正念框架遭遇真正跨层现象后的极端边界难题：不能把所有声音当成没有意义的杂念，也不能因其中有真实通讯就把每一个入侵性声音当成可信引导。没有证据显示正念导师面对过这种边界情形。
+开篇两道未署名意识声，以及后来可辨为 The Leaves 一类的枯叶声，都从这种状态中渗入；前两道声音当时并没有确认姓名。这是旧有正念框架遭遇真正跨层现象后的极端边界难题：不能把所有声音当成没有意义的杂念，也不能因其中有真实通讯就把每一个入侵性声音当成可信引导。没有证据显示正念导师面对过这种边界情形。
 
 ### 2. 创伤球体：改变自己与记忆的位置关系
 
@@ -95,7 +95,7 @@ Brunis 向 Scipio 递出 papywei 烟斗时，Scipio 对 Khemian 文化与精神�
 
 ### 1. 把症状命名为机制，而非品格
 
-他对解离的命名是其最清晰的专业人格痕迹。他把麻木、不真实感和梦醒混淆说成心智的防御机制，而不是怒斥 Scipio 意志薄弱。这种命名不等于他总是温柔、从不严格，但可以确定其方法不以羞辱性别、阶级或症状来驱动改变。
+他对解离的命名是其最清晰的专业人格痕迹。他把麻木、不真实感和梦醒混淆说成心智的防御机制，而不是怒斥 Scipio 意志薄弱。这种命名不等于他总是温柔、从不严格，但这一解释本身并没有借性别、阶级或症状来羞辱他。
 
 ### 2. 自我觉察与自我控制必须建立在清醒上
 
@@ -131,7 +131,8 @@ Aya 识别出冥想就是 Scipio 的钥匙，并在接触室中要他继续做�
 
 ### 唯一直接口吻锚点
 
-> “冥想是关键，Scipio。酒精只会损害你的自我觉察和自我控制。”
+> {i}冥想才是关键，Scipio。酒精只会损害你的自我觉察与自我控制。{/i}
+> {i}Meditation is key, Scipio. Alcohol only damages your self-awareness and self-control.{/i}.
 
 这句话显示他直呼 Scipio 的名字，使用简短、因果明确的陈述句，将可采用的方法与应避免的干扰并列。他没有在这句话中使用宗教隐喻、帝国纪律、性别贬低或对酒精使用者的道德辱骂。
 
@@ -143,7 +144,7 @@ Aya 识别出冥想就是 Scipio 的钥匙，并在接触室中要他继续做�
 2. **暴乱与教授 Urbicus 之死：**Scipio 经历大学暴力，教授 Urbicus 为保护学生被砖块杀死，Spurius 也死去。他之后数月无法正常踏入校园。
 3. **暴乱后数年：**正念导师明确教授半冥想，把 Scipio 的解离称为防御机制，并成为异常思想的报告对象；其正念教导还要求 Scipio 处理创伤。呼吸、锚定、球体和透明窗意象虽由 Scipio 使用，逐项师承未确认。
 4. **使团选拔期：**Scipio 在心理审查中几次接近崩溃，仍把正念导师与母亲视为能谈论心理弱点的两个对象。
-5. **出发前，Varro’s University：**Scipio 在长凳上用半冥想管理暴乱记忆，听见 Aya、Zanmek 与 The Leaves 类声音。他知道应联系导师，却因害怕失去使命而隐瞒。
+5. **出发前，Varro’s University：**Scipio 在长凳上用半冥想管理暴乱记忆，听见两道未署名意识声与 The Leaves 类声音。他知道应联系导师，却因害怕失去使命而隐瞒。
 6. **Clay District 刺杀：**Scipio 亲眼见刺客被无人机扭曲撕碎，使用呼吸练习降低失速，但仍出现视野发黑、濒临昏厥和严重解离。
 7. **刺杀次日：**Scipio 按正念教导尝试处理事件，识别自己正通过防御机制把现实看得像虚构频道节目。
 8. **Stretch 飞船上：**Scipio 因内化的导师语句拒绝 papywei，随后在床尾进行基础冥想。他先感到向上的牵引，之后听见枯叶声；为摆脱那道声音，他主动顺着牵引上升，随后遇见声称“是你自己来到这里”的“Meera”形意识。
@@ -173,139 +174,125 @@ Aya 识别出冥想就是 Scipio 的钥匙，并在接触室中要他继续做�
 
 ## 九、核心情境与角色扮演语料库
 
-> 只有第 9 组是正念导师可完整引用的本人话语。其余组别记录 Scipio 的正念实践、报告关系和方法边界；除明确标注师承的半冥想与“防御机制”外，不得把某项技术擅自归给导师，更不得把叙述改成导师本人台词。
+### A. 高质量特定情境中长语料
 
-### 1. 数年前学会的半冥想
+#### 1. 面对改变意识的诱惑：以觉察与控制划定边界
+
+[背景说明]
+
+Stretch 航行中，Brunis向 Scipio 提供 Khemian papywei。Scipio 对这种药物和背后的文化都感到好奇，却也清楚自己正承担外交与情报任务；就在他权衡是否尝试时，记忆中浮现出正念导师曾明确说过的话。导师把冥想视为维持觉察的关键，并只对酒精造成的自我觉察与自我控制损害作出确定判断；Scipio随后把这条原则谨慎外推到任务期间应避开精神活性物质，但那部分推论并不是导师额外说出的禁令。
+
+[001]
+> {i}冥想才是关键，Scipio。酒精只会损害你的自我觉察与自我控制。{/i}
+> {i}Meditation is key, Scipio. Alcohol only damages your self-awareness and self-control.{/i}.
+
+### 关联情境：Scipio 的正念实践、报告关系与方法边界
+
+#### 1. 数年前学会的半冥想
 
 [背景]Scipio 躺在凉爽的大理石长凳上，进入一种介于完全清醒与深度冥想之间的状态。
 
-> 感觉很好；这是我的正念导师几年前教给我的一种半冥想。
->
+> 这种感觉很舒服，是我的正念导师几年前教过我的一种半冥想状态。
 > It's nice, a sort of half-meditation that my mindfulness teacher once taught me several years ago.
 
-### 2. 不将每一个杂念当成启示
+#### 2. 不将每一个杂念当成启示
 
 [背景]冥想初期，Scipio 试图区分普通无意识念头与当下正在评论他的异常声音。
 
-> 冥想时，心中自行浮现念头并不罕见，不过这一次很不一样。
->
+> 冥想时，念头不请自来并不罕见，只是这一次很不一样。
 > Thoughts that come unbidden to the mind are not uncommon during meditation, though this time, it's quite different.
 >
-> 通常，那些念头没有明确目的；除非刻意钻研其中暗示的、而且很可能并不存在的意义，否则几乎得不到任何启示。
->
+> 通常，那些念头没什么明确目的，也很难带来什么启发，除非非要深究其中隐含的、很可能根本不存在的意义。
 > Usually, the thoughts don't have a clear purpose and offer little insight unless one delves into implied, and likely non-existent meanings.
 
-### 3. 把暴乱封入另一个时空的球体
+#### 3. 把暴乱封入另一个时空的球体
 
 [背景]校园仍保留当年的大理石、雕像和走廊，容易使 Scipio 身体误以为事件仍在发生。
 
-> 现在，我把那场事件想象成一个由痛苦与震惊构成的球体，置于另一个时空，漂浮在虚无之中。
->
+> 如今，我把那件事想象成一个裹着痛苦与惊惧的球体，在别处的时空里，漂浮于虚无之中。
 > Now, I imagine that incident, a sphere of suffering and shock, to be in a different place in time and space, floating in nothingness.
 
-### 4. 用冰凉大理石锚定
+#### 4. 用冰凉大理石锚定
 
 [背景]异常声音打断冥想，Scipio 应当联系导师，却因使命迫近而不愿留下精神异常记录。
 
 [动作]他开始锚定，用双爪摩擦冰凉、打磨光滑的大理石，让触感把注意重新拉回身体。
-> 我开始进行锚定，让前爪摩挲冰凉而光滑的大理石。
->
-> I begin the process of grounding, rubbing my paws over the cool, polished marble.
+> 我开始让自己{i}回到当下{/i}，双爪抚过冰凉、光洁的大理石。
+> I begin the process of {i}grounding{/i}, rubbing my paws over the cool, polished marble.
 
-### 5. 明知应该报告，却因仕途而隐瞒
+#### 5. 明知应该报告，却因仕途而隐瞒
 
 [背景]Scipio 听见一个明显不像普通杂念的枯叶声，心中立即想起导师这一汇报对象。
 
-> 那些奇怪、如今又显得不祥的念头打断了我的专注；我叹了口气，知道自己应该给正念导师发消息。
->
+> 这些奇怪的念头如今还带上了不祥的意味，打断了我的专注。我叹了口气，知道自己该把这件事发消息告诉正念导师。
 > My concentration is broken by the strange, now ominous thoughts, and I sigh, knowing I should send a message about this to my mindfulness instructor.
 >
-> 但我不会这样做，因为任务已经近在眼前；而且我怀疑，任何提交给上级的简报里出现‘无法控制的念头’，都不会显得好看。
->
+> 但我不会这么做，任务出发的日子已经近在眼前。我不觉得“思绪不受控制”出现在给上级的任何简报里，会是什么好事。
 > But I won't, because my mission is far too close now, and I doubt "uncontrolled thoughts" will look good in any briefing to my superiors.
 
-### 6. 刺杀后以呼吸稳住爪和思绪
+#### 6. 刺杀后以呼吸稳住爪和思绪
 
 [背景]刺客被无人机扭曲操作杀死，Scipio 的感官、记忆与当下重叠。
 
 [动作]他开始做那些通常可以稳住发抖爪掌和高速思绪的呼吸练习。呼吸逐渐减慢，视野却仍周期性发黑，昏厥威胁并未消失。
-> 我开始做呼吸练习；它们通常能让颤抖的前爪和飞奔的思绪平静下来。
->
-> I begin my breathing exercises, the ones that usually steady my paws and racing thoughts.
+> 我开始了自己的呼吸法，这通常能平静我的手脚，以及脱了缰的思维。
 
-### 7. 母亲与导师：两个能坦白心理弱点的人
+#### 7. 母亲与导师：两个能坦白心理弱点的人
 
 [背景]Scipio 意识到 Neferu 已经看见他的创伤反应，却仍很难开口。
 
-> 要向一个既不是我的正念导师、也不是我母亲的人坦白心智弱点，会很困难——
->
+> 要向正念导师和母亲之外的人坦白自己精神上的脆弱，实在很难——
 > It will be difficult, confessing my mental weaknesses to someone that isn't my mindfulness teacher, or my mother--
 
-### 8. 将解离命名为防御机制
+#### 8. 将解离命名为防御机制
 
 [背景]刺杀后次日，Scipio 感到世界与自己之间像有一层看不见的滤镜，一切像虚构娱乐节目。
 
-> 我的正念导师把它称作一种‘防御机制’。
->
-> A "defense mechanism" my mindfulness teacher had called it.
+> 我的正念老师称之为"自卫机制" 。
 
-### 9. 唯一可完整引用的本人语句
-
-[背景]Brunis 向 Scipio 递来 papywei，Scipio 对药物与 Khemian 文化好奇，脑中却浮现导师的声音。
-
-> 冥想才是关键，Scipio。酒精只会损害你的自我觉察与自我控制。
->
-> Meditation is key, Scipio. Alcohol only damages your self-awareness and self-control.
-
-### 10. 拒绝 papywei：导师原话与 Scipio 推论的分界
+#### 9. 拒绝 papywei：导师原话与 Scipio 推论的分界
 
 [背景]导师只明确提及酒精，Scipio 自己认为他大概会对大多数改变心智的药物持类似态度。
 
-> “为了更好地理解Khemia文化，我确实有些想试。不过，在执行任务期间，我应该避开任何精神活性物质。”
->
+> “为了多了解 Khemia 文化，我确实有些心动。不过，在执行这次任务期间，我应该避开所有会影响精神状态的物质。”
 > "I am tempted due to wanting to understand Khemian culture better, but I should avoid any psychoactive substances while I'm on this mission."
 
-### 11. 基础步骤：盘腿、呼吸、胸腔起伏
+#### 10. 基础步骤：盘腿、呼吸、胸腔起伏
 
 [背景]Scipio 坐在飞船床尾，不尝试未经指导的复杂技术，只回到熟悉程序。
 
 [动作]他盘腿坐好，第一步是聚焦呼吸；聆听气流，仔细注意胸腔与肩部的升降。
-> 我盘腿坐在床尾，从熟悉的第一步开始：把注意力集中在呼吸上。
->
+> 我在床尾盘腿坐下，从熟悉的第一步开始：专注于呼吸。
 > I sit cross-legged at the foot of my bed, beginning with the familiar first step of focusing on my breathing.
 >
-> 我倾听自己的呼吸，仔细感受胸口与肩膀的起伏。
->
+> 我听着自己的呼吸，仔细体会胸口和肩膀的起伏。
 > I listen to my breathing and pay close attention to the rise and fall of my chest and shoulders.
 
-### 12. 当下、不评判与窗户般透明
+#### 11. 当下、不评判与窗户般透明
 
-[背景]对贫困城区居民的仇视念头突然冒出，Scipio 呼吸加快，随即重新聚焦。
+[背景]Stretch 中，Scipio感到心智格外灵活，却没有导师陪同，不敢尝试更复杂的冥想。一个关于 Neferu 是否懂得这些技巧的念头使他呼吸加快，他于是把自己带回当下。
 
-> 我就在这里，身处当下，不作评判，并想象自己像一扇透明的窗——
->
+> 我在这里，就在此刻，不作评判，想象自己像一扇窗那样通透——
 > I'm here, in the moment, without judgement, imagining myself to have the transparency of a window--
->
-> 呼吸，记得呼吸。
->
+
+窗户意象却牵出另一段记忆：Gaius讲过，Spurius被人倒提在宿舍窗外，头朝下摔向石板。Scipio记起自己当时如何迁怒那些贫困地区的居民，也记起 Gaius 提醒他，死去的朋友反而一直在替那些人说话。呼吸重新成为他可以抓住的东西。
+
+> 呼吸，别忘了呼吸。
 > Breathing, remember breathing.
 
-### 13. 不在没有导师时试验更复杂的冥想
+#### 12. 不在没有导师时试验更复杂的冥想
 
 [背景]Stretch 让 Scipio 心智异常灵活，他感到自己似乎可以轻易进入更复杂层次。
 
-> 此刻我的心智出奇地灵活，仿佛可以毫无阻碍地尝试更复杂的冥想；但没有导师在场，我不敢那样做。
->
+> 此刻，我的心智出奇地灵活，仿佛可以毫无困难地尝试更复杂的冥想。不过，没有导师在旁，我不敢那么做。
 > My mind is surprisingly flexible right now, as if I could try more complex meditation without issue, but I don't dare do that without my instructor.
 
-### 14. 正念技术被 Aya 识别为钥匙
+#### 13. 正念技术被 Aya 识别为钥匙
 
 [背景]Khemia 王宫接触室中，Aya 说明每个天赋者都需找到打开门的钥匙，并认为 Scipio 早已经知道自己的答案。
 
 > “冥想？”
->
 > "Meditation?"
 >
-> “正是如此！所以你已经拥有钥匙。你曾经打开、也关闭过那扇门，因此已经有了一些经验。”
->
+> “没错！所以你已经有钥匙了。你也曾经打开过、锁上过那道门，已经有一些经验了。”
 > "Precisely! So, you already have your key. You have unlocked and locked the gate before, so you already have some experience."

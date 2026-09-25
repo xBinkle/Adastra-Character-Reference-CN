@@ -6,7 +6,7 @@ Khemian Pharaoh 是 Khemia 当代名义上的最高统治者，Henut、Ramoses�
 
 可以确定的过往决定构成一个复杂、并不慈爱化的统治者形象：他对未成年末期至刚成年的 Neferu 参与 Children of Sahira、盗用王室资金并间接造成数十人死亡作出极严厉的反应：把儿子封禁在王宫地牢中数月，整个囚禁期接近一年，同时将他的涉案从公众与一般司法后果中隐瞒。在 Aya 说服他放弃长期地牢处理后，他又为 Neferu 提出一套历时五年的密集 Adastran 语言与历史学习，最后把这名曾经的反狼分离主义者派成战后百余年第一位踏上 Adastra 的 Khemian，负责为联盟迈出第一步。这一安排同时是家庭惩罚、政治改造、秘密平息和长线外交投资。
 
-可以确定的当代状态却只有“无法核实”。他至少一年没有在 Khemia 公开露面，约两年没有可信的对外近况，Neferu 本人上次见到父亲已经是约三年前。Ramoses 声称 Pharaoh 正在进行星际旅行，并在使团抵达时“即将结束对 Omorfa 的访问”；可这次访问没有出现在理应会报道的星际新闻中，而刚从 Omorfa 逃回的 Cassius 也完全没听说 Pharaoh 到访，尽管他当时的所处位置理应使他有机会得知。
+可以确定的当代状态却主要是几份仍不能拼成完整行踪的消息。据 Virginia 所知，他已经一年没有在 Khemia 公开露面；Cassius 能回忆起的最后一次消息约在两年前，Neferu 本人上次见到父亲则是约三年前。Ramoses 声称 Pharaoh 正在进行星际旅行，并在使团抵达时“即将结束对 Omorfa 的访问”；可这次访问没有出现在理应会报道的星际新闻中，而刚从 Omorfa 逃回的 Cassius 也完全没听说 Pharaoh 到访，尽管他当时的所处位置理应使他有机会得知。
 
 因此，“在 Omorfa”、“旅行全 Galaxias”、“几日内归来”都只是 Ramoses 方面的对外说法，不是已证实行程。他可能正在执行不得公开的任务，也可能失去自由、失去行动能力、遭遇危险或已经死亡；这些都只是未排除的可能，不得写成其中任一种已经发生。
 
@@ -45,7 +45,7 @@ Khemian Pharaoh 是 Khemia 当代名义上的最高统治者，Henut、Ramoses�
 | 已知统治工具 | 王宫地牢、家族与国家保密、外交派遣、Ahm 最高权限序列 |
 | 已知法律边界 | 不得监听私人房间；公民可依法批评其统治 |
 | 联盟关系 | 曾接受 Adastra 开始外交使团的请求；后续谈判停滞，他本人未出现 |
-| 最近可信状态 | 约两年无可信公开近况；至少一年未在 Khemia 公开露面 |
+| 最近可信状态 | Cassius 约两年未闻其消息；Virginia 所知为一年未在 Khemia 公开露面 |
 | 子女私下接触 | Neferu 约三年未见他；之前的见面也很短，常用于下达任务 |
 | 官方行踪说法 | Ramoses 声称他在进行星际旅行、访问 Omorfa、几日内归来；均未获外部印证 |
 | 当前生死 | 未公开；不得宣布已死、被囚或健在 |
@@ -62,6 +62,8 @@ Pharaoh 处于 Khemian 国家顶端。Vizier 是其下最高级官员，掌握�
 
 Brunis 对 Scipio 说，Ahm 在所有人之上首先听从 Pharaoh，因而宫廷设备在技术上可能为统治者提供更高访问。具体记音能力在该段对话中仍是 Brunis 的不确定推测，但 Pharaoh 处于 Ahm 权限顶端与 Khemian 国家结构一致。
 
+此外，Neferu 在 Adastra 时解释过，真正联系 Parents 通常要依靠能跨越维度的 Parent 科技；这种设备一般只由一人使用，狼族是皇帝，Khemia 则是 Pharaoh。这是国家最高职位的科技访问渠道，与 Aya 的天赋接触并不是同一种能力；Pharaoh 本人使用设备的经过没有展现。
+
 ### 3. 明确法律边界
 
 Khemian 公民有权批评 Pharaoh，外交人员享有豁免，私人房间依法不得被监听。Neferu 在 Ramoses 疑似监控宫廷时明确说：“连 Pharaoh 也不能监听私人房间。”因此，任何将 Pharaoh 写成不受法律约束的神权绝对君主都会破坏 Khemia 的制度边界。他可能违法，却不能把违法重写为权力天然允许。
@@ -73,6 +75,8 @@ Khemian 公民有权批评 Pharaoh，外交人员享有豁免，私人房间依�
 Neferu 约三年没有见到父亲；在那之前，他们的见面也通常很短，主要是 Pharaoh 向他下达某项任务。这不能直接证明 Pharaoh 不爱子女，却可以确定他对至少 Neferu 的父子关系被国家职责、惩罚和任务分配强烈塑形。
 
 Neferu 认为父亲的气质远比 Ramoses 好，也认为父亲长期离家不是全然反常。这是一名三年未见父亲、又曾被父亲秘密囚禁的儿子的个人评价；它能反映父子之间的复杂依恋，却不能充当对 Pharaoh 全部人格的中立测量。
+
+Aya 则留下了一项很具体的生活习惯：父亲在有杂音干扰时很难集中注意力，于是让人给宫殿大部分表面覆上一层吸收、消除声音的纳米材料。王宫不同寻常的安静，正是他个人需要留在环境中的痕迹；这不等于已经确认某种疾病。
 
 ### 2. Neferu 案：严厉惩罚、王室遮掩与改造性外交
 
@@ -104,7 +108,7 @@ Veteris 与 Adastran 公众普遍把 Neferu 派驻视为 Pharaoh 对儿子的惩
 
 ### 3. 保密是统治工具，但不能推定所有失联都是他的主动选择
 
-他能隐藏 Neferu 在 Children of Sahira 案中的涉入，又让家族继承训练保持敏感，说明其统治依赖王室内部保密。但这不能用来直接证明他目前两年的消息空白是有意隐身。过去有保密能力，不等于当前一定在主动控局。
+他能隐藏 Neferu 在 Children of Sahira 案中的涉入，又让家族继承训练保持敏感，说明其统治依赖王室内部保密。但这不能用来直接证明Cassius 所说的两年消息空白是有意隐身。过去有保密能力，不等于当前一定在主动控局。
 
 ### 4. 联盟立场有过去决策支持，当下态度却不能由 Ramoses 代言
 
@@ -139,11 +143,11 @@ Pharaoh 曾接受开始 Adastran 外交使命的请求，却在几年筹备后�
 | 相对时间 | 可确认事实 | 不能越界的结论 |
 |---|---|---|
 | 约三年前 | Neferu 最后一次见到父亲；之前交流往往短促而任务化 | 不能说所有王室成员也同时三年未见 |
-| 约两年前 | Cassius 能回忆的最后一批 Pharaoh 消息约在此时；对外可信近况中断 | 不能把“无新闻”当成死亡日期 |
+| 约两年前 | Cassius 能回忆的最后一批 Pharaoh 消息约在此时；这是 Cassius 当时所知的范围 | 不能把“无新闻”当成死亡日期 |
 | 过去至少一年 | Pharaoh 未在 Khemia 公开露面；Ramoses 说他在旅行 Galaxias | 不能将旅行说法当成已核实行程 |
 | Marco 离开 Adastra 后的宫廷汇报 | Scipio 向 Amicus 报告，Pharaoh 已接受 Adastran 使团请求 | 只能证明一项以 Pharaoh 名义获接受的政治决定，不能反推其亲自传话方式 |
 | Khemia 使命出发前数月 | 与 Vizier 及 Pharaoh 的讨论停滞约三个月；Amicus 决定亲赴 Khemia | 不能确定 Pharaoh 本人在停滞期亲自参与了每次讨论 |
-| 使团抵达 Khemia | Ramoses 声称 Pharaoh 正结束 Omorfa 之行，可在他返回前先与自己推进谈判 | 无外部新闻、无 Omorfa 记录、无确切归期 |
+| 使团抵达 Khemia | Ramoses 声称 Pharaoh 正结束 Omorfa 之行，可在他返回前先与自己推进谈判 | 无公开新闻印证，Cassius 在 Omorfa 时也未闻其到访；没有确切归期 |
 | 抵达后第一日 | Ramoses 将归期说成“几日内”；使团发现该说法与先前相同，没有实质进展 | 不能预设是普通行程延误还是有意欺骗 |
 | 抵达后第二日 | Amicus 给出三日期限：真正 Pharaoh 不出现就离开 | 三日后的结果未公开 |
 
@@ -167,7 +171,7 @@ Pharaoh 没有任何本人直接语料。他说话是长是短、是否使用 Kh
 - 不宣布 Ramoses 绑架或谋杀了他，也不宣布他与 Omorfan 行动合谋。
 - 不宣布 Henut 已是法定继承人。
 - 不把对 Neferu 的地牢囚禁写成公开法庭判决，也不把五年训练写成完全宽恕。
-- 不让他拥有 sakhaet 或 dakhur 能力，不让他直接与 Parents 对话或预见未来；没有任何这类证据。
+- 不把 Pharaoh 的 Parent 科技访问资格写成 sakhaet 或 dakhur 天赋，也不据此补造具体的神谕对话或预知经历。
 - 不把对外“旅行”说法当作实锤，也不把消息空白当作死亡证明。
 
 ## 十、经典情境与间接语料库
@@ -178,20 +182,20 @@ Pharaoh 没有任何本人直接语料。他说话是长是短、是否使用 Kh
 
 [背景]使团飞船上，Scipio 询问王室成员是否能自动获得 Sabayet 学位。Neferu 说录取取决于能力，又用 Ramoses 的失败说明父亲的路径不可只靠身份复制。
 
-> “不，录取只看能力。我的父亲、母亲和长姐都曾在那里就读。王族身份确实能让备考容易得多，但不是每个人都有那种能力。”
->
+> “不，只按能力录取。我父亲、母亲，还有姐姐都读过。不过，即使身在王室让准备容易得多，也不是人人都能考进去。”
 > "No, acceptance is based on merit alone. I mean, my father, mother, and my elder sister attended, and while being a royal makes it far easier to prepare, not everyone is capable."
 >
-> “噢，Aya有不同的志向。Ramoses却没有。他想沿着父亲的道路前进，为成为Pharaoh作准备。”
->
+
+Scipio想到Aya也没有入读Sabayet，便觉得Ramoses至少还有一名手足与自己作伴。
+
+> “哦，Aya 另有志向。Ramoses 可没有。他想照着父亲的路走，为当法老做准备。”
 > "Oh, Aya has different ambitions. Ramoses, on the other hand, did not. He wanted to copy our father's path in preparation for becoming pharaoh."
 
 ### 2. Neferu 被派往 Adastra 的公开印象
 
 [背景]Adastra 方面长期知道 Neferu 与家庭关系糟糕，但不知道 Children of Sahira 真相。Veteris 将使命粗简解释为父亲对儿子的处置。
 
-> “如果真是那样，Khemia权力最顶层就存在一些严重问题。再说，所有人都知道，Pharaoh把他派到这里是为了惩罚他。”
->
+> “真要如此，那 Khemia 最高权力层可就有大问题了。何况，谁都知道法老把他送来，是为了惩罚他。”
 > "If they are, then there are some serious issues in the uppermost echelons of Khemian power. Besides, everyone knows the pharaoh sent him here as a form of punishment."
 
 ### 3. 以 Pharaoh 名义接受外交使团
@@ -204,124 +208,117 @@ Pharaoh 没有任何本人直接语料。他说话是长是短、是否使用 Kh
 
 [背景]数年筹备后，与 Vizier 和 Pharaoh 的讨论停滞了三个月。Amicus 决定亲赴 Khemia，Neferu 将其视为对父亲苛刻条件的让步。
 
-> “众所周知，过去几个月，我们与Vizier和Pharaoh的讨论已经陷入停滞。”
->
+> “诸位都知道，这几个月，我们与维齐尔及法老的商谈一直停滞不前。”
 > "As you all know, our discussions with the vizier and pharaoh have stalled over the past few months."
 >
-> “为了让Khemia看见Adastra对联盟的真正投入——”
+> "为了向克希米亚证明阿达斯特拉衷心致力于联盟-"
 >
-> "To show Khemia that Adastra is truly dedicated to an alliance--"
->
-> “我也将加入使团，尽管这会给我们的帝国带来许多困难。我相信收益将会超过代价。Khemia已经接受了我的请求。”
->
+> “我也将随使团一同前往。这虽会给帝国带来诸多困难，但我相信，收益终究会大于代价。Khemia 已接受了我的请求。”
 > "I will also be joining the envoy despite the many hardships it will bring our empire. I do believe the benefits will outweigh the cost. Khemia has accepted my request."
 >
-> “噢，所以你会和我们同行？我很惊讶；就算是我，也不会这么轻易向父亲那些自大而不合理的要求让步。”
->
-> "Oh, so you'll be joining us? I'm surprised, even I wouldn't have given in to Father's pompous and unreasonable demands so easily."
+> “哦，你也要跟我们一起去？真让我意外。父亲那些傲慢无理的要求，就连{i}我{/i}都不会这么轻易答应。”
+> "Oh, so you'll be joining us? I'm surprised, even {i}I{/i} wouldn't have given in to Father's pompous and unreasonable demands so easily."
 
 ### 5. Ramoses 在迎接仪式中代替父亲发言
 
 [背景]使团在 Khemia 烈日下等待后，Ramoses 出面迎接。Pharaoh 未在场，Ramoses 却以其名义定义国家态度。
 
-> “不过，即使你们早到也不会构成问题。此刻你们以和平姿态站在这里，才是Pharaoh与其人民看重的一切。”
->
+> “不过，即使早到一些，也没有关系。您如今为和平而来，对法老及其人民来说，这才是最重要的。”
 > "However, it would not have been a problem if you had been early. The fact that you are here now, on peaceful terms, is all that matters to the pharaoh and his people."
 
 ### 6. “正在结束 Omorfa 之行”的未证实说法
 
 [背景]首次欢迎中，Ramoses 向 Amicus 说明为什么只能由 Vizier 谈判。
 
-> “Pharaoh仍在为Omorfa之行收尾，不过在此期间，我们两人之间仍然可以取得进展。”
->
+> “法老对 Omorfa 的访问还在收尾，不过在此期间，我们二人仍然可以推动进展。”
 > "The pharaoh is still wrapping up his visit to Omorfa, but progress can still be made between the two of us in the meantime."
 
 ### 7. Cassius 从 Omorfa 带回的反证
 
 [背景]Virginia 在 Adastra 摄政，发现外部行动与宫廷失联产生可疑重叠。Cassius 刚从 Omorfa 逃回。
 
-> “你听说他在访问Omorfa吗？他本应与你同时在那里。”
->
+> “你听说他去 Omorfa 访问了吗？按说，你在那里时，他也该在那里。”
 > "Did you hear he was visiting Omorfa? He was supposed to be there at the same time you were."
 >
-> “没有。我连他的名字都没听人提起，而考虑到我所在的地方，我本来应该会听说。”
->
+> “没有，连提都没听人提过。考虑到我当时待的地方，我本该听到的。”
 > "No, I didn't even hear mention of him, and I should have, considering where I was."
 
 ### 8. 一年未公开露面、两年无可信消息
 
-[背景]Virginia 把已知时间整合给 Cassius，明确将事实与 Ramoses 的解释分开。
+[背景]Virginia 追问 Pharaoh 上次公开出现是什么时候；Cassius 先回想自己最后听到消息的大致时间。
 
-> “我不完全确定，但我上一次听到他的消息，大概是两年前。”
->
+> “这个我不太确定，不过最后一次听到他的消息，大概是两年前。”
 > "I'm not fully sure on that, but last I heard about him was maybe two years ago."
->
-> “而且，据Vizier所说，他因为某种原因一直在银河间旅行，已经整整一年没有在Khemia公开露面。”
->
+
+
+Virginia又追问 Omorfa 行程，Cassius确认在那里也未曾听说。她接着把自己掌握的一年公开露面空白，与Vizier不断给出的旅行解释放在一起。
+
+> “而在 Khemia，他也整整一年没有公开露面了，说是因为种种缘故，在银河各地访问。可这些消息，全都来自维齐尔的说辞。”
 > "And he hasn't made any public appearance on Khemia for a year due to traveling the galaxy, for one reason or another. This is all based on the vizier's statements."
 
 ### 9. Neferu 的三年空白与父子任务化交流
 
 [背景]Scipio 私下问 Neferu，Pharaoh 何时才会抵达。Neferu 不知道具体行程，但说明自己与父亲的实际联系强度。
 
-> “我上次见到父亲应该是三年前。即使见到他，也往往只是一段很短的会面，通常只是为了交给我某项任务。他这样做并不反常。”
->
+> “我上次见父亲，大概还是三年前。而且每次见他都很短暂，通常只是给我派个任务。他这样做，并不反常。”
 > "The last time I saw my father must have been three years ago, and the times I did see him were very brief, usually to give me some sort of task. This is nothing unusual for him to do."
 >
-> “不过，是的，父亲的气质远比我兄长好。即便如此，Ram确实坚定支持联盟，这一点我至少可以确认。”
->
+> “不过没错，他的脾气比我哥哥好得多。可 Ram 确实坚决支持结盟，至少这一点，我知道是真的。”
 > "But yes, he has a far better temperament than my brother. Still, Ram is solidly behind the alliance, that I at least know to be true."
+
+
+父亲的脾气之外，宫殿里还有一项由他留下的个人安排。稍后 Scipio 向 Aya 提起这里格外安静，她说明了缘由：
+
+> “这就得归功于我父亲了。一有杂音干扰，他就很难集中注意力，所以让人给宫里大部分表面都覆上一层纳米材料，用来吸收、消除声音。”
+> "You have my father to thank for that. He had a very difficult time paying attention when there were distracting sounds. He had most of the palace's surfaces covered in a layer of nanomaterial that absorbs and cancels the sound."
 
 ### 10. 对 Neferu 的地牢惩罚
 
 [背景]Khemia 第二日夜，Neferu 向 Scipio 坦白自己曾助长 Children of Sahira 的经过。
 
-> “我当然受到了严厉惩罚。父亲甚至把我封在王宫地牢里数月。说实话，我当时以为自己会死。”
->
+> “当然，我受到了严厉的惩罚。父亲甚至把我锁在宫里的地牢里，好几个月。说实话，我当时以为自己会死。”
 > "I was punished severely, of course. Father even sealed me in the palace dungeon for months. I thought that I was going to die, to be honest."
 >
-> “我被囚禁了将近一年，随后父亲带来一个提议：学会一切与Adastra有关的事。”
->
+> “我被关了将近一年，后来父亲来找我，提出一个方案：把关于 Adastra 的一切都学会。”
 > "I spent nearly a year imprisoned, then Father came to me with a proposal; learn everything there is to know about Adastra."
 
 ### 11. 五年学习后的联盟使命
 
 [背景]Neferu 将父亲的替代惩罚与自己后来的改变连接起来。
 
-> “接下来的五年里，我进行了密集学习。掌握语言与历史以后，我被派去成为战争以来第一位访问Adastra的Khemia人，并迈出建立联盟的第一步。”
->
+> “接下来的五年里，我一直在潜心学习。等掌握了语言和历史，我就被派往 Adastra，成为战后第一位到访的 Khemia 人，同时为结盟迈出第一步。”
 > "For the next five years, I studied intensively, then after I'd learned the language and history, I was tasked with being the first Khemian to visit Adastra since the war, along with taking the first steps toward an alliance."
 >
-> “很多人认为，这只是某种对你的惩罚。”
->
+
+Neferu以此解释自己如今为何留在Adastra。Scipio想到外界对这趟差遣的另一种看法，把疑问问了出来。
+
+> “很多人以为，这只是给你的一种惩罚。”
 > "Many thought it was only meant to be some type of punishment for you."
 >
-> “它的确是惩罚。但这不代表我的诚意是假的。到那时，我对联盟的看法已经彻底改变，因为我看见另一条路只会带来更多痛苦。”
->
+> “的确是。但这不意味着结盟的心意不真诚。到那时，我对联盟的看法已经完全改变了，因为我看得出来，不走这条路，只会有更多苦难。”
 > "It was. But that doesn't mean it wasn't sincere. By then, I had changed my view completely on an alliance, because I saw the alternative was only more suffering."
 
 ### 12. 家族遮掩与 Aya 对惩罚的影响
 
 [背景]Scipio 询问有多少人知道 Neferu 的过去。
 
-> “前半部分？只有我的家人和Brunis知道，仅此而已。即使分离主义团伙被捕，父亲也不知怎样让这件事一直没有进入公众视野。”
->
+> “前半段？只有我的家人和 Brunis。父亲不知用了什么办法，一直把这事压着，就连那个分离主义团伙被捕时，也没泄露出去。”
 > "The first part? My family, Brunis, and that's it. My father kept it under the radar, somehow, even when the separatist ring was arrested."
 >
-> “最终是Aya说服了他，让他接受地牢之外的另一种选择。”
->
+> “最后是 Aya 说服了他，让他找个地牢以外的办法。”
 > "It was Aya who eventually convinced him of an alternative to the dungeons."
 
 ### 13. Henut 继承安排的家庭秘密
 
 [背景]Scipio 以为 Ramoses 是父亲选定的继承人。Neferu 作出否定，Aya 则立即因他透露家族机密而制止。
 
-> “事实上，我很确定他正在为我的长姐作继承准备。”
->
+> “其实，我很确定，他正在培养我大姐来接任。”
 > "Actually, I'm pretty sure he's preparing my oldest sister for it."
->
-> “你不能把我告诉你的敏感家庭秘密随便说出去。你会让我惹上麻烦的！”
->
+
+
+Scipio赞同 Henut 会比 Ramoses 更合适；Neferu自己则不愿坐上王位，正要继续说哥哥的失误终于会给 Henut 带来什么机会，便被走来的 Aya 喝止。她随即点明这些消息为何不能随意外传。
+
+> “我告诉你的那些敏感家事，你不能随便往外说。你会给我惹麻烦的！”
 > "You can't just share sensitive family secrets that I tell you. You're going to get me in trouble!"
 
 ### 14. 三日最后期限
